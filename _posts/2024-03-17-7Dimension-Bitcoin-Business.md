@@ -6,4 +6,4 @@ author:
 - sorukumar
 ---
 
-![2 by 2 to understand Bitcoin Business](/assets/Bitcoin-Business-7-dimension.png)
+![Seven Dimension to understand Bitcoin Businessess](/assets/Bitcoin-Business-7-dimension.png)
