@@ -4,8 +4,6 @@ title: "A framework (2 by 2) to understand Bitcoin & Lightning Companies"
 categories: misc
 ---
 
-# A framework (2 by 2) to understand Bitcoin & Lightning Companies
-
 Here is 2 by 2 framework to look at a Bitcoin start-up that is useful and insightful.
 
 First, I'll lay out the framework, and then we'll go deeper into why it is useful, even though it is simple. This lens to look at companies works for startup founders, employees & VCs.
