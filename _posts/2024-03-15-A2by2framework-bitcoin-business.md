@@ -8,8 +8,7 @@ Here is 2 by 2 framework to look at a Bitcoin start-up that is useful and insigh
 
 First, I'll lay out the framework, and then we'll go deeper into why it is useful, even though it is simple. This lens to look at companies works for startup founders, employees & VCs.
 
-![2 by 2 to understand Bitcoin Business](assets/2by2BitcoinbizMar20.phttps://drive.google.com/file/d/1df8OrS7c7RKk5poSIhZkXhbgEzf569hF/view?usp=sharing)
-
+![2 by 2 to understand Bitcoin Business]({{ 'assets/2by2BitcoinbizMar20.png' | relative_url }})
 
 
 
@@ -19,7 +18,7 @@ It is an important dimension because there is no other segmentation of the user 
 
 Why does segmenting based on who they are targeting make sense? 
 
-Target customers define how the company communicates, behaves, and builds. Just look at the Twitter feed of a Bitcoin company, and you will know who they are talking to. The language and memes that work for Bitcoiners are alien to far-right no-coiners. Companies that are targetting 'no coiners' customers, consumers or businesses, to the chagrin of Bitcoiners talk in a 'new' language. For example, compare the communication of LightSpark and others in the same category.
+Target customers define how the company communicates, behaves, and builds. Just look at the Twitter feed of a Bitcoin company, and you will know who they are talking to. The language and memes that work for Bitcoiners are alien to far-right no-coiners. Companies that are targetting 'no coiners' customers, consumers, or businesses, to the chagrin of Bitcoiners talk in a 'new' language. For example, compare the communication of LightSpark and others in the same category.
 
 Now, this lens works for  VC and employees too. It gives a pulse on the clarity of thought of the founders and company. If a company's product is more in line with no coiners, but they are talking in bitcoin meme, more likely than not, they won't be able to run a successful business. Likewise, If a company's product is geared towards hard-core bitcoiners, and they talk in a normie language, it is not a good sign.
 
@@ -33,7 +32,7 @@ As the tech wisdom goes, to beat an incumbent you need to come up with 10x bette
 
 But, for the sake of this dimension, merely using a new technology is not a novelty. The tech has to manifest into a more usable & valuable product. 
 
-For remittance use case, it would be faster, cheaper, and easy to use.  The sovereign money feature would be considered a 10x addition, only for products and the user base who value it. For a product  category (e.g. online learning marketplaces like Udemy) where censorship resistant and decentralization are not core needs of users (top 10 needs), launching a product and adding an LN payment layer is not a novelty. However, in some cases, it is still okay, when you are targeting hard code bitcoin native users.
+For the remittance use case, it would be faster, cheaper, and easy to use.  The sovereign money feature would be considered a 10x addition, only for products and the user base who value it. For a product  category (e.g. online learning marketplaces like Udemy) where censorship-resistant and decentralization are not core needs of users (top 10 needs), launching a product and adding an LN payment layer is not a novelty. However, in some cases, it is still okay, when you are targeting hard-core bitcoin native users.
 
 
 
