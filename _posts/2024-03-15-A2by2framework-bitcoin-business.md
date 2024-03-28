@@ -8,7 +8,7 @@ Here is 2 by 2 framework to look at a Bitcoin start-up that is useful and insigh
 
 First, I'll lay out the framework, and then we'll go deeper into why it is useful, even though it is simple. This lens to look at companies works for startup founders, employees & VCs.
 
-![2 by 2 to understand Bitcoin Business](assets/2by2BitcoinbizMar20.png)
+![2 by 2 to understand Bitcoin Business](assets/2by2BitcoinbizMar20.phttps://drive.google.com/file/d/1df8OrS7c7RKk5poSIhZkXhbgEzf569hF/view?usp=sharing)
 
 
 
@@ -42,3 +42,6 @@ For remittance use case, it would be faster, cheaper, and easy to use.  The sove
 Now, in the next post, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
 
 2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on this scale when evaluating a business.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg0NzQ1NTIxOF19
+-->
