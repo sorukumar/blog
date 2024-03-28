@@ -8,7 +8,8 @@ Here is 2 by 2 framework to look at a Bitcoin start-up that is useful and insigh
 
 First, I'll lay out the framework, and then we'll go deeper into why it is useful, even though it is simple. This lens to look at companies works for startup founders, employees & VCs.
 
-[2 by 2 to understand Bitcoin Business](https://drive.google.com/file/d/1df8OrS7c7RKk5poSIhZkXhbgEzf569hF/view?usp=sharing)
+![2 by 2 to understand Bitcoin Business](/assets/2by2BitcoinbizMar20.png)
+
 
 
 ## X-Axis: Bitcoiner and No Coiners. Who the business is Targeting? 
