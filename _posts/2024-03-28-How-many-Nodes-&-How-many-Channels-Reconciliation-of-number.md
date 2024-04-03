@@ -24,10 +24,11 @@ Hashxp talks about zombie nodes. What exactly is it? Are we okay with the defini
 ## Analyzing LND output (describegraph)
 
 The output json file from describegraph has two data groups. One is for nodes and one is for channels. A basic data pull shows:
-|  | |
-|--|--|
-| # of Nodes |  15246|
-|# of Channels |  51861|
+| Description    | Count  |
+|----------------|--------|
+| # of Nodes     | 15246  |
+| # of Channels  | 51861  |
+
 
 The output from my nodes is closest to 1ml and Mempool. We'll continue slicing and dicing our data to understand it more, and hopefully, it will give us some understanding to make sense of data in other explorers.
 
