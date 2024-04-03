@@ -11,7 +11,7 @@ This is a post to help develop an informed opinion on how many nodes and channel
 We'll look at Amboss, 1ml, Mempool, hashXP data, and then at the 'describegraph' output from an LND node to develop and form an opinion on the # of nodes and # channels.
 
 
-# 6-15K nodes and 50-60K channels
+## 6-15K nodes and 50-60K channels
 
 [Data](https://amboss.space/stats?params=eyJtZXRyaWMiOiJhY3RpdmVfbm9kZXMiLCJjYXRlZ29yeSI6ImFsbFRpbWVNZXRyaWNzIn0=) on 04/03/2024
  - Amboss: Nodes ~16K, Channel ~58K
