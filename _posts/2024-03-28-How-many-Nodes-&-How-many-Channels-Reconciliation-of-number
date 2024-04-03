@@ -6,8 +6,6 @@ author:
 - sorukumar
 ---
 
-# How many Nodes and How many Channels?
-
 This is a post to help develop an informed opinion on how many nodes and channels we have in the Lightning network.
 
 We'll look at Amboss, 1ml, Mempool, hashXP data, and then at the 'describegraph' output from an LND node to develop and form an opinion on the # of nodes and # channels.
