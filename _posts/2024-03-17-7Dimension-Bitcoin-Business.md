@@ -9,8 +9,9 @@ author:
 ![Seven Dimension to understand Bitcoin Businessess]({{ 'assets/Bitcoin-Business-7-dimension.png' | relative_url }})
 
  1. Target Customers: Is the business serving bitcoin native folks or no coiners. Even if the business is same, depending on who they are serving business behave differntly. Think of Coinbase and River.
- 2. Market Focus: Retail or Institutions. Retail and instituition behave differently, so the business strategy to target them is not same. Second, a founder who is suitable for retail may not be a p
+ 2. Market Focus: Retail or Institutions. Retail and instituition behave differently, so the business strategy to target them is not same. Second, a founder who is suitable for retail may not be a as great fit for instituition selling.
+ 3. Usage of Bitcoin: transactinal or investment. Sadly, most of the companies that are making money in the sapce are focussed on Bitcoin as as 'investment' piece. There are a few companies wh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDgyNzk2XX0=
+eyJoaXN0b3J5IjpbOTA5NjQzNTM1XX0=
 -->
