@@ -24,8 +24,9 @@ Hashxp talks about zombie nodes. What exactly is it? Are we okay with the defini
 ## Analyzing LND output (describegraph)
 
 The output json file from describegraph has two data groups. One is for nodes and one is for channels. A basic data pull shows:
+
 | Description    | Count  |
-|----------------|--------|
+|--|--|
 | # of Nodes     | 15246  |
 | # of Channels  | 51861  |
 
