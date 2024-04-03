@@ -14,8 +14,8 @@ author:
  4. Existing use case or Novel use case. 
  5. User experience: Complex to Simple
  6. Ecosystem Integration: Isolated to Integrated
- 7. 
+ 7. Rugulatory alignment: Compliance focussed to innovation focusses
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ1Nzk1NThdfQ==
+eyJoaXN0b3J5IjpbMTAyMTM1NTI3M119
 -->
