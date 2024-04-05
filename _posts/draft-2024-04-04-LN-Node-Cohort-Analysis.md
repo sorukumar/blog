@@ -15,7 +15,7 @@ All LN ethusiast have curiosity around the behavior of nodes:
  - How many we loose per month
  - How do nodes behave when they sign-up, How long they are alive before they are dead
 
-
+In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are are e
 
 # Files
 
@@ -156,6 +156,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDM5NzYyNiwtMTk3MjM0MTY3NCwyOT
-c4MTYzOV19
+eyJoaXN0b3J5IjpbNzAwOTkyNTQsLTE5NzIzNDE2NzQsMjk3OD
+E2MzldfQ==
 -->
