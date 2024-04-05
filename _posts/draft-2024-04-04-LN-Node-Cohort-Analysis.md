@@ -18,7 +18,7 @@ All LN ethusiast have curiosity around the behavior of nodes:
 In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
 
-# The data the analysis is based on
+# The data & the methodology
 
 LN graph output from an LND node since May-2023. I have output pulled on ist week of the month for all the months.
 
@@ -158,6 +158,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOT
-cyMzQxNjc0LDI5NzgxNjM5XX0=
+eyJoaXN0b3J5IjpbMTczODM4MDgyOCwtMTMzMjQ5MzQ2Myw5OT
+E3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
 -->
