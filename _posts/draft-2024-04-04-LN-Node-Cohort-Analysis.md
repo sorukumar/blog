@@ -37,7 +37,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
-## Delete a file
+## Nodes behavor based on when they have signed-up
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -160,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyNzczNDMsLTEzMzI0OTM0NjMsOT
-kxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
+eyJoaXN0b3J5IjpbMTcwMTQ3MzUyOSwtMTMzMjQ5MzQ2Myw5OT
+E3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
 -->
