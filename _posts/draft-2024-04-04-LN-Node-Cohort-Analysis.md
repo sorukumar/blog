@@ -17,11 +17,10 @@ All LN ethusiast have curiosity around the behavior of nodes:
 
 In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
-Before I share the analysis, here is 
 
-# Files
+# The data the analsysi is based on
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+LN graph output from an LND node since May-2023. I have 
 
 ## Create files and folders
 
@@ -158,6 +157,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5Nz
-gxNjM5XX0=
+eyJoaXN0b3J5IjpbLTE4NTI4NDE3NjEsOTkxNzAxNzQzLC0xOT
+cyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
