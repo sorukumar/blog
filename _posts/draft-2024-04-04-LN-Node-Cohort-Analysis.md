@@ -9,8 +9,11 @@ author:
 
 # LN Node - A Cohort Analysis
 
-All LN ethusiast have curitosty around
+All LN ethusiast have curiosity around the behavior of nodes:
 
+ - How many new nodes sign up each month
+ - How many we loose per month
+ - How do nodes behave when they sign-u
 
 # Files
 
@@ -151,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAyMDgzMDAsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbMTc3OTQ3MDkyNiwyOTc4MTYzOV19
 -->
