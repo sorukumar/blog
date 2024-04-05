@@ -4,7 +4,7 @@ layout: post
 title: "Lightning Network Cohort Analysis"
 categories: Lightning
 author:
-- sorukumar
+ - sorukumar
 ---
 
 # LN Node - A Cohort Analysis
@@ -154,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMzMTY1NjQsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
 -->
