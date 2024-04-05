@@ -25,15 +25,15 @@ LN graph output from an LND node since May-2023. I have output pulled on ist wee
 definition of active nodes
 
 
-## How mnay new Nodes each month
+## How many new Nodes each month
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
-## Switch to another file
+## How many we loose each month
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
-## Rename a file
+## Cohort of Currently Active nodes
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -160,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzY3MTg0MywtMTMzMjQ5MzQ2Myw5OT
-E3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbLTE1MDAyNzczNDMsLTEzMzI0OTM0NjMsOT
+kxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
