@@ -22,8 +22,10 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 LN graph output from an LND node since May-2023. I have output pulled on ist week of the month for all the months.
 
+definition of active nodes
 
-## Create files and folders
+
+## How mnay new Nodes each month
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -158,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODM4MDgyOCwtMTMzMjQ5MzQ2Myw5OT
+eyJoaXN0b3J5IjpbMTA0NzY3MTg0MywtMTMzMjQ5MzQ2Myw5OT
 E3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
 -->
