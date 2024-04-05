@@ -13,7 +13,9 @@ All LN ethusiast have curiosity around the behavior of nodes:
 
  - How many new nodes sign up each month
  - How many we loose per month
- - How do nodes behave when they sign-up, How long they stay before 
+ - How do nodes behave when they sign-up, How long they are alive before they are dead
+
+
 
 # Files
 
@@ -154,5 +156,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbLTg0NDM5NzYyNiwtMTk3MjM0MTY3NCwyOT
+c4MTYzOV19
 -->
