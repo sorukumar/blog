@@ -5,7 +5,7 @@
 
 I like to say that if you dont come for data background
 you should try to be data driven to the point you are uncomfotable, then a little bit more
-if you come from data background, 
+if you come from data background, you should not try to look at the data to the point you are umcomfortable, and then a little more.
 
 
 # Files
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjMxOTM0MywxNDc2NDA3MzU5XX0=
+eyJoaXN0b3J5IjpbNTQ4MTM1MTI0LDE0NzY0MDczNTldfQ==
 -->
