@@ -8,7 +8,7 @@ you should try to be data driven to the point you are uncomfotable, then a littl
 if you come from data background, you should not try to look at the data to the point you are umcomfortable, and then a little more.
 
 
-# Files
+# How to know whether you have data background or not.
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTM1MTI0LDE0NzY0MDczNTldfQ==
+eyJoaXN0b3J5IjpbLTgxMDAzNDE1LDE0NzY0MDczNTldfQ==
 -->
