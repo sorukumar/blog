@@ -3,7 +3,9 @@
 
 # How much Data Driven you should be
 
-I like to say that if you dont 
+I like to say that if you dont come for data background
+you should try to be data driven to the point you are uncomfotable, then a little bit more
+if you come from data background, 
 
 
 # Files
@@ -145,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjQwNzM1OV19
+eyJoaXN0b3J5IjpbLTkxMjMxOTM0MywxNDc2NDA3MzU5XX0=
 -->
