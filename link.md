@@ -1,4 +1,4 @@
-## Data
+
 
 - [The Role of Intuition in Data-Driven Decision Making](https://sorukumar.medium.com/the-role-of-intuition-in-data-driven-decision-making-6cc8824f0589)
 - [Correlation vs Causation: How to Respond to a Buzzword Bomber](https://sorukumar.medium.com/correlation-vs-causation-how-to-respond-to-a-buzzword-bomber-2a19725ec120)
