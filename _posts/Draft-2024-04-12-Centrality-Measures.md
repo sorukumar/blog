@@ -128,7 +128,7 @@ $\text{PageRank}(p_i) = \frac{1-d}{N} + d \sum_{p_j \in M(p_i)} \frac{\text{Page
 
 
 
-## Switch to another file
+## A more comprehensive graph
 
 ```mermaid
 flowchart LR
@@ -149,7 +149,9 @@ flowchart LR
     Mya --- Uma
    ```
 
-## Rename a file
+## Python code to do centrality measure
+
+## Generic formula for centrality measure for mathematically savvy
 
 $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
@@ -157,11 +159,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTcyMjgzOCwtMTExNjk3NTAxMCwxOD
-UzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5
-MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0Ni
-wtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02
-OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NT
-I2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2
-NDc2Nzc3XX0=
+eyJoaXN0b3J5IjpbNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NT
+M2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkz
+NTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC
+0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5
+ODI2NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1Mj
+Y3MCwtOTc4NTMyMDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0
+NzY3NzddfQ==
 -->
