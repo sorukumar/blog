@@ -9,13 +9,14 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 
 ```mermaid
 flowchart LR
-    Ava --- Mia
-    Mia --- Zoe
-    Zoe --- Ivy
+    Sia --- Ria
+    Ria --- Xi
+    Xi --- Ivy
     Ivy --- Eva
-    Ava --- Ivy
-    Mia --- Ivy
-    Mia --- Eva
+    Sia --- Ivy
+    Ria --- Ivy
+    Ria --- Eva
+
    ```
 ## Intuitive definition
 
@@ -214,9 +215,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nz
-g1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3Nywt
-MTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NT
-MzNzYsODQ4NDIxMzMyLDExNjMzMzMxNiwtOTMxODMxNzE2LDE2
-MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMz
+A4NTI2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEs
+NDA2NDc2Nzc3LC0xNjcwNDE5NzE5LDI2MzUxODA3MSwxODIyMT
+UxNTAsMTAyMTU1MzM3Niw4NDg0MjEzMzIsMTE2MzMzMzE2LC05
+MzE4MzE3MTYsMTYwNDg2NjYyOV19
 -->
