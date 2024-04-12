@@ -71,13 +71,14 @@ Below table shows shortest path count for each pair.
 
 
 
+
 | Node | Shortest Paths Through Node | Betweenness Centrality Calculation | Betweenness Centrality Value |
 |------|-----------------------------|-----------------------------------|-----------------------------|
-| Sia  | 0                           | $0/12 = 0$                        | 0.0                         |
-| Ria  | 3                           | $3/12 $                     | 0.25                        |
-| Xi   | 0                           | $0/12 = 0$                        | 0.0                         |
-| Ivy  | 3                           | $3/12 = 0.25$                     | 0.25                        |
-| Eva  | 0                           | $0/12 = 0$                        | 0.0                         |
+| Sia  | 0                           | $0/12$                        | 0.0                         |
+| Ria  | 3                           | $3/12$                     | 0.25                        |
+| Xi   | 0                           | $0/12$                        | 0.0                         |
+| Ivy  | 3                           | $3/12$                     | 0.25                        |
+| Eva  | 0                           | $0/12$                        | 0.0                         |
 
 
 #### Closeness Centrality
@@ -250,7 +251,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODcyNTUzMiwtMTM0NjExODcxNSwxMT
+eyJoaXN0b3J5IjpbMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMT
 MzNTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcw
 OTQ2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2ND
 gsLTY5ODI2NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEz
