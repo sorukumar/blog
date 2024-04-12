@@ -60,6 +60,10 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
+$\text{Katz Centrality}(v) = \alpha \sum_{j=1}^{n} A_{ij} x_j + \beta$
+
+$\text{PageRank}(p_i) = \frac{1-d}{N} + d \sum_{p_j \in M(p_i)} \frac{\text{PageRank}(p_j)}{L(p_j)}$
+
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 ## Switch to another file
@@ -210,9 +214,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MT
-cxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5
-LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0Mj
-EzMzIsMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
-
+eyJoaXN0b3J5IjpbOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nz
+g1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3Nywt
+MTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NT
+MzNzYsODQ4NDIxMzMyLDExNjMzMzMxNiwtOTMxODMxNzE2LDE2
+MDQ4NjY2MjldfQ==
 -->
