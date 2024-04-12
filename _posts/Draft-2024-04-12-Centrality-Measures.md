@@ -42,7 +42,7 @@ Degree centrality for a node $v$ is given by:
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
-| Node | Degree | Calculation                        | Degree Centrality |
+| Node | Degree ( # of nodes connected to) | Calculation                        | Degree Centrality |
 |------|--------|------------------------------------|-------------------|
 | Sia  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
 | Ria  | 4      | $\frac{4}{5-1} = \frac{4}{4}$      | 1.0               |
@@ -50,16 +50,7 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 | Ivy  | 4      | $\frac{4}{5-1} = \frac{4}{4}$      | 1.0               |
 | Eva  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
 
--   **Sia**: Connected to Ria and Ivy → Degree = 2
--   **Ria**: Connected to Sia, Xi, Ivy, Eva → Degree = 4
--   **Xi**: Connected to Ria, Ivy → Degree = 2
--   **Ivy**: Connected to Xi, Eva, Ria, Sia → Degree = 4
--   **Eva**: Connected to Ivy, Ria → Degree = 2
 
-**Calculations**:
-
--   **Degree Centrality for Ava**: 25−1=0.55−12​=0.5
--   **Degree Centrality for Mia**: 45−1=1.05−14​=1.0
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
@@ -221,10 +212,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwtNj
-k4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwODUy
-NjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQwNj
-Q3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1MTUw
-LDEwMjE1NTMzNzYsODQ4NDIxMzMyLDExNjMzMzMxNiwtOTMxOD
-MxNzE2LDE2MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMT
+IzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3
+Mzc4LC0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLD
+g2NTAyMzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgw
+NzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMyLDExNj
+MzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
 -->
