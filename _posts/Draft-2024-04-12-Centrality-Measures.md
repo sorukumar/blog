@@ -54,7 +54,8 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
 
-This table will list all unique pairs of nodes, the count of shortest paths between them, and note any notable pathways for clarity.
+Below table shows shortest path count for each pair.
+
 | Node Pair | Shortest Path Count | Path Details                            | Intermediary Nodes         |
 |-----------|---------------------|-----------------------------------------|----------------------------|
 | Sia - Ria | 1                   | Direct path                             | None                       |
@@ -249,11 +250,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTY5NzA4LC0xMzQ2MTE4NzE1LDExMz
-M1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5
-NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OC
-wtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMw
-ODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLD
-QwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1
-MTUwXX0=
+eyJoaXN0b3J5IjpbMTg5Nzk1MjA5MSwtMTM0NjExODcxNSwxMT
+MzNTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcw
+OTQ2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2ND
+gsLTY5ODI2NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEz
+MDg1MjY3MCwtOTc4NTMyMDAxLDUxNzE5MTg1MCw4NjUwMjM2MS
+w0MDY0NzY3NzcsLTE2NzA0MTk3MTksMjYzNTE4MDcxLDE4MjIx
+NTE1MF19
 -->
