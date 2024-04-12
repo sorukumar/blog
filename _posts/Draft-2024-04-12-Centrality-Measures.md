@@ -21,7 +21,6 @@ flowchart LR
     Uma --- Ava
     Zoe --- Eva
     Mia --- Ida
-
    ```
 ## Create files and folders
 
@@ -161,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MzE5ODU4LDg0ODQyMTMzMiwxMTYzMz
-MzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbMTAyMTU1MzM3Niw4NDg0MjEzMzIsMTE2Mz
+MzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
 -->
