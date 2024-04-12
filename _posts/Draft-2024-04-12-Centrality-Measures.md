@@ -39,9 +39,9 @@ flowchart LR
 #### Degree Centrality
 
 Degree Centrality for a node \(v\) is calculated as:
-$$
-\text{Degree Centrality}(v) = \frac{\text{Number of direct connections of } v}{\text{Total possible connections}}
-$$
+
+$\text{Degree Centrality}(v) = \frac{\text{Number of direct connections of } v}{\text{Total possible connections}}$
+
 This measures the immediate connectivity of the node within the network, highlighting its potential for influence or interaction relative to the total network size.
 
 
@@ -145,11 +145,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY5NzUwMTAsMTg1MzYxMDk3NCwxOT
-Q4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0
-ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMT
-IsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDEx
-NTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nzg1Mz
-IwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3NywtMTY3
-MDQxOTcxOV19
+eyJoaXN0b3J5IjpbLTE0MTAwNTI2MDAsLTExMTY5NzUwMTAsMT
+g1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1
+OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5ND
+YsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwt
+Njk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwOD
+UyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQw
+NjQ3Njc3N119
 -->
