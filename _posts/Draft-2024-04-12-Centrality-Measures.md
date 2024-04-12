@@ -50,6 +50,19 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 | Ivy  | 4      | $\frac{4}{5-1} = \frac{4}{4}$      | 1.0               |
 | Eva  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
 
+#### Betweenness Centrality
+$\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
+
+| Node | Shortest Paths Through Node | Calculation | Betweenness Centrality |
+|------|-----------------------------|-------------|------------------------|
+| Sia  | 2                           | $2/10$      | $0.2$                  |
+| Ria  | 6                           | $6/10$      | $0.6$                  |
+| Xi   | 2                           | $2/10$      | $0.2$                  |
+| Ivy  | 8                           | $8/10$      | $0.8$                  |
+| Eva  | 0                           | $0/10$      | $0.0$                  |
+
+
+
 #### Closeness Centrality
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
@@ -61,16 +74,6 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 | Ivy  | 3                               | $(5-1)/3 = 4/3 \approx 1.33$ | $1.33$           |
 | Eva  | 6                               | $(5-1)/6 \approx 0.67$   | $0.67$               |
 
-#### Betweenness Centrality
-$\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
-
-| Node | Shortest Paths Through Node | Calculation | Betweenness Centrality |
-|------|-----------------------------|-------------|------------------------|
-| Sia  | 2                           | $2/10$      | $0.2$                  |
-| Ria  | 6                           | $6/10$      | $0.6$                  |
-| Xi   | 2                           | $2/10$      | $0.2$                  |
-| Ivy  | 8                           | $8/10$      | $0.8$                  |
-| Eva  | 0                           | $0/10$      | $0.0$                  |
 
 
 
@@ -232,11 +235,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NT
-EyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMTU0NzUy
-NTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLD
-UxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2NzA0MTk3
-MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2LDg0OD
-QyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5
-XX0=
+eyJoaXN0b3J5IjpbLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNz
+k5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2
+NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MC
+wtOTc4NTMyMDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3
+NzcsLTE2NzA0MTk3MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMD
+IxNTUzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcx
+Nl19
 -->
