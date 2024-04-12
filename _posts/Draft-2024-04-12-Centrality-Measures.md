@@ -38,9 +38,7 @@ flowchart LR
 
 Degree centrality is calculated as: 
 
-$
-Degree Centrality(v)=Degree of v​/N-1
-$
+$Degree Centrality(v)=frac{Degree of v}​/{N-1}$
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 Degree Centrality(v)=N−1Degree of v​
@@ -210,8 +208,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MTkxODUwLDg2NTAyMzYxLDQwNjQ3Nj
-c3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1MTUwLDEw
-MjE1NTMzNzYsODQ4NDIxMzMyLDExNjMzMzMxNiwtOTMxODMxNz
-E2LDE2MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbMTEwODM1MDg0Niw1MTcxOTE4NTAsODY1MD
+IzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LDI2MzUxODA3MSwx
+ODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0MjEzMzIsMTE2MzMzMz
+E2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
 -->
