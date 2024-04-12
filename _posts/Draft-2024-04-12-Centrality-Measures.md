@@ -42,7 +42,10 @@ Uma  ---  Amy
    ```
 ## Create files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+-   **Degree Centrality**: Nodes like Ava and Ida have higher degrees, indicating more connections.
+-   **Closeness Centrality**: Some nodes are positioned to have shorter paths to all other nodes, impacting their ability to spread information efficiently.
+-   **Betweenness Centrality**: Nodes like Uma and Zoe might have higher betweenness, as they act as bridges connecting different parts of the network.
+-   **Eigenvector Centrality**: The influence of a node due to its connections to other influential nodes can be illustrated, particularly for nodes connected to other highly connected nodes.
 
 ## Switch to another file
 
@@ -175,6 +178,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQxMTcwMjMsODQ4NDIxMzMyLDExNj
-MzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbMjA5NzQ1MjkyNiw4NDg0MjEzMzIsMTE2Mz
+MzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
 -->
