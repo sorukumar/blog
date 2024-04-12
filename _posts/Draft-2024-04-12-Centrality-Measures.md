@@ -1,7 +1,7 @@
 
 # Centrality Measures
 
-Centrality measure or metrics are the ways to understand networks graph, like Lighting network.
+Centrality measure are metrics to understand networks graphs, like Lighting network.
 
 This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom.
  
@@ -235,11 +235,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNz
-k5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2
-NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MC
-wtOTc4NTMyMDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3
-NzcsLTE2NzA0MTk3MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMD
-IxNTUzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcx
+eyJoaXN0b3J5IjpbMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNz
+UwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4
+ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC
+0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAy
+MzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMT
+gyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMyLDExNjMzMzMx
 Nl19
 -->
