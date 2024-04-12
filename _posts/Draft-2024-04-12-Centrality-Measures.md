@@ -65,13 +65,13 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 #### Closeness Centrality
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
-| Node | Sum of Distances to Other Nodes | Calculation               | Closeness Centrality |
-|------|---------------------------------|---------------------------|----------------------|
-| Sia  | 6                               | $(5-1)/6               |
-| Ria  | 5                               | $(5-1)/5            |
-| Xi   | 6                               | $(5-1)/6        |
-| Ivy  | 5                               | $(5-1)/5 |
-| Eva  | 6                               | $(5-1)/6 |
+| Node | Sum of Distances to Other Nodes | Calculation       | Closeness Centrality |
+|------|---------------------------------|-------------------|----------------------|
+| Sia  | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
+| Ria  | 5                               | $\frac{5-1}{5}$   | $\frac{4}{5}$        |
+| Xi   | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
+| Ivy  | 5                               | $\frac{5-1}{5}$   | $\frac{4}{5}$        |
+| Eva  | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
 
 
 
@@ -232,11 +232,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ4MzQ1MTUsMTU4ODc0ODIzMSwtMj
-EzOTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIz
-OTUwNCwtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1OD
-QsOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3
-MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOS
-wyNjM1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIx
-MzMyXX0=
+eyJoaXN0b3J5IjpbMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMT
+M5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5
+NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NC
+w5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MTcx
+OTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LD
+I2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0MjEz
+MzJdfQ==
 -->
