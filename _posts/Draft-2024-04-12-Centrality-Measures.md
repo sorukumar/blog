@@ -7,24 +7,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
  
 # A Network Graph.
 
-
 ```mermaid
-flowchart LR
-    Ava --- Mia
-    Mia --- Zoe
-    Zoe --- Ivy
-    Ivy --- Mya
-    Mya --- Eva
-    Eva --- Ida
-    Ida --- Uma
-    Uma --- Ava
-    Zoe --- Eva
-    Mia --- Ida
-    Ava --- Uma
-    Uma --- Ivy
-    Ivy --- Zoe
-    Zoe --- Mya
-    Mya --- Uma
    ```
 ## Intuitive definition
 
@@ -51,7 +34,24 @@ flowchart LR
 
 ## Switch to another file
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+```mermaid
+flowchart LR
+    Ava --- Mia
+    Mia --- Zoe
+    Zoe --- Ivy
+    Ivy --- Mya
+    Mya --- Eva
+    Eva --- Ida
+    Ida --- Uma
+    Uma --- Ava
+    Zoe --- Eva
+    Mia --- Ida
+    Ava --- Uma
+    Uma --- Ivy
+    Ivy --- Zoe
+    Zoe --- Mya
+    Mya --- Uma
+   ```
 
 ## Rename a file
 
@@ -180,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA0MTk3MTksMjYzNTE4MDcxLDE4Mj
-IxNTE1MCwxMDIxNTUzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYs
-LTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbMTkyMTk3MzYxOCwtMTY3MDQxOTcxOSwyNj
+M1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMy
+LDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
 -->
