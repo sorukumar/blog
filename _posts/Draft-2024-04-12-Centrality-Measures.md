@@ -53,6 +53,23 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 #### Betweenness Centrality
 $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
+
+This table will list all unique pairs of nodes, the count of shortest paths between them, and note any notable pathways for clarity.
+| Node Pair | Shortest Path Count | Path Details                            | Intermediary Nodes         |
+|-----------|---------------------|-----------------------------------------|----------------------------|
+| Sia - Ria | 1                   | Direct path                             | None                       |
+| Sia - Xi  | 1                   | Path through Ria                        | Ria                        |
+| Sia - Ivy | 1                   | Direct path                             | None                       |
+| Sia - Eva | 2                   | 1 path through Ivy, 1 path through Ria  | Ivy, Ria                   |
+| Ria - Xi  | 1                   | Direct path                             | None                       |
+| Ria - Ivy | 1                   | Direct path                             | None                       |
+| Ria - Eva | 1                   | Direct path                             | None                       |
+| Xi - Ivy  | 1                   | Direct path                             | None                       |
+| Xi - Eva  | 1                   | Path through Ivy                        | Ivy                        |
+| Ivy - Eva | 1                   | Direct path                             | None                       |
+
+
+
 | Node | Shortest Paths Through Node | Calculation | Betweenness Centrality |
 |------|-----------------------------|-------------|------------------------|
 | Sia  | 0                           | $0/10$      | $0.0$                  |
@@ -232,11 +249,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNT
-g4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTky
-MTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOT
-AsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3
-ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC
-0xNjcwNDE5NzE5LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1
-MzM3Nl19
+eyJoaXN0b3J5IjpbNjgyMTY5NzA4LC0xMzQ2MTE4NzE1LDExMz
+M1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5
+NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OC
+wtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMw
+ODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLD
+QwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMTgyMjE1
+MTUwXX0=
 -->
