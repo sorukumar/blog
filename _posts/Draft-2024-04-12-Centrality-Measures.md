@@ -42,6 +42,13 @@ Degree centrality for a node $v$ is given by:
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
+| Node | Degree | Calculation                        | Degree Centrality |
+|------|--------|------------------------------------|-------------------|
+| Sia  | 2      | $\( \frac{2}{5-1} = \frac{2}{4} \)  | 0.5               |
+| Ria  | 4      | \( \frac{4}{5-1} = \frac{4}{4} \)  | 1.0               |
+| Xi   | 2      | \( \frac{2}{5-1} = \frac{2}{4} \)  | 0.5               |
+| Ivy  | 4      | \( \frac{4}{5-1} = \frac{4}{4} \)  | 1.0               |
+| Eva  | 2      | \( \frac{2}{5-1} = \frac{2}{4} \)  | 0.5               |
 
 -   **Sia**: Connected to Ria and Ivy → Degree = 2
 -   **Ria**: Connected to Sia, Xi, Ivy, Eva → Degree = 4
@@ -214,10 +221,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMT
-U0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMy
-MDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2Nz
-A0MTk3MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2
-LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0OD
-Y2NjI5XX0=
+eyJoaXN0b3J5IjpbOTYzNDA2NDA5LC0xMjMxMTg4NjQ4LC02OT
+gyNjUyOTAsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NTI2
+NzAsLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2ND
+c2Nzc3LC0xNjcwNDE5NzE5LDI2MzUxODA3MSwxODIyMTUxNTAs
+MTAyMTU1MzM3Niw4NDg0MjEzMzIsMTE2MzMzMzE2LC05MzE4Mz
+E3MTYsMTYwNDg2NjYyOV19
 -->
