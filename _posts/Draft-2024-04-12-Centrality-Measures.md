@@ -28,23 +28,8 @@ graph LR
     H(H)
     I(I)
     J(J)
+A -- B
 
-    A -- B
-    A -- C
-    B -- D
-    B -- E
-    C -- F
-    C -- G
-    D -- H
-    E -- I
-    F -- J
-    G -- E
-    H -- A
-    I -- G
-    J -- D
-    H -.-> E
-    A -.-> J
-    C -.-> I
 
 ```
 ## Create files and folders
@@ -182,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwND
-g2NjYyOV19
+eyJoaXN0b3J5IjpbLTY4MTIxNzUzOSwxMTYzMzMzMTYsLTkzMT
+gzMTcxNiwxNjA0ODY2NjI5XX0=
 -->
