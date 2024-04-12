@@ -54,8 +54,11 @@ Degree Centrality(�)=Degree of ��−1Degree Centrality(v)=N−1Degree of v
 -   **Degree Centrality for Ava**: 25−1=0.55−12​=0.5
 -   **Degree Centrality for Mia**: 45−1=1.05−14​=1.0
 
+$\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
+$\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
+$\text{Eigenvector Centrality}Ax = \lambda x$
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -207,8 +210,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MD
-IzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LDI2MzUxODA3MSwx
-ODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0MjEzMzIsMTE2MzMzMz
-E2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
+eyJoaXN0b3J5IjpbLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MT
+cxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5
+LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0Mj
+EzMzIsMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
+
 -->
