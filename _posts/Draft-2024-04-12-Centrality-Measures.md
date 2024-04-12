@@ -67,11 +67,11 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 | Node | Sum of Distances to Other Nodes | Calculation       | Closeness Centrality |
 |------|---------------------------------|-------------------|----------------------|
-| Sia  | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
-| Ria  | 5                               | $\frac{5-1}{5}$   | $\frac{4}{5}$        |
-| Xi   | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
-| Ivy  | 5                               | $\frac{5-1}{5}$   | $\frac{4}{5}$        |
-| Eva  | 6                               | $\frac{5-1}{6}$   | $\frac{4}{6}$        |
+| Sia  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
+| Ria  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
+| Xi   | 6                               | $\frac{5-1}{6}$   | 0.67                 |
+| Ivy  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
+| Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
 
 
@@ -82,7 +82,7 @@ $\text{Katz Centrality}(v) = \alpha \sum_{j=1}^{n} A_{ij} x_j + \beta$
 
 $\text{PageRank}(p_i) = \frac{1-d}{N} + d \sum_{p_j \in M(p_i)} \frac{\text{PageRank}(p_j)}{L(p_j)}$
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
 
 ## Switch to another file
 
@@ -232,11 +232,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMT
-M5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5
-NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NC
-w5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MTcx
-OTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LD
-I2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4NDg0MjEz
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNT
+g4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTky
+MTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOT
+AsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3
+ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC
+0xNjcwNDE5NzE5LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1
+MzM3Nl19
 -->
