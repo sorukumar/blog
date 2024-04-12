@@ -75,11 +75,12 @@ Below table shows shortest path count for each pair.
 
 | Node | Shortest Paths Through Node | Betweenness Centrality Calculation | Betweenness Centrality Value |
 |------|-----------------------------|-----------------------------------|-----------------------------|
-| Sia  | 0                           | $0/12$                        | 0.0                         |
-| Ria  | 3                           | $3/12$                     | 0.25                        |
-| Xi   | 0                           | $0/12$                        | 0.0                         |
-| Ivy  | 3                           | $3/12$                     | 0.25                        |
-| Eva  | 0                           | $0/12$                        | 0.0                         |
+| Sia  | 0                           | $0/11 = 0$                        | 0.0                         |
+| Ria  | 2                           | $2/11 \approx 0.182$              | 0.182                       |
+| Xi   | 0                           | $0/11 = 0$                        | 0.0                         |
+| Ivy  | 2                           | $2/11 \approx 0.182$              | 0.182                       |
+| Eva  | 0                           | $0/11 = 0$                        | 0.0                         |
+               |
 
 
 #### Closeness Centrality
@@ -131,11 +132,11 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ0NzU4NzgsMTk0ODI2MDY5NSwtMT
-M0NjExODcxNSwxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1
-MzMwNzIsMzc1MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MD
-QsLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMTU0NzUyNTg0LDk4
-NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLDUxNzE5MT
-g1MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2NzA0MTk3MTksMjYz
-NTE4MDcxXX0=
+eyJoaXN0b3J5IjpbMjY4NDA0MzQwLDE5NDgyNjA2OTUsLTEzND
+YxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMz
+MDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC
+0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0
+MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NT
+AsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LDI2MzUx
+ODA3MV19
 -->
