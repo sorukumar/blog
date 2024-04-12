@@ -8,27 +8,37 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
  
 # A Network Graph.
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 
 ```mermaid
-graph LR
-    A(A)
-    B(B)
-    C(C)
-    D(D)
-    E(E)
-    F(F)
-    G(G)
-    H(H)
-    I(I)
-    J(J)
-    A -->  C
+flowchart  LR
+
+Amy  ---  Ava
+
+Ava  ---  Zoe
+
+Zoe  ---  Ivy
+
+Ivy  ---  Mya
+
+Mya  ---  Amy
+
+Ava  ---  Mia
+
+Mia  ---  Ida
+
+Ida  ---  Uma
+
+Uma  ---  Eva
+
+Eva  ---  Mia
+
+Amy  ---  Ida
+
+Ida  ---  Zoe
+
+Zoe  ---  Uma
+
+Uma  ---  Amy
    ```
 ## Create files and folders
 
@@ -165,6 +175,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NDIxMzMyLDExNjMzMzMxNiwtOTMxOD
-MxNzE2LDE2MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbLTEzNTQxMTcwMjMsODQ4NDIxMzMyLDExNj
+MzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
 -->
