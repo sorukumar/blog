@@ -50,11 +50,18 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 | Ivy  | 4      | $\frac{4}{5-1} = \frac{4}{4}$      | 1.0               |
 | Eva  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
 
-#### Degree Centrality
+#### Closeness Centrality
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
+| Node | Sum of Distances to Other Nodes | Calculation              | Closeness Centrality |
+|------|---------------------------------|--------------------------|----------------------|
+| Sia  | 4                               | $(5-1)/4 = 4/4$          | $1.0$                |
+| Ria  | 3                               | $(5-1)/3 = 4/3 \approx 1.33$ | $1.33$           |
+| Xi   | 5                               | $(5-1)/5 = 4/5 = 0.8$    | $0.8$                |
+| Ivy  | 3                               | $(5-1)/3 = 4/3 \approx 1.33$ | $1.33$           |
+| Eva  | 6                               | $(5-1)/6 \approx 0.67$   | $0.67$               |
 
-#### Degree Centrality
+#### Betweenness Centrality
 $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
 | Node | Shortest Paths Through Node | Calculation | Betweenness Centrality |
@@ -225,11 +232,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ5MDY5ODIsLTE3OTk5MjExMTIsMT
-U1MTIzOTUwNCwtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3
-NTI1ODQsOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nzg1MzIwMD
-EsNTE3MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3NywtMTY3MDQx
-OTcxOSwyNjM1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsOD
-Q4NDIxMzMyLDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2
-MjldfQ==
+eyJoaXN0b3J5IjpbMzc1MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NT
+EyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMTU0NzUy
+NTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLD
+UxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2NzA0MTk3
+MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2LDg0OD
+QyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5
+XX0=
 -->
