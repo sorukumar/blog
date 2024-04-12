@@ -8,6 +8,14 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 # A Network Graph.
 
 ```mermaid
+flowchart LR
+    Ava --- Mia
+    Mia --- Zoe
+    Zoe --- Ivy
+    Ivy --- Eva
+    Ava --- Ivy
+    Mia --- Ivy
+    Mia --- Eva
    ```
 ## Intuitive definition
 
@@ -24,13 +32,9 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 6.  **PageRank**
         -   The algorithm of the Internet age, crafted by Google’s own. Nodes gain status not just by having many connections, but how significant those connections are. It’s the difference between a nod from a king and a wave from a crowd.
 
+## Calculation
 
-
-
--   **Degree Centrality**: Nodes like Ava and Ida have higher degrees, indicating more connections.
--   **Closeness Centrality**: Some nodes are positioned to have shorter paths to all other nodes, impacting their ability to spread information efficiently.
--   **Betweenness Centrality**: Nodes like Uma and Zoe might have higher betweenness, as they act as bridges connecting different parts of the network.
--   **Eigenvector Centrality**: The influence of a node due to its connections to other influential nodes can be illustrated, particularly for nodes connected to other highly connected nodes.
+You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 ## Switch to another file
 
@@ -180,7 +184,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTk3MzYxOCwtMTY3MDQxOTcxOSwyNj
+eyJoaXN0b3J5IjpbMTMyOTg5MjgwOSwtMTY3MDQxOTcxOSwyNj
 M1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMy
 LDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
 -->
