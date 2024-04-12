@@ -8,7 +8,44 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
  
 # A Network Graph.
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
+```mermaid
+graph LR
+    A((A))
+    B((B))
+    C((C))
+    D((D))
+    E((E))
+    F((F))
+    G((G))
+    H((H))
+    I((I))
+    J((J))
+
+    A -- B
+    A -- C
+    B -- D
+    B -- E
+    C -- F
+    C -- G
+    D -- H
+    E -- I
+    F -- J
+    G -- E
+    H -- A
+    I -- G
+    J -- D
+    H -.-> E
+    A -.-> J
+    C -.-> I
+
 
 ## Create files and folders
 
@@ -145,5 +182,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbMTY1ODc3MTQ3NCwtOTMxODMxNzE2LDE2MD
+Q4NjY2MjldfQ==
 -->
