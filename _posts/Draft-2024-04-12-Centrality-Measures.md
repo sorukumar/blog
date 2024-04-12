@@ -45,8 +45,7 @@ graph LR
     H -.-> E
     A -.-> J
     C -.-> I
-
-
+```
 ## Create files and folders
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
@@ -182,6 +181,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODc3MTQ3NCwtOTMxODMxNzE2LDE2MD
-Q4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbLTE1OTE5ODQ5NzQsLTkzMTgzMTcxNiwxNj
+A0ODY2NjI5XX0=
 -->
