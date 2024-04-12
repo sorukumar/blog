@@ -1,9 +1,9 @@
 
 # Centrality Meausres
 
-Centrality measure or metrics are the 
+Centrality measure or metrics are the ways to understand networks graph, like Lighting network.
 
-
+This is an attemnpt to define 
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1Mjk2MzUzXX0=
+eyJoaXN0b3J5IjpbLTY2MTYwMTg1OF19
 -->
