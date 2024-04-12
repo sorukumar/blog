@@ -36,12 +36,10 @@ flowchart LR
 
 #### Degree Centrality
 
-Degree centrality is calculated as: 
+Degree centrality for a node $v is given by:
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
-Degree Centrality(v)=N−1Degree of v​
-Degree Centrality(�)=Degree of ��−1Degree Centrality(v)=N−1Degree of v​ where �N is the total number of nodes (5 in this case).
 
 -   **Ava**: Connected to Mia and Ivy → Degree = 2
 -   **Mia**: Connected to Ava, Zoe, Ivy, Eva → Degree = 4
@@ -214,9 +212,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODI2NTI5MCwxMTU0NzUyNTg0LDk4NT
-QyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLDUxNzE5MTg1
-MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2NzA0MTk3MTksMjYzNT
-E4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2LDg0ODQyMTMzMiwx
-MTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbMjYzOTQ1OTU3LC02OTgyNjUyOTAsMTE1ND
+c1MjU4NCw5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAw
+MSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwND
+E5NzE5LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4
+NDg0MjEzMzIsMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwNDg2Nj
+YyOV19
 -->
