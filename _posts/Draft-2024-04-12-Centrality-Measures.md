@@ -4,7 +4,6 @@
 Centrality measure or metrics are the ways to understand networks graph, like Lighting network.
 
 This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom.
-
  
 # A Network Graph.
 
@@ -165,7 +164,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk1MTc5NTIsMTAyMTU1MzM3Niw4ND
-g0MjEzMzIsMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYy
-OV19
+eyJoaXN0b3J5IjpbMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4ND
+IxMzMyLDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2Mjld
+fQ==
 -->
