@@ -53,7 +53,8 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 #### Betweenness Centrality
 $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
 
-$\text{Betweenness Centrality}(v)=\text{\frac{Total number of shortest paths}{Number of shortest paths passing through v​}}$
+$\text{Betweenness Centrality}(v) = \frac{\text{Number of shortest paths passing through } v}{\text{Total number of shortest paths}}$
+
 
 Below table shows shortest path count for each pair.
 
@@ -252,7 +253,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzkwMzIwOCwxOTQ4MjYwNjk1LC0xMz
+eyJoaXN0b3J5IjpbMTI1MjY4Mjc2OCwxOTQ4MjYwNjk1LC0xMz
 Q2MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUz
 MzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNC
 wtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1
