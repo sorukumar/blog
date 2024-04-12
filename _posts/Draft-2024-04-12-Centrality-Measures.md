@@ -18,16 +18,16 @@ C --> D
 
 ```mermaid
 graph LR
-    A((A))
-    B((B))
-    C((C))
-    D((D))
-    E((E))
-    F((F))
-    G((G))
-    H((H))
-    I((I))
-    J((J))
+    A(A)
+    B(B)
+    C(C)
+    D(D)
+    E(E)
+    F(F)
+    G(G)
+    H(H)
+    I(I)
+    J(J)
 
     A -- B
     A -- C
@@ -45,6 +45,7 @@ graph LR
     H -.-> E
     A -.-> J
     C -.-> I
+
 ```
 ## Create files and folders
 
@@ -181,6 +182,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE5ODQ5NzQsLTkzMTgzMTcxNiwxNj
-A0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwND
+g2NjYyOV19
 -->
