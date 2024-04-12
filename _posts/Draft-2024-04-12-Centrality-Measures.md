@@ -10,35 +10,18 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 
 
 ```mermaid
-flowchart  LR
+flowchart LR
+    Ava --- Mia
+    Mia --- Zoe
+    Zoe --- Ivy
+    Ivy --- Mya
+    Mya --- Eva
+    Eva --- Ida
+    Ida --- Uma
+    Uma --- Ava
+    Zoe --- Eva
+    Mia --- Ida
 
-Amy  ---  Ava
-
-Ava  ---  Zoe
-
-Zoe  ---  Ivy
-
-Ivy  ---  Mya
-
-Mya  ---  Amy
-
-Ava  ---  Mia
-
-Mia  ---  Ida
-
-Ida  ---  Uma
-
-Uma  ---  Eva
-
-Eva  ---  Mia
-
-Amy  ---  Ida
-
-Ida  ---  Zoe
-
-Zoe  ---  Uma
-
-Uma  ---  Amy
    ```
 ## Create files and folders
 
@@ -178,6 +161,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzQ1MjkyNiw4NDg0MjEzMzIsMTE2Mz
-MzMzE2LC05MzE4MzE3MTYsMTYwNDg2NjYyOV19
+eyJoaXN0b3J5IjpbNDg0MzE5ODU4LDg0ODQyMTMzMiwxMTYzMz
+MzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
 -->
