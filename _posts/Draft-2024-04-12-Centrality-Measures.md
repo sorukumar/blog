@@ -55,26 +55,23 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 
 | Node | Shortest Paths Through Node | Calculation | Betweenness Centrality |
 |------|-----------------------------|-------------|------------------------|
-| Sia  | 2                           | $2/10$      | $0.2$                  |
-| Ria  | 6                           | $6/10$      | $0.6$                  |
-| Xi   | 2                           | $2/10$      | $0.2$                  |
-| Ivy  | 8                           | $8/10$      | $0.8$                  |
+| Sia  | 0                           | $0/10$      | $0.0$                  |
+| Ria  | 2                           | $2/10$      | $0.2$                  |
+| Xi   | 0                           | $0/10$      | $0.0$                  |
+| Ivy  | 2                           | $2/10$      | $0.2$                  |
 | Eva  | 0                           | $0/10$      | $0.0$                  |
-
 
 
 #### Closeness Centrality
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
-| Node | Sum of Distances to Other Nodes | Calculation              | Closeness Centrality |
-|------|---------------------------------|--------------------------|----------------------|
-| Sia  | 4                               | $(5-1)/4 = 4/4$          | $1.0$                |
-| Ria  | 3                               | $(5-1)/3 = 4/3 \approx 1.33$ | $1.33$           |
-| Xi   | 5                               | $(5-1)/5 = 4/5 = 0.8$    | $0.8$                |
-| Ivy  | 3                               | $(5-1)/3 = 4/3 \approx 1.33$ | $1.33$           |
-| Eva  | 6                               | $(5-1)/6 \approx 0.67$   | $0.67$               |
-
-
+| Node | Sum of Distances to Other Nodes | Calculation               | Closeness Centrality |
+|------|---------------------------------|---------------------------|----------------------|
+| Sia  | 6                               | $(5-1)/6               |
+| Ria  | 5                               | $(5-1)/5            |
+| Xi   | 6                               | $(5-1)/6        |
+| Ivy  | 5                               | $(5-1)/5 |
+| Eva  | 6                               | $(5-1)/6 |
 
 
 
@@ -235,11 +232,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNz
-UwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4
-ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC
-0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAy
-MzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1MTgwNzEsMT
-gyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMyLDExNjMzMzMx
-Nl19
+eyJoaXN0b3J5IjpbLTE4MzQ4MzQ1MTUsMTU4ODc0ODIzMSwtMj
+EzOTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIz
+OTUwNCwtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1OD
+QsOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3
+MTkxODUwLDg2NTAyMzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOS
+wyNjM1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIx
+MzMyXX0=
 -->
