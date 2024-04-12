@@ -26,7 +26,12 @@ flowchart LR
     Zoe --- Mya
     Mya --- Uma
    ```
-## Create files and folders
+## Intuitive definition
+
+
+
+
+
 
 -   **Degree Centrality**: Nodes like Ava and Ida have higher degrees, indicating more connections.
 -   **Closeness Centrality**: Some nodes are positioned to have shorter paths to all other nodes, impacting their ability to spread information efficiently.
@@ -164,7 +169,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4ND
-IxMzMyLDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2Mjld
-fQ==
+eyJoaXN0b3J5IjpbMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNT
+UzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwx
+NjA0ODY2NjI5XX0=
 -->
