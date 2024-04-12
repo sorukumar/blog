@@ -34,6 +34,11 @@ flowchart LR
 
 ## Calculation
 
+
+
+
+
+
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 ## Switch to another file
@@ -184,7 +189,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTg5MjgwOSwtMTY3MDQxOTcxOSwyNj
-M1MTgwNzEsMTgyMjE1MTUwLDEwMjE1NTMzNzYsODQ4NDIxMzMy
-LDExNjMzMzMxNiwtOTMxODMxNzE2LDE2MDQ4NjY2MjldfQ==
+eyJoaXN0b3J5IjpbLTE4OTcwMTg5MDksLTE2NzA0MTk3MTksMj
+YzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2LDg0ODQyMTMz
+MiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
 -->
