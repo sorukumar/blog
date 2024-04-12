@@ -5,18 +5,7 @@ Centrality measure or metrics are the ways to understand networks graph, like Li
 
 This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom.
  
-# A Network Graph.
 
-```mermaid
-flowchart LR
-    Sia --- Ria
-    Ria --- Xi
-    Xi --- Ivy
-    Ivy --- Eva
-    Sia --- Ivy
-    Ria --- Ivy
-    Ria --- Eva
-   ```
 ## Intuitive definition
 
 1.  **Degree Centrality**
@@ -32,20 +21,33 @@ flowchart LR
 6.  **PageRank**
         -   The algorithm of the Internet age, crafted by Google’s own. Nodes gain status not just by having many connections, but how significant those connections are. It’s the difference between a nod from a king and a wave from a crowd.
 
+# A Network Graph.
+
+```mermaid
+flowchart LR
+    Sia --- Ria
+    Ria --- Xi
+    Xi --- Ivy
+    Ivy --- Eva
+    Sia --- Ivy
+    Ria --- Ivy
+    Ria --- Eva
+   ```
+   
 ## Calculation
 
 #### Degree Centrality
 
-Degree centrality for a node $v is given by:
+Degree centrality for a node $v$ is given by:
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 
--   **Ava**: Connected to Mia and Ivy → Degree = 2
--   **Mia**: Connected to Ava, Zoe, Ivy, Eva → Degree = 4
--   **Zoe**: Connected to Mia, Ivy → Degree = 2
--   **Ivy**: Connected to Zoe, Eva, Mia, Ava → Degree = 4
--   **Eva**: Connected to Ivy, Mia → Degree = 2
+-   **Sia**: Connected to Ria and Ivy → Degree = 2
+-   **Ria**: Connected to Sia, Xi, Ivy, Eva → Degree = 4
+-   **Xi**: Connected to Ria, Ivy → Degree = 2
+-   **Ivy**: Connected to Xi, Eva, Ria, Sia → Degree = 4
+-   **Eva**: Connected to Ivy, Ria → Degree = 2
 
 **Calculations**:
 
@@ -212,10 +214,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTQ1OTU3LC02OTgyNjUyOTAsMTE1ND
-c1MjU4NCw5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAw
-MSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwND
-E5NzE5LDI2MzUxODA3MSwxODIyMTUxNTAsMTAyMTU1MzM3Niw4
-NDg0MjEzMzIsMTE2MzMzMzE2LC05MzE4MzE3MTYsMTYwNDg2Nj
-YyOV19
+eyJoaXN0b3J5IjpbLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMT
+U0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMy
+MDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0NzY3NzcsLTE2Nz
+A0MTk3MTksMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNTUzMzc2
+LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwxNjA0OD
+Y2NjI5XX0=
 -->
