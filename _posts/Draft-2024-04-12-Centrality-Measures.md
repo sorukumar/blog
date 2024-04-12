@@ -71,7 +71,7 @@ Below table shows shortest path count for each pair.
 | Ivy - Eva | 1                   | Direct path                             | None                       |
 | **Total** | **11**              |                                         |                            |
 
-Once, we have shortest path through each node, and also total shortest path count. below is a table that does
+Once, we have shortest path through each node, and also total shortest path count. below is a table that does calcualtion on betweenness centrality.
 
 
 | Node | Shortest Paths Through Node | Betweenness Centrality Calculation | Betweenness Centrality Value |
@@ -133,11 +133,11 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNjY3MjM2LDE5NDgyNjA2OTUsLTEzND
-YxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMz
-MDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC
-0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0
-MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NT
-AsODY1MDIzNjEsNDA2NDc2Nzc3LC0xNjcwNDE5NzE5LDI2MzUx
-ODA3MV19
+eyJoaXN0b3J5IjpbMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMz
+Q2MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUz
+MzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNC
+wtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1
+NDI3Mzc4LC0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxOD
+UwLDg2NTAyMzYxLDQwNjQ3Njc3NywtMTY3MDQxOTcxOSwyNjM1
+MTgwNzFdfQ==
 -->
