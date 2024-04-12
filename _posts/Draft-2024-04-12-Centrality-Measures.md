@@ -98,6 +98,17 @@ $$
 $$
 This metric evaluates how quickly a node can reach all other nodes in the network, providing a measure of how 'central' a node is in terms of network navigation.
 
+Calculation for sum of the shortest path
+
+| Node | Paths and Distances                 | Sum of Distances |
+|------|-------------------------------------|------------------|
+| Sia  | To Ria: 1, To Xi: 2, To Ivy: 1, To Eva: 2 | 6                |
+| Ria  | To Sia: 1, To Xi: 1, To Ivy: 1, To Eva: 1 | 4                |
+| Xi   | To Sia: 2, To Ria: 1, To Ivy: 1, To Eva: 1 | 5                |
+| Ivy  | To Sia: 1, To Ria: 1, To Xi: 1, To Eva: 1  | 4                |
+| Eva  | To Sia: 2, To Ria: 1, To Xi: 1, To Ivy: 1  | 5                |
+
+
 | Node | Sum of Distances to Other Nodes | Calculation       | Closeness Centrality |
 |------|---------------------------------|-------------------|----------------------|
 | Sia  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
@@ -146,11 +157,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTk3ODQwOCwtMTExNjk3NTAxMCwxOD
-UzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5
-MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0Ni
-wtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02
-OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NT
-I2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2
-NDc2Nzc3XX0=
+eyJoaXN0b3J5IjpbLTExODUyMzU0MzIsLTExMTY5NzUwMTAsMT
+g1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1
+OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5ND
+YsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwt
+Njk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwOD
+UyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQw
+NjQ3Njc3N119
 -->
