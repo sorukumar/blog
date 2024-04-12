@@ -28,7 +28,18 @@ flowchart LR
    ```
 ## Intuitive definition
 
-
+1.  **Degree Centrality**
+        -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central.
+2.  **Closeness Centrality**
+        -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
+3.  **Betweenness Centrality**
+        -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
+4.  **Eigenvector Centrality**
+        -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
+5.  **Katz Centrality**
+        -   Similar to its cousin, the Eigenvector, but adds a sprinkle of influence from all nodes within a few handshakes. It acknowledges even the faintest nod from across the room.
+6.  **PageRank**
+        -   The algorithm of the Internet age, crafted by Google’s own. Nodes gain status not just by having many connections, but how significant those connections are. It’s the difference between a nod from a king and a wave from a crowd.
 
 
 
@@ -169,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNTE4MDcxLDE4MjIxNTE1MCwxMDIxNT
-UzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYsLTkzMTgzMTcxNiwx
-NjA0ODY2NjI5XX0=
+eyJoaXN0b3J5IjpbLTE2NzA0MTk3MTksMjYzNTE4MDcxLDE4Mj
+IxNTE1MCwxMDIxNTUzMzc2LDg0ODQyMTMzMiwxMTYzMzMzMTYs
+LTkzMTgzMTcxNiwxNjA0ODY2NjI5XX0=
 -->
