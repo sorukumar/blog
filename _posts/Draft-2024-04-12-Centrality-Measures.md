@@ -86,7 +86,8 @@ Once, we have shortest path through each node, and also total shortest path coun
 | Xi   | 0                           | $0/11 = 0$                        | 0.0                         |
 | Ivy  | 2                           | $2/11 \approx 0.182$              | 0.182                       |
 | Eva  | 0                           | $0/11 = 0$                        | 0.0                         |
-               |
+               
+
 
 
 #### Closeness Centrality
@@ -145,11 +146,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwNTI2MDAsLTExMTY5NzUwMTAsMT
-g1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1
-OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5ND
-YsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwt
-Njk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwOD
-UyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2NTAyMzYxLDQw
-NjQ3Njc3N119
+eyJoaXN0b3J5IjpbMTE2MTk3ODQwOCwtMTExNjk3NTAxMCwxOD
+UzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5
+MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0Ni
+wtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02
+OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIxMzA4NT
+I2NzAsLTk3ODUzMjAwMSw1MTcxOTE4NTAsODY1MDIzNjEsNDA2
+NDc2Nzc3XX0=
 -->
