@@ -76,7 +76,7 @@ Below table shows shortest path count for each pair.
 | Ivy - Eva | 1                   | Direct path                             | None                       |
 | **Total** | **11**              |                                         |                            |
 
-Once, we have shortest path through each node, and also total shortest path count. below is a table that does calcualtion on betweenness centrality.
+Once, we have shortest path through each node, and also total shortest path count. below is a table that does calculation on betweenness centrality.
 
 
 | Node | Shortest Paths Through Node | Betweenness Centrality Calculation | Betweenness Centrality Value |
@@ -159,7 +159,7 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzMzNzIxNCw2NDA3NjYwMjksLTExMT
+eyJoaXN0b3J5IjpbMTA5NjI5MTk1Niw2NDA3NjYwMjksLTExMT
 Y5NzUwMTAsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4
 NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3Mi
 wzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIz
