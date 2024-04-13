@@ -11,9 +11,10 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
         - So, for lightning network high count of  channels would result into higher degree centrality.
-        - If you get connected to a node with high degree centrality with good channel size that you keep balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have 
+        - If you get connected to a node with high degree centrality with good channel size that you keep balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have goos channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality.
 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
+        - 
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
 5.  **Eigenvector Centrality**
@@ -161,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDcwMzQzLC0xNDMwNjg3MTk0LDkzNz
-E2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3NTAx
-MCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMT
-EzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3
-MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NTA0LC0xMjMxMTg4Nj
-Q4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5ODU0MjczNzgsLTIx
-MzA4NTI2NzBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ1MTY2NjUsLTE0MzA2ODcxOTQsOT
+M3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1
+MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNS
+wxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1
+MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExOD
+g2NDgsLTY5ODI2NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwt
+MjEzMDg1MjY3MF19
 -->
