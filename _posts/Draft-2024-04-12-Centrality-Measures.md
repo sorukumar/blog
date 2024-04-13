@@ -11,7 +11,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
         - So, for lightning network high count of  channels would result into higher degree centrality.
-        - If you get connected to a node with high degree centrality with good channel size that you keep balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have goos channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality.
+        - If you get connected to a node with high degree centrality with good channel size that is balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have good channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality.
 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
         - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, it is quite possible two nodes have same betweenness centrality but they add completely different value to you. Think of Panama and Swej.
@@ -162,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5Mz
-cxNjk5ODAsMTA5NjI5MTk1Niw2NDA3NjYwMjksLTExMTY5NzUw
-MTAsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LD
-ExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUw
-NzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4OD
-Y0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0y
-MTMwODUyNjcwXX0=
+eyJoaXN0b3J5IjpbLTIzNzI4MTkwNywxNjE1MTY3NzEyLC0xND
+MwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAy
+OSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLT
+EzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5
+NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NT
+A0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5
+ODU0MjczNzhdfQ==
 -->
