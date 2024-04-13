@@ -9,7 +9,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 ## Intuitive definition
 
 1.  **Degree Centrality**
-        -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central.
+        -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. So, for lightning network high  channels, higher degree centrality.
 2.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
 3.  **Betweenness Centrality**
@@ -159,11 +159,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NT
-M2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkz
-NTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC
-0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5
-ODI2NTI5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1Mj
-Y3MCwtOTc4NTMyMDAxLDUxNzE5MTg1MCw4NjUwMjM2MSw0MDY0
-NzY3NzddfQ==
+eyJoaXN0b3J5IjpbMTA1MTEyNzI0Miw2NDA3NjYwMjksLTExMT
+Y5NzUwMTAsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4
+NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMzA3Mi
+wzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwtMTIz
+MTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQsOTg1NDI3Mz
+c4LC0yMTMwODUyNjcwLC05Nzg1MzIwMDEsNTE3MTkxODUwLDg2
+NTAyMzYxXX0=
 -->
