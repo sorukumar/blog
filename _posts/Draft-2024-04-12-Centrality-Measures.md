@@ -3,13 +3,15 @@
 
 Centrality measure are metrics to understand networks graphs, like Lighting network.
 
-This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom. Second, I'll also add some thoughts on relevance of the metric in context of Lightning network.
+This is an attemt to define centrality metrics in an intuitive way that would make sense to even your grand mom. Second, I'll also add some thoughts on relevance of the metric in context of Lightning network.
  
 
 ## Intuitive definition
 
 1.  **Degree Centrality**
-        -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. So, for lightning network high count of  channels would result into higher degree centrality.
+        -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
+        - So, for lightning network high count of  channels would result into higher degree centrality.
+        - If you get connected to a node with high degree centrality with good channel size that 
 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
 3.  **Closeness Centrality**
@@ -159,11 +161,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNz
-Y2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5
-NSwtMTM0NjExODcxNSwxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLT
-IxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NTEy
-Mzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMTU0NzUyNT
-g0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLDUx
-NzE5MTg1MF19
+eyJoaXN0b3J5IjpbLTEwNTQ1MjQzMjUsOTM3MTY5OTgwLDEwOT
+YyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5
+NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkzNTAzLD
+E1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNzk5
+OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NT
+I5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwt
+OTc4NTMyMDAxXX0=
 -->
