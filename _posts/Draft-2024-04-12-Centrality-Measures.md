@@ -3,22 +3,22 @@
 
 Centrality measure are metrics to understand networks graphs, like Lighting network.
 
-This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom. Second, I'll also add some thoughts on relevance of the metric in context of Light
+This is an attemt to define centrality metrics in an intuitive way that would make sense to folks without statistics background, ie for your grand mom. Second, I'll also add some thoughts on relevance of the metric in context of Lightning network.
  
 
 ## Intuitive definition
 
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. So, for lightning network high count of  channels would result into higher degree centrality.
-2.  **Closeness Centrality**
-        -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
-3.  **Betweenness Centrality**
+2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
-4.  **Eigenvector Centrality**
+3.  **Closeness Centrality**
+        -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
+5.  **Eigenvector Centrality**
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
-5.  **Katz Centrality**
+6.  **Katz Centrality**
         -   Similar to its cousin, the Eigenvector, but adds a sprinkle of influence from all nodes within a few handshakes. It acknowledges even the faintest nod from across the room.
-6.  **PageRank**
+7.  **PageRank**
         -   The algorithm of the Internet age, crafted by Google’s own. Nodes gain status not just by having many connections, but how significant those connections are. It’s the difference between a nod from a king and a wave from a crowd.
 
 # A Network Graph.
@@ -159,11 +159,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzQyOTI0NywxMDk2MjkxOTU2LDY0MD
-c2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2
-OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC
-0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUx
-MjM5NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1Mj
-U4NCw5ODU0MjczNzgsLTIxMzA4NTI2NzAsLTk3ODUzMjAwMSw1
-MTcxOTE4NTBdfQ==
+eyJoaXN0b3J5IjpbOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNz
+Y2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5
+NSwtMTM0NjExODcxNSwxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLT
+IxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNzk5OTIxMTEyLDE1NTEy
+Mzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NTI5MCwxMTU0NzUyNT
+g0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwtOTc4NTMyMDAxLDUx
+NzE5MTg1MF19
 -->
