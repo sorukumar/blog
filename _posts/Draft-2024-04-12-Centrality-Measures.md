@@ -126,9 +126,8 @@ Calculation on Closeness centrality
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
-$\text{Katz Centrality}(v) = \alpha \sum_{j=1}^{n} A_{ij} x_j + \beta$
 
-$\text{PageRank}(p_i) = \frac{1-d}{N} + d \sum_{p_j \in M(p_i)} \frac{\text{PageRank}(p_j)}{L(p_j)}$
+
 
 
 
@@ -163,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xND
-MwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAy
-OSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLT
-EzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5
-NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NT
-A0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5
-ODU0MjczNzhdfQ==
+eyJoaXN0b3J5IjpbLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNj
+E1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2Mjkx
+OTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LD
+E5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4
+NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMT
+ExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAs
+MTE1NDc1MjU4NF19
 -->
