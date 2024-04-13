@@ -17,7 +17,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
         - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, it is quite possible two nodes have same betweenness centrality but they add completely different value to you. Think of Panama and Swej.
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
-        - what this metrics tells you is that if you have to mass payments of micro size. this is the node to get connected to. 
+        - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments 
 5.  **Eigenvector Centrality**
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
 6.  **Katz Centrality**
@@ -163,11 +163,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjQyNDE0NSwxNjE1MTY3NzEyLC0xND
-MwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAy
-OSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLT
-EzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5
-NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwxNTUxMjM5NT
-A0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAsMTE1NDc1MjU4NCw5
-ODU0MjczNzhdfQ==
+eyJoaXN0b3J5IjpbLTE2NDI0NDcwMjQsMTYxNTE2NzcxMiwtMT
+QzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5MTk1Niw2NDA3NjYw
+MjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC
+0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEz
+OTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOT
+UwNCwtMTIzMTE4ODY0OCwtNjk4MjY1MjkwLDExNTQ3NTI1ODQs
+OTg1NDI3Mzc4XX0=
 -->
