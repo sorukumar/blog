@@ -11,7 +11,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
         - So, for lightning network high count of  channels would result into higher degree centrality.
-        - If you get connected to a node with high degree centrality with good channel size that 
+        - If you get connected to a node with high degree centrality with good channel size that you keep balanced, you well set to send and receive payments at will. 
 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
 3.  **Closeness Centrality**
@@ -161,11 +161,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ1MjQzMjUsOTM3MTY5OTgwLDEwOT
-YyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5
-NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkzNTAzLD
-E1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC0xNzk5
-OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgsLTY5ODI2NT
-I5MCwxMTU0NzUyNTg0LDk4NTQyNzM3OCwtMjEzMDg1MjY3MCwt
-OTc4NTMyMDAxXX0=
+eyJoaXN0b3J5IjpbMTMzNDczNzg2Nyw5MzcxNjk5ODAsMTA5Nj
+I5MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3
+NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMT
+U4ODc0ODIzMSwtMjEzOTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5
+MjExMTIsMTU1MTIzOTUwNCwtMTIzMTE4ODY0OCwtNjk4MjY1Mj
+kwLDExNTQ3NTI1ODQsOTg1NDI3Mzc4LC0yMTMwODUyNjcwLC05
+Nzg1MzIwMDFdfQ==
 -->
