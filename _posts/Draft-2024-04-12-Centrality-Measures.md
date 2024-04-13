@@ -14,7 +14,7 @@ This is an attemt to define centrality metrics in an intuitive way that would ma
         - If you get connected to a node with high degree centrality with good channel size that you keep balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have goos channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality.
 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
-        - 
+        - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, 
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
 5.  **Eigenvector Centrality**
@@ -162,7 +162,7 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ1MTY2NjUsLTE0MzA2ODcxOTQsOT
+eyJoaXN0b3J5IjpbLTE4MzU2MDQwNzQsLTE0MzA2ODcxOTQsOT
 M3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1
 MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNS
 wxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1
