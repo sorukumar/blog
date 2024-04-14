@@ -127,7 +127,7 @@ Calculation on Closeness centrality
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
-
+is it overly sensitive
 
 
 
@@ -162,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNj
-E1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2Mjkx
-OTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LD
-E5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4
-NzQ4MjMxLC0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMT
-ExMiwxNTUxMjM5NTA0LC0xMjMxMTg4NjQ4LC02OTgyNjUyOTAs
-MTE1NDc1MjU4NF19
+eyJoaXN0b3J5IjpbMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNz
+kyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5
+OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLD
+E4NTM2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMz
+NTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOT
+Q2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgs
+LTY5ODI2NTI5MF19
 -->
