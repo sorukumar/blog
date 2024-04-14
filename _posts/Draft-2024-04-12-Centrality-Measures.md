@@ -1,7 +1,7 @@
 
 # Centrality Measures
 
-Centrality measure are metrics to understand networks graphs, like Lighting network.
+Centrality measure are metrics to understand, quantify and rank importance of nodes of a  graph, like Lighting network.
 
 This is an attemt to define centrality metrics in an intuitive way that would make sense to even your grand mom. Second, I'll also add some thoughts on relevance of the metric in context of Lightning network.
  
@@ -162,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNz
-kyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5
-OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLD
-E4NTM2MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMz
-NTkzNTAzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOT
-Q2LC0xNzk5OTIxMTEyLDE1NTEyMzk1MDQsLTEyMzExODg2NDgs
-LTY5ODI2NTI5MF19
+eyJoaXN0b3J5IjpbMTQ3NjUxMDU0OCwxNDE0MTk2MjU0LC0xNz
+A2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4
+NzE5NCw5MzcxNjk5ODAsMTA5NjI5MTk1Niw2NDA3NjYwMjksLT
+ExMTY5NzUwMTAsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2
+MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0ODIzMSwtMjEzOTUzMz
+A3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIsMTU1MTIzOTUwNCwt
+MTIzMTE4ODY0OF19
 -->
