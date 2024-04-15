@@ -152,7 +152,7 @@ flowchart TB
     HighClosenessNode --- HighBetweennessNode
    ```
 
-Lightning and CloseLooking at the graph, you may guess the 'HighbetweennessNode' does not have super low closeness centrality. There is a overlappall with other meausre of centrality, so in the contxt of LN, we dont get the incremental value from additional calculation. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
+**Lightning and Closeness centrality:** Looking at the graph, you may guess that 'HighbetweennessNode' does not have super low closeness centrality. There is a overlappall with other meausre of centrality, so in the contxt of LN, we dont get the incremental value from additional calculation. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
 
 
 #### Eigenvector Centrality
@@ -214,11 +214,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1MzM2NzcsMTEwODM2MDMwMywtOT
-c2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQz
-LDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2Mj
-E3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEw
-LDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNz
-A2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4
-NzE5NF19
+eyJoaXN0b3J5IjpbMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Nj
+g4MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1
+NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNz
+k0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2
+MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNj
+AzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcx
+OTRdfQ==
 -->
