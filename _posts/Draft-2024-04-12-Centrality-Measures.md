@@ -125,6 +125,25 @@ Calculation on Closeness centrality
 
 #### Eigenvector Centrality
 $\text{Eigenvector Centrality}Ax = \lambda x$
+
+```mermaid
+graph TB
+    matrix((Adjacency Matrix))
+    rowHeader[ " " "Sia" "Ria" "Xi" "Ivy" "Eva" ]
+    row1[ "Sia" 0 1 0 1 0 ]
+    row2[ "Ria" 1 0 1 1 1 ]
+    row3[ "Xi" 0 1 0 1 0 ]
+    row4[ "Ivy" 1 1 1 0 1 ]
+    row5[ "Eva" 0 1 0 1 0 ]
+
+    matrix --> rowHeader
+    rowHeader --> row1
+    row1 --> row2
+    row2 --> row3
+    row3 --> row4
+    row4 --> row5
+   ```
+   
 ```mermaid
 graph TB
     matrix((Adjacency Matrix))
@@ -178,7 +197,7 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDM0OTg0OCw2MTkwMjg0NTcsLTE4NT
+eyJoaXN0b3J5IjpbMTc0NzI5MDI4MSw2MTkwMjg0NTcsLTE4NT
 QxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2
 MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLD
 EwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2
