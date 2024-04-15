@@ -93,20 +93,17 @@ Once, we have shortest path through each node, and also total shortest path coun
 For LN, it is not just the count of channel matters for high B, but the location of node in the graph. A node with a low channel count (low D) may have high B, if it acts as a bridge.  
 
 **How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage.
-
+For an example, have
 ```mermaid
 flowchart LR
-    Sia --- Ria
-    Ria --- Xi
-    Xi --- Ivy
-    Ivy --- Eva
-    Sia --- Ivy
-    Ria --- Ivy
-    Ria --- Eva
-    Xi --- Kim
-    Kim --- Tom
-    Tom --- Eva
-    Ria --- Kim
+    Alice --- Bob
+    Bob --- Carol
+    Carol --- Alice
+    Dave --- Eve
+    Eve --- Frank
+    Frank --- Dave
+    Alice --- Kim
+    Kim --- Dave
    ```
 Make a note that capacity/liquidity has no play on this metric.
 ## Closeness Centrality
@@ -199,11 +196,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Njg4MjMyLC0xNTI1MzcyOTgsMTMxOD
-k0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5
-NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OT
-EyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0Mjcs
-MTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MT
-UxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTU2NjAyNzA5MSwtOTc2ODgyMzIsLTE1Mj
+UzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEy
+MTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOT
+g1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1Nywt
+MTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OT
+IzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5
+ODBdfQ==
 -->
