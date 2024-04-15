@@ -188,7 +188,7 @@ For the whole 5-node graph that we are working on, can be represented as below  
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
-The above matrix is $A$, now, we can solve for  $x$ with an initi 
+The above matrix is $A$, now, we can solve for  centrality vector $x$ with an initial guess of  
 
 | Iteration | Vector $x$                                    | Normalized $x$                                                                                           | Norm of $x$      | Approx. $\lambda$   |
 |-----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|
@@ -224,7 +224,7 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDQzNTMzMSwxNTExNTY2MjgxLDgyMD
+eyJoaXN0b3J5IjpbLTMzMjcxNDUyMCwxNTExNTY2MjgxLDgyMD
 Q2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC0xNTY0MzMy
 NTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMj
 MwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1Mzcy
