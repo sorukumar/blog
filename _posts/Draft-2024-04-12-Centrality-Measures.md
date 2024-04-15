@@ -62,10 +62,10 @@ For LN, it is only '# of channels' that will have play on degree centrality.  A 
 ## Betweenness Centrality
 
 
-$\text{Betweenness Centrality}(v) = \frac{\text{Number of shortest paths passing through } v}{\text{Total number of shortest paths}}$
+$\text{Betweenness Centrality}(N) = \frac{\text{Number of shortest paths passing through } N}{\text{Total number of shortest paths}}$
 
 
-Below table shows shortest path count for each pair.
+Below table shows shortest path count for each pair, and it should give you an idea on what is shortest path.
 
 | Node Pair | Shortest Path Count | Path Details                            | Intermediary Nodes         |
 |-----------|---------------------|-----------------------------------------|----------------------------|
@@ -94,6 +94,8 @@ Once, we have shortest path through each node, and also total shortest path coun
                
 
 
+
+## Betweenness Centrality
 #### Closeness Centrality
 
 Closeness Centrality for a node \(v\) is calculated as:
@@ -183,11 +185,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM0NzE0NDQsMTMxODk0OTkwLDIzNz
-ExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQs
-LTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
-UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
-NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
-E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
-MDI5XX0=
+eyJoaXN0b3J5IjpbMTEyMzA1NzAyMSwxMzE4OTQ5OTAsMjM3MT
+ExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwt
+MjA2MjE3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNT
+A3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0
+LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMT
+QzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5MTk1Niw2NDA3NjYw
+MjldfQ==
 -->
