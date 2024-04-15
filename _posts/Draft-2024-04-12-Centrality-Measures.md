@@ -94,7 +94,24 @@ For LN, it is not just the count of channel matters for high B, but the location
 
 **How to think about 'Degree centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage.
 
-
+```mermaid
+flowchart LR
+    Ava --- Mia
+    Mia --- Zoe
+    Zoe --- Ivy
+    Ivy --- Mya
+    Mya --- Eva
+    Eva --- Ida
+    Ida --- Uma
+    Uma --- Ava
+    Zoe --- Eva
+    Mia --- Ida
+    Ava --- Uma
+    Uma --- Ivy
+    Ivy --- Zoe
+    Zoe --- Mya
+    Mya --- Uma
+   ```
 ## Closeness Centrality
 
 
@@ -185,7 +202,7 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQxNjE0NSwtMTUyNTM3Mjk4LDEzMT
+eyJoaXN0b3J5IjpbMTk0NjU3MTAyOSwtMTUyNTM3Mjk4LDEzMT
 g5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwx
 OTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOT
 kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
