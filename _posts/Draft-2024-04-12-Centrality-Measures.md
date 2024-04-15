@@ -124,7 +124,11 @@ Calculation on Closeness centrality
 
 
 #### Eigenvector Centrality
-$\text{Eigenvector Centrality}Ax = \lambda x$
+
+$$
+\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v
+$$
+
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
 |-----|-----|-----|-----|-----|-----|
@@ -171,12 +175,14 @@ $\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}
 $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
+
+$\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MD
-I4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MDYwMzE0
-NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3MTk0LD
-kzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3
-NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MT
-UsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3
-NTA3MDk0Nl19
+eyJoaXN0b3J5IjpbMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
+UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
+NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
+E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
+MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5NS
+wtMTM0NjExODcxNSwxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLTIx
+Mzk1MzMwNzJdfQ==
 -->
