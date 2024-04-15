@@ -26,7 +26,7 @@ Here is what I'll try achieving in this post:
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
 
 
-# A Network Graph.
+## A Network Graph.
 
 ```mermaid
 flowchart LR
@@ -50,7 +50,7 @@ For LN, it is only '# of channels' that will have play on degree centrality.  A 
 
 **How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph.
 
-
+**Calculation**
 | Node | Degree ( # of nodes connected to) | Calculation                        | Degree Centrality |
 |------|--------|------------------------------------|-------------------|
 | Sia  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
@@ -59,7 +59,8 @@ For LN, it is only '# of channels' that will have play on degree centrality.  A 
 | Ivy  | 4      | $\frac{4}{5-1} = \frac{4}{4}$      | 1.0               |
 | Eva  | 2      | $\frac{2}{5-1} = \frac{2}{4}$      | 0.5               |
 
-#### Betweenness Centrality
+## Betweenness Centrality
+
 
 $\text{Betweenness Centrality}(v) = \frac{\text{Number of shortest paths passing through } v}{\text{Total number of shortest paths}}$
 
@@ -182,11 +183,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTEwMjU0LDEzMTg5NDk5MCwyMzcxMT
-E3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0y
-MDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MD
-c5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQs
-LTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xND
-MwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAy
-OV19
+eyJoaXN0b3J5IjpbLTExNDM0NzE0NDQsMTMxODk0OTkwLDIzNz
+ExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQs
+LTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
+UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
+NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
+E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
+MDI5XX0=
 -->
