@@ -129,7 +129,9 @@ To calculate the eigenvector centrality of a node \( v \) in a network, we use t
 
 $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v$
 
-The best way to solve it is using matrix operati
+The best way to solve it is using matrix operation, and iterate over from an assumed value of centrality for each node. 
+
+The whole graph can be represendted as below matrix. it is called adjacency matrics. If you look closely, 
 
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
@@ -180,11 +182,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2OTc4Nzc1LDEzODE5ODU0MjMsNzcxOT
-kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
-LDE0MTQxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNj
-E1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2Mjkx
-OTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LD
-E5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4
-NzQ4MjMxXX0=
+eyJoaXN0b3J5IjpbLTQ3MTI0MjkwOCwxMzgxOTg1NDIzLDc3MT
+k5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQy
+NywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMT
+YxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5
+MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NC
+wxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4
+ODc0ODIzMV19
 -->
