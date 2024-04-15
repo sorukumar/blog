@@ -92,7 +92,7 @@ Once, we have shortest path through each node, and also total shortest path coun
                
 For LN, it is not just the count of channel matters for high B, but the location of node in the graph. A node with a low channel count (low D) may have high B, if it acts as a bridge.  
 
-**How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph.
+**How to think about 'Degree centrality' for node selection?** If you
 
 
 ## Closeness Centrality
@@ -185,7 +185,7 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjI4MDA4LC0xNTI1MzcyOTgsMTMxOD
+eyJoaXN0b3J5IjpbMTQwOTEwNzE3LC0xNTI1MzcyOTgsMTMxOD
 k0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5
 NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OT
 EyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0Mjcs
