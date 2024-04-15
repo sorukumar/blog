@@ -188,7 +188,7 @@ For the whole 5-node graph that we are working on, can be represented as below  
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
-Once we know, we solve for $x$ using, and get centrality of 
+The above matrix is $A$, now, we can solve for  $x$ with an initi 
 
 | Iteration | Vector $x$                                    | Normalized $x$                                                                                           | Norm of $x$      | Approx. $\lambda$   |
 |-----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|
@@ -224,11 +224,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjkwNDUyLDE1MTE1NjYyODEsODIwND
-YxMjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1
-MzEsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMz
-A0OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5
-OCwxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OT
-U4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOTg1NDIz
-XX0=
+eyJoaXN0b3J5IjpbLTQxMDQzNTMzMSwxNTExNTY2MjgxLDgyMD
+Q2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC0xNTY0MzMy
+NTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMj
+MwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1Mzcy
+OTgsMTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nz
+k1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQy
+M119
 -->
