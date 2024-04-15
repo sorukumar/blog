@@ -96,9 +96,9 @@ Once, we have shortest path through each node, and also total shortest path coun
 #### Closeness Centrality
 
 Closeness Centrality for a node \(v\) is calculated as:
-$$
-\text{Closeness Centrality}(v) = \frac{\text{Total number of nodes} - 1}{\text{Sum of the shortest path distances from } v \text{ to all other nodes}}
-$$
+
+$\text{Closeness Centrality}(v) = \frac{\text{Total number of nodes} - 1}{\text{Sum of the shortest path distances from } v \text{ to all other nodes}}$
+
 This metric evaluates how quickly a node can reach all other nodes in the network, providing a measure of how 'central' a node is in terms of network navigation.
 
 Calculation for sum of the shortest path
@@ -126,9 +126,10 @@ Calculation on Closeness centrality
 #### Eigenvector Centrality
 
 To calculate the eigenvector centrality of a node \( v \) in a network, we use the following formula:
-$$
-\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v
-$$
+
+$\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v$
+
+The best way to solve it is using matrix operati
 
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
@@ -179,11 +180,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTA0OTczMSwxMzgxOTg1NDIzLDc3MT
-k5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQy
-NywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMT
-YxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5
-MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NC
-wxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4
-ODc0ODIzMV19
+eyJoaXN0b3J5IjpbNjk2OTc4Nzc1LDEzODE5ODU0MjMsNzcxOT
+kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
+LDE0MTQxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNj
+E1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2Mjkx
+OTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LD
+E5NDgyNjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4
+NzQ4MjMxXX0=
 -->
