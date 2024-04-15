@@ -147,11 +147,9 @@ flowchart TB
     NodeC --- NodeG
     NodeC --- NodeH
     NodeG --- NodeH
-
     HighClosenessNode --- HighDegreeNode
     HighClosenessNode --- NodeC
     HighClosenessNode --- HighBetweennessNode
-
    ```
 
 
@@ -214,11 +212,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzMzNjgyMCwxMTA4MzYwMzAzLC05Nz
-Y4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMs
-NTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMT
-c5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAs
-NjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MD
-YwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3
-MTk0XX0=
+eyJoaXN0b3J5IjpbLTE4MjYzODM1MTIsMTEwODM2MDMwMywtOT
+c2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQz
+LDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2Mj
+E3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEw
+LDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNz
+A2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4
+NzE5NF19
 -->
