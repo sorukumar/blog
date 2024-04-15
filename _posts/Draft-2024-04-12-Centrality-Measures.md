@@ -177,8 +177,7 @@ Final expression in matrix equation form:
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
-
-For the whole 5-node graph that we are working on, can be represented as below  adjacency matrix. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n * n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell. Simple.
+The 5-node graph we are working on, can be represented as below table. When represented as matrix, it is called adjanIf you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n * n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell. Simple.
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
 |-----|-----|-----|-----|-----|-----|
@@ -187,6 +186,17 @@ For the whole 5-node graph that we are working on, can be represented as below  
 | Xi  |  0  |  1  |  0  |  1  |  0  |
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
+
+$$
+\text{Adjacency Matrix } A = \begin{bmatrix}
+0 & 1 & 0 & 1 & 0 \\
+1 & 0 & 1 & 1 & 1 \\
+0 & 1 & 0 & 1 & 0 \\
+1 & 1 & 1 & 0 & 1 \\
+0 & 1 & 0 & 1 & 0 \\
+\end{bmatrix}
+$$
+
 
 The above matrix is $A$, now, we can solve for  centrality vector $x$ with an initial guess of 
 $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
@@ -225,11 +235,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDU4MTkwMCwtMTk1NTkwNzQxOSwxNT
-ExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2
-MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NC
-w1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4
-MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1Nz
-E1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0
-NjZdfQ==
+eyJoaXN0b3J5IjpbNzU0NjU1NjYsLTE5NTU5MDc0MTksMTUxMT
+U2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMTU4MjE5NjAz
+NCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNT
+gwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIz
+MiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNT
+MzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2
+XX0=
 -->
