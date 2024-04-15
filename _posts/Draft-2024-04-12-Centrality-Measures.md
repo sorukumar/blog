@@ -123,7 +123,7 @@ Calculation on Closeness centrality
 
 
 
-
+#### Closeness Centrality
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
@@ -162,11 +162,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MjkxNzI0LC0xODU0MTkwNDI3LDE0MT
-QxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3
-NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LD
-Y0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgy
-NjA2OTUsLTEzNDYxMTg3MTUsMTEzMzU5MzUwMywxNTg4NzQ4Mj
-MxLC0yMTM5NTMzMDcyLDM3NTA3MDk0NiwtMTc5OTkyMTExMiwx
-NTUxMjM5NTA0XX0=
+eyJoaXN0b3J5IjpbLTcxMjc2NDY4MCwtMTg1NDE5MDQyNywxND
+E0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2
+NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5MTk1Ni
+w2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NCwxOTQ4
+MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4ODc0OD
+IzMSwtMjEzOTUzMzA3MiwzNzUwNzA5NDYsLTE3OTk5MjExMTIs
+MTU1MTIzOTUwNF19
 -->
