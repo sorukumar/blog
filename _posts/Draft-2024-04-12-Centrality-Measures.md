@@ -152,7 +152,9 @@ flowchart TB
     HighClosenessNode --- HighBetweennessNode
    ```
 
-Looking at the graph, you may guess the 'HighbetweennessNode' does not have super low closeness centrality. There is a overall with other centrality, so in the contxt of LN, we dont get the incremental value from a
+Looking at the graph, you may guess the 'HighbetweennessNode' does not have super low closeness centrality. There is a overlappall with other meausre of centrality, so in the contxt of LN, we dont get the incremental value from additional calculation. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have worry about li
+
+
 #### Eigenvector Centrality
 
 To calculate the eigenvector centrality of a node \( v \) in a network, we use the following formula:
@@ -212,11 +214,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYxMDAxMDcsMTEwODM2MDMwMywtOT
-c2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQz
-LDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2Mj
-E3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEw
-LDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNz
-A2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4
-NzE5NF19
+eyJoaXN0b3J5IjpbLTQyMDA1MDUzOSwxMTA4MzYwMzAzLC05Nz
+Y4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMs
+NTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMT
+c5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAs
+NjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MD
+YwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3
+MTk0XX0=
 -->
