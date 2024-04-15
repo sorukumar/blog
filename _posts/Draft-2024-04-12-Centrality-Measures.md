@@ -126,6 +126,15 @@ Calculation on Closeness centrality
 #### Eigenvector Centrality
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
+|     | Sia | Ria | Xi  | Ivy | Eva |
+|-----|-----|-----|-----|-----|-----|
+| Sia |  0  |  1  |  0  |  1  |  0  |
+| Ria |  1  |  0  |  1  |  1  |  1  |
+| Xi  |  0  |  1  |  0  |  1  |  0  |
+| Ivy |  1  |  1  |  1  |  0  |  1  |
+| Eva |  0  |  1  |  0  |  1  |  0  |
+
+
 ```mermaid
 graph TB
     matrix((Adjacency Matrix))
@@ -180,11 +189,11 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NT
-QxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2
-MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLD
-EwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2
-MTA5NzQsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkzNT
-AzLDE1ODg3NDgyMzEsLTIxMzk1MzMwNzIsMzc1MDcwOTQ2LC0x
-Nzk5OTIxMTEyXX0=
+eyJoaXN0b3J5IjpbNjQwOTY3MjAwLC02NTM1MDc5MTAsNjE5MD
+I4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MDYwMzE0
+NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3MTk0LD
+kzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3
+NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLTEzNDYxMTg3MT
+UsMTEzMzU5MzUwMywxNTg4NzQ4MjMxLC0yMTM5NTMzMDcyLDM3
+NTA3MDk0Nl19
 -->
