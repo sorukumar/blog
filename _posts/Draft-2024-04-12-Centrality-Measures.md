@@ -105,13 +105,14 @@ flowchart LR
     Kim --- Dave
    ```
 
-**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. HowMake a note that capacity/liquidity has no play on this metric.
+**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric.
+
 ## Closeness Centrality
 
 
-Closeness Centrality for a node \(v\) is calculated as:
+Closeness Centrality for a node \(N\) is calculated as:
 
-$\text{Closeness Centrality}(v) = \frac{\text{Total number of nodes} - 1}{\text{Sum of the shortest path distances from } v \text{ to all other nodes}}$
+$\text{Closeness Centrality}(N) = \frac{\text{Total number of nodes} - 1}{\text{Sum of the shortest path distances from } N \text{ to all other nodes}}$
 
 This metric evaluates how quickly a node can reach all other nodes in the network, providing a measure of how 'central' a node is in terms of network navigation.
 
@@ -196,7 +197,7 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjQ3NDA1NSwtOTc2ODgyMzIsLTE1Mj
+eyJoaXN0b3J5IjpbMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1Mj
 UzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEy
 MTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOT
 g1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1Nywt
