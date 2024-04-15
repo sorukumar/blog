@@ -109,7 +109,6 @@ flowchart LR
 
 ## Closeness Centrality
 
-
 Closeness Centrality for a node \(N\) is calculated as:
 
 $\text{Closeness Centrality}(N) = \frac{\text{Total number of nodes} - 1}{\text{Sum of the shortest path distances from } N \text{ to all other nodes}}$
@@ -136,6 +135,24 @@ Calculation on Closeness centrality
 | Ivy  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
 | Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
+```mermaid
+flowchart TB
+    HighBetweennessNode --- NodeA
+    HighBetweennessNode --- NodeB
+    NodeA --- HighDegreeNode
+    NodeB --- NodeC
+    HighDegreeNode --- NodeD
+    HighDegreeNode --- NodeE
+    HighDegreeNode --- NodeF
+    NodeC --- NodeG
+    NodeC --- NodeH
+    NodeG --- NodeH
+
+    HighClosenessNode --- HighDegreeNode
+    HighClosenessNode --- NodeC
+    HighClosenessNode --- HighBetweennessNode
+
+   ```
 
 
 #### Eigenvector Centrality
@@ -197,11 +214,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1Mj
-UzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEy
-MTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOT
-g1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1Nywt
-MTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OT
-IzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTk4MzMzNjgyMCwxMTA4MzYwMzAzLC05Nz
+Y4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMs
+NTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMT
+c5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAs
+NjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MD
+YwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3
+MTk0XX0=
 -->
