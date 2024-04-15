@@ -125,6 +125,7 @@ Calculation on Closeness centrality
 
 #### Eigenvector Centrality
 
+To calculate the eigenvector centrality of a node \( v \) in a network, we use the following formula:
 $$
 \text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v
 $$
@@ -178,11 +179,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
-UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
-NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
-E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
-MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0ODI2MDY5NS
-wtMTM0NjExODcxNSwxMTMzNTkzNTAzLDE1ODg3NDgyMzEsLTIx
-Mzk1MzMwNzJdfQ==
+eyJoaXN0b3J5IjpbMTAwOTA0OTczMSwxMzgxOTg1NDIzLDc3MT
+k5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQy
+NywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMT
+YxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5
+MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NC
+wxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4
+ODc0ODIzMV19
 -->
