@@ -161,9 +161,7 @@ To calculate the eigenvector centrality of a node \( v \) in a network, we use t
 
 $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v$
 
-So, what it tell us simply is that my reputation on LN graph depends on my peers 
-
-The best way to solve it is using matrix operation, and iterate over from an assumed value of centrality for each node. 
+So, what it tell us simply is that my reputation on LN graph depends on my peers reputation, and my peers reputation depends on my reputation. We are both feeding into each other, the best way to solve this iterative mathematical problem is with matrix operation, and iterate over from an assumed value of centrality for each node. 
 
 The whole graph can be represendted as below matrix. it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
 
@@ -203,7 +201,7 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTEzMTY1Miw1ODA0MjA0NTIsMjMwND
+eyJoaXN0b3J5IjpbLTE5ODAzMDgxNiw1ODA0MjA0NTIsMjMwND
 kxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgs
 MTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1OD
 I0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3
