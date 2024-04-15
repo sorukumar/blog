@@ -178,7 +178,7 @@ $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
 
-For the whole 5-node graph that we are working on it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
+For the whole 5-node graph that we are working on, can be represented as below  adjacency matrix. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell. Simple.
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
 |-----|-----|-----|-----|-----|-----|
@@ -188,6 +188,7 @@ For the whole 5-node graph that we are working on it is called adjacency matrics
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
+Once we know, we solve for $x$ using, and get centrality of 
 
 ```mermaid
 flowchart TB
@@ -215,7 +216,7 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTg0Nzc4NSwtMTU4MjE5NjAzNCwtMT
+eyJoaXN0b3J5IjpbMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMT
 U2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIw
 NDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMT
 UyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUs
