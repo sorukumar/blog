@@ -186,6 +186,7 @@ The 5-node graph we are working on, can be represented as below table. When repr
 | Xi  |  0  |  1  |  0  |  1  |  0  |
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
+
 $\text{Adjacency Matrix } A = \begin{bmatrix}0 & 1 & 0 & 1 & 0 \\1 & 0 & 1 & 1 & 1 \\0 & 1 & 0 & 1 & 0 \\1 & 1 & 1 & 0 &1\\0 & 1 & 0 & 1 & 0 \\\end{bmatrix}$
 
 
@@ -198,7 +199,7 @@ $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
 | Initial   | $[1, 1, 1, 1, 1]^T$                           | $\sqrt{5}$       | $[1, 1, 1, 1, 1]^T$                                                                                     | -                   | -                                     |
 | 1         | $[2, 4, 2, 4, 2]^T$                           | $2\sqrt{11}$     | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$ (6.633)| $\lambda \approx \frac{\|x^{(1)}\|}{\|x^{(0)}\|} = \frac{2\sqrt{11}}{\sqrt{5}}$ |
 
-
+Now, we know how to calculate eigenvector centrality, have a look at a graph below that show 
 
 ```mermaid
 flowchart TB
@@ -226,11 +227,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODU0OTEwLC03NzE0NzM0NzQsLTE5NT
-U5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkx
-NSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLD
-E5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYw
-MzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMz
-cxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0
-XX0=
+eyJoaXN0b3J5IjpbODIyMDg0MzcsLTc3MTQ3MzQ3NCwtMTk1NT
+kwNzQxOSwxNTExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1
+LC0xNTgyMTk2MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMT
+kyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAz
+MDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNz
+ExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDRd
+fQ==
 -->
