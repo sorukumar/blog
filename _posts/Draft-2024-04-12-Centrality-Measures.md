@@ -47,7 +47,9 @@ Degree Centrality for a node \(v\) is calculated as:
 
 $\text{Degree Centrality}(v) = \frac{\text{Number of direct connections of } v}{\text{Total possible connections}}$
 
-For LN, it is the # of channels that will have play on degree centrality.  A channel like LQWD with thousand channelsThis measures the immediate connectivity of the node within the network, highlighting its potential for influence or interaction relative to the total network size.
+For LN, it is the # of channels that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality com
+
+This measures the immediate connectivity of the node within the network, highlighting its potential for influence or interaction relative to the total network size.
 
 
 
@@ -183,11 +185,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTI0NzgwOCw1NzE1MzM1NSwxMjE4Nz
-k1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQy
-Myw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NT
-QxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2
-MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLD
-EwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2
-MTA5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE1NTU0MDY0ODIsNTcxNTMzNTUsMTIxOD
+c5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0
+MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xOD
+U0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5
+NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MC
+wxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUz
+NjEwOTc0XX0=
 -->
