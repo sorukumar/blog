@@ -192,10 +192,10 @@ The above matrix is $A$, now, we can solve for  centrality vector $x$ with an in
 $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
   
 
-| Iteration | Vector $x$                                    | Normalized $x$                                                                                           | Norm of $x$      | Approx. $\lambda$   |
-|-----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|
-| Initial   | $[1, 1, 1, 1, 1]^T$                         | $[1, 1, 1, 1, 1]^T$                                                                                    | $\sqrt{5}$     | -                       |
-| 1         | $[2, 4, 2, 4, 2]^T$                         | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$  | $2\sqrt{11}$ (6.633) |
+| Iteration | Vector $x$                                    | Norm of $x$      | Normalized $x$                                                                                           | Approx. $\lambda$   | $\lambda$ Formula                      |
+|-----------|------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------|
+| Initial   | $[1, 1, 1, 1, 1]^T$                           | $\sqrt{5}$       | $[1, 1, 1, 1, 1]^T$                                                                                     | -                   | -                                     |
+| 1         | $[2, 4, 2, 4, 2]^T$                           | $2\sqrt{11}$     | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$ (6.633)| $\lambda \approx \frac{\|x^{(1)}\|}{\|x^{(0)}\|} = \frac{2\sqrt{11}}{\sqrt{5}}$ |
 
 
 
@@ -225,11 +225,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwODc3MjY3LC0xOTU1OTA3NDE5LDE1MT
-E1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYw
-MzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LD
-U4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2MDMwMywtOTc2ODgy
-MzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MT
-UzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2
-Nl19
+eyJoaXN0b3J5IjpbLTU4MDU4MTkwMCwtMTk1NTkwNzQxOSwxNT
+ExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2
+MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NC
+w1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4
+MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1Nz
+E1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0
+NjZdfQ==
 -->
