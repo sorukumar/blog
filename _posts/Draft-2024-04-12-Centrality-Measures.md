@@ -39,9 +39,7 @@ flowchart LR
     Ria --- Eva
    ```
    
-## Calculation
-
-#### Degree Centrality
+## Degree Centrality
 
 Degree Centrality for a node \(N\) is calculated as:
 
@@ -50,9 +48,7 @@ $\text{Degree Centrality}(N) = \frac{\text{Number of channels for } N}{\text{Tot
 For LN, it is only '# of channels' that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
 
-How to think about 'Degree centrality' for node selection? If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give you good coverage, if all of their channels in concentraed in one part of LN graph.
-
-
+**How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph.
 
 
 | Node | Degree ( # of nodes connected to) | Calculation                        | Degree Centrality |
@@ -186,11 +182,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUzMTk1NDgsMTMxODk0OTkwLDIzNz
-ExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQs
-LTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
-UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
-NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
-E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
-MDI5XX0=
+eyJoaXN0b3J5IjpbLTI3NTEwMjU0LDEzMTg5NDk5MCwyMzcxMT
+E3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0y
+MDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MD
+c5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQs
+LTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xND
+MwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAy
+OV19
 -->
