@@ -157,11 +157,11 @@ flowchart TB
 
 #### Eigenvector Centrality
 
-To calculate the eigenvector centrality of a node \( v \) in a network, we use the following formula:
+To calculate the eigenvector centrality of a node \( N \) in a network, we use the following formula:
 
-$\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } v$
+$\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } N$
 
-So, what it tell us simply is that my reputation on LN graph depends on my peers reputation, and my peers reputation depends on my reputation. We are both feeding into each other, the best way to solve this iterative mathematical problem is with matrix operation, and iterate over from an assumed value of centrality for each node. And, the above formula can be rewritten as
+So, what it tell us simply is that my reputation on LN graph depends on my peers reputation, and my peers reputation depends on my reputation. We are both feeding into each other, the best way to solve this iterative mathematical problem is with matrix operation, and iterate over from an assumed value of centrality for each node. And, the above formula can be rewritten as:
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
@@ -202,7 +202,7 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDc5MTkzMCw1ODA0MjA0NTIsMjMwND
+eyJoaXN0b3J5IjpbMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwND
 kxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgs
 MTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1OD
 I0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3
