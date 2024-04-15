@@ -177,7 +177,7 @@ Final expression in matrix equation form:
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
-The 5-node graph we are working on, can be represented as below table. When represented as matrix, it is called adjanIf you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n * n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell. Simple.
+The 5-node graph we are working on, can be represented as below table. When represented as matrix, it is called adjacency matrix $A$ . You may notice that  there is a row and a column for each node. For n nodes, it is $n * n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell. Simple.
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
 |-----|-----|-----|-----|-----|-----|
@@ -235,11 +235,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NjU1NjYsLTE5NTU5MDc0MTksMTUxMT
-U2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMTU4MjE5NjAz
-NCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNT
-gwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIz
-MiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNT
-MzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2
-XX0=
+eyJoaXN0b3J5IjpbLTE0MTAyODE1MTMsLTE5NTU5MDc0MTksMT
+UxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMTU4MjE5
+NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NT
+QsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4
+ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNT
+cxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5
+NDY2XX0=
 -->
