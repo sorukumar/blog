@@ -186,16 +186,7 @@ The 5-node graph we are working on, can be represented as below table. When repr
 | Xi  |  0  |  1  |  0  |  1  |  0  |
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
-
-$
-\text{Adjacency Matrix } A = \begin{bmatrix}
-0 & 1 & 0 & 1 & 0 \\
-1 & 0 & 1 & 1 & 1 \\
-0 & 1 & 0 & 1 & 0 \\
-1 & 1 & 1 & 0 & 1 \\
-0 & 1 & 0 & 1 & 0 \\
-\end{bmatrix}
-$$
+$\text{Adjacency Matrix } A = \begin{bmatrix}0 & 1 & 0 & 1 & 0 \\1 & 0 & 1 & 1 & 1 \\0 & 1 & 0 & 1 & 0 \\1 & 1 & 1 & 0 &1\\0 & 1 & 0 & 1 & 0 \\\end{bmatrix}$
 
 
 Now, we know what  $A$ is we can  solve for  centrality vector $x$ in the equation $Ax = \lambda x$ with an initial guess of 
@@ -235,11 +226,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzYzMjQwNiwtNzcxNDczNDc0LC0xOT
-U1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5
-MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4Mi
-wxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2
-MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMj
-M3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0
-NF19
+eyJoaXN0b3J5IjpbMjA2ODU0OTEwLC03NzE0NzM0NzQsLTE5NT
+U5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkx
+NSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLD
+E5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYw
+MzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMz
+cxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0
+XX0=
 -->
