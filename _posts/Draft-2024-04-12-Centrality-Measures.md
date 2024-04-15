@@ -161,7 +161,7 @@ To calculate the eigenvector centrality of a node \( N \) in a network, we use t
 
 $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } N$
 
-The solve of the above problem has to be iterative, the centrality of node $N$ depdends on its neighbors, and each neighbors centrality depends on all its neighbors that includes $N$. We'll embark on presenting above equatio
+The solve of the above problem has to be iterative, the centrality of node $N$ depdends on its neighbors, and each neighbors centrality depends on all its neighbors that includes $N$. We'll embark on presenting above equation as matrix form as it would bvery effective in solving for this iterative problem
 
 Mathematically, we can say the centrality $x_{N}$ of node $N$:
 $x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
@@ -176,9 +176,9 @@ $x = \frac{1}{\lambda} Ax$
 Final expression in matrix equation form:
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
-So, what it tell us simply is that my reputation on LN graph depends on my peers reputation, and my peers reputation depends on my reputation. We are both feeding into each other, the best way to solve this iterative mathematical problem is with matrix operation, and iterate over from an assumed value of centrality for each node. And, the above formula can be rewritten as:
 
-The whole graph can be represented as below matrix. it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
+
+For the whole 5-node graph that we are working on it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
 |-----|-----|-----|-----|-----|-----|
@@ -215,11 +215,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjk2OSwtMTU4MjE5NjAzNCwtMTU2ND
-MzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUy
-LDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNT
-M3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIx
-ODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5OD
-U0MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3XX0=
-
+eyJoaXN0b3J5IjpbLTMyNTg0Nzc4NSwtMTU4MjE5NjAzNCwtMT
+U2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIw
+NDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMT
+UyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUs
+MTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzOD
+E5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3
+XX0=
 -->
