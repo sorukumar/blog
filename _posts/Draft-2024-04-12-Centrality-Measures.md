@@ -131,7 +131,7 @@ $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centraliti
 
 The best way to solve it is using matrix operation, and iterate over from an assumed value of centrality for each node. 
 
-The whole graph can be represendted as below matrix. it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 
+The whole graph can be represendted as below matrix. it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
 
 
 |     | Sia | Ria | Xi  | Ivy | Eva |
@@ -182,11 +182,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIxNTU1NywxMzgxOTg1NDIzLDc3MT
-k5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQy
-NywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMT
-YxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5
-MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYxMDk3NC
-wxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDExMzM1OTM1MDMsMTU4
-ODc0ODIzMV19
+eyJoaXN0b3J5IjpbLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3Nz
+E5OTEyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0
+MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LD
+E2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYy
+OTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5Nz
+QsMTk0ODI2MDY5NSwtMTM0NjExODcxNSwxMTMzNTkzNTAzLDE1
+ODg3NDgyMzFdfQ==
 -->
