@@ -198,40 +198,10 @@ is it overly sensitive
 
 How do you interpret it in terms of opening channels in Lighting network
 
-## A more comprehensive graph
 
-```mermaid
-flowchart LR
-    Ava --- Mia
-    Mia --- Zoe
-    Zoe --- Ivy
-    Ivy --- Mya
-    Mya --- Eva
-    Eva --- Ida
-    Ida --- Uma
-    Uma --- Ava
-    Zoe --- Eva
-    Mia --- Ida
-    Ava --- Uma
-    Uma --- Ivy
-    Ivy --- Zoe
-    Zoe --- Mya
-    Mya --- Uma
-   ```
 
-## Python code to do centrality measure
-
-## Generic formula for centrality measure for mathematically savvy
-
-$\text{Betweenness Centrality}(v) = \sum_{s \neq v \neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}$
-
-$\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
-
-$\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
-
-$\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMzQ5MjU3LDIzMDQ5MTAwOSwxMTA4Mz
+eyJoaXN0b3J5IjpbNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4Mz
 YwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwy
 MzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OT
 Q0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02
