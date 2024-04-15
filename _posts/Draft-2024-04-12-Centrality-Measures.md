@@ -14,15 +14,13 @@ Here is what I'll try achieving in this post:
 
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
-        - So, for lightning network high count of  channels would result into higher degree centrality.
-        - If you get connected to a node with high degree centrality with good channel size that is balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have good channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality.
-2.  **Betweenness Centrality**
+ 2.  **Betweenness Centrality**
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
         - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, it is quite possible two nodes have same betweenness centrality but they add completely different value to you. Think of Panama and Swej.
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
         - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments matters because if you expect to send or receive from all almost everyone then it is good metric to look at.
-5.  **Eigenvector Centrality**
+4.  **Eigenvector Centrality**
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
 
 
@@ -188,11 +186,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MT
-ExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwt
-MjA2MjE3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNT
-A3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0
-LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMT
-QzMDY4NzE5NCw5MzcxNjk5ODAsMTA5NjI5MTk1Niw2NDA3NjYw
-MjldfQ==
+eyJoaXN0b3J5IjpbLTUxNDIxMTU4LC0xNTI1MzcyOTgsMTMxOD
+k0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5
+NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OT
+EyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0Mjcs
+MTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MT
+UxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5
+NTZdfQ==
 -->
