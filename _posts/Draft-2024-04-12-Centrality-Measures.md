@@ -163,6 +163,11 @@ $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centraliti
 
 So, what it tell us simply is that my reputation on LN graph depends on my peers reputation, and my peers reputation depends on my reputation. We are both feeding into each other, the best way to solve this iterative mathematical problem is with matrix operation, and iterate over from an assumed value of centrality for each node. And, the above formula can be rewritten as:
 
+$x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
+$x_N = \frac{1}{\lambda} \sum_{M=1}^{n} a_{NM} x_M$
+$x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
+$x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
+$x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 The whole graph can be represented as below matrix. it is called adjacency matrics. If you look closely, you will see that, it is nothing but a table, where there is row and column for each node. For n nodes, it is $n by n$ table. if two nodes are connected, we assign 1 to that cell, if they are not connected we assign 0 to the cell.
@@ -202,11 +207,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwND
-kxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgs
-MTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1OD
-I0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3
-NzE5OTEyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOT
-A0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4
-XX0=
+eyJoaXN0b3J5IjpbLTEwNjkxMTcyMDgsMTkyMDI3Mjg1NCw1OD
+A0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMy
+LC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1NzE1Mz
+M1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYs
+MTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2MTkwMj
+g0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2
+OF19
 -->
