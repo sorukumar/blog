@@ -161,9 +161,9 @@ To calculate the eigenvector centrality of a node \( N \) in a network, we use t
 
 $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } N$
 
-Mathematically, we can the centrality $x_{N}$ of node $N$:
+Mathematically, we can show the centrality $x_{N}$ of node $N$:
 $x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
-Incorporate the adjacency matrix $A$, where �n is the total number of nodes, and ���aNM​ is an element of the adjacency matrix indicating the presence or absence of a link between �N and �M.
+Incorporate the adjacency matrix $A$, where $n$ is the total number of nodes, and $a_{NM}$ is an element of the adjacency matrix indicating the presence or absence of a link between $N$ and $M$.
 Express the centrality using matrix notation for all nodes
 $x_N = \frac{1}{\lambda} \sum_{M=1}^{n} a_{NM} x_M$
 Multiply through by �λ and rearrange the equation:
@@ -210,11 +210,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjY0NzA0NSwtMTU2NDMzMjUzMSwtMj
-U2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAw
-OSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMT
-g5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwx
-OTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOT
-kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
-XX0=
+eyJoaXN0b3J5IjpbNjY5MzQ1NjgyLC0xNTY0MzMyNTMxLC0yNT
+Y4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwNDkxMDA5
+LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgsMTMxOD
+k0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5
+NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OT
+EyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0Mjdd
+fQ==
 -->
