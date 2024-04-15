@@ -198,7 +198,7 @@ $$
 $$
 
 
-The above matrix is $A$, now, we can solve for  centrality vector $x$ with an initial guess of 
+Now, we know what  $A$ is we can  solve for  centrality vector $x$ in the equation $Ax = \lambda x$ with an initial guess of 
 $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
   
 
@@ -235,11 +235,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAyODE1MTMsLTE5NTU5MDc0MTksMT
-UxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMTU4MjE5
-NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAyNzI4NT
-QsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC05NzY4
-ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3NDMsNT
-cxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5
-NDY2XX0=
+eyJoaXN0b3J5IjpbLTc3MTQ3MzQ3NCwtMTk1NTkwNzQxOSwxNT
+ExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2
+MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NC
+w1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4
+MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1Nz
+E1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0
+NjZdfQ==
 -->
