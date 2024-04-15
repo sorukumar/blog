@@ -50,7 +50,7 @@ $\text{Degree Centrality}(N) = \frac{\text{Number of channels for } N}{\text{Tot
 For LN, it is only '# of channels' that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
 
-How to think about 'Degree centrality' for node selection? If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. get connected to a node with high degree centrality with good channel size that is balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have good channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality
+How to think about 'Degree centrality' for node selection? If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give you good coverage, if 
 
 
 
@@ -186,11 +186,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY5MzMsMTMxODk0OTkwLDIzNzExMT
-c0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIw
-NjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNz
-kxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwt
-MTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLTE0Mz
-A2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5
-XX0=
+eyJoaXN0b3J5IjpbLTEwNDkxMzczNDQsMTMxODk0OTkwLDIzNz
+ExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQs
+LTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1Mz
+UwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1
+NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLT
+E0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2
+MDI5XX0=
 -->
