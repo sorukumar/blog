@@ -49,7 +49,8 @@ $\text{Degree Centrality}(v) = \frac{\text{Number of direct connections of } v}{
 
 For LN, it is the # of channels that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
-This measures the immediate connectivity of the node within the network, highlighting its potential for influence or interaction relative to the total network size.
+
+If you get connected to a node with high degree centrality with good channel size that is balanced, you are well set to send and receive payments. However, when we are comparing nodes with similar degree centrality, the one that have good channel size, and kept it balance is the one you should choose, even though they may have relatively lower degree centrality
 
 
 
@@ -185,11 +186,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE3NDQ0OTEsNTcxNTMzNTUsMTIxOD
-c5NTgyNCwxOTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0
-MjMsNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xOD
-U0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5
-NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MC
-wxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUz
-NjEwOTc0XX0=
+eyJoaXN0b3J5IjpbMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OT
+U4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOTg1NDIz
+LDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1ND
+E5MDQyNywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYx
+OTgsMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMT
+A5NjI5MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYx
+MDk3NF19
 -->
