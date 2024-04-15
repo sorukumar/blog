@@ -187,7 +187,7 @@ The 5-node graph we are working on, can be represented as below table. When repr
 | Ivy |  1  |  1  |  1  |  0  |  1  |
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
-$$
+$
 \text{Adjacency Matrix } A = \begin{bmatrix}
 0 & 1 & 0 & 1 & 0 \\
 1 & 0 & 1 & 1 & 1 \\
@@ -235,11 +235,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTQ3MzQ3NCwtMTk1NTkwNzQxOSwxNT
-ExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2
-MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NC
-w1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4
-MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1Nz
-E1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0
-NjZdfQ==
+eyJoaXN0b3J5IjpbMTU0MzYzMjQwNiwtNzcxNDczNDc0LC0xOT
+U1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5
+MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4Mi
+wxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2
+MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMj
+M3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0
+NF19
 -->
