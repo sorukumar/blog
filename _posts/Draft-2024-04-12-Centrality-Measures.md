@@ -107,8 +107,8 @@ flowchart LR
     Kim --- Tom
     Tom --- Eva
     Ria --- Kim
-
    ```
+Make a note that capacity/liquidity has no play on this metric.
 ## Closeness Centrality
 
 
@@ -199,11 +199,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzcxMjgxNSwtMTUyNTM3Mjk4LDEzMT
-g5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwx
-OTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOT
-kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
-LDE0MTQxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNj
-E1MTY3NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2Mjkx
-OTU2XX0=
+eyJoaXN0b3J5IjpbLTk3Njg4MjMyLC0xNTI1MzcyOTgsMTMxOD
+k0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0LDE5
+NDgzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OT
+EyOTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0Mjcs
+MTQxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MT
+UxNjc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5
+NTZdfQ==
 -->
