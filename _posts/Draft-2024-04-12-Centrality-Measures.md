@@ -135,24 +135,7 @@ $\text{Eigenvector Centrality}Ax = \lambda x$
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
 
-```mermaid
-graph TB
-    matrix((Adjacency Matrix))
-    rowHeader["| |Sia|Ria|Xi|Ivy|Eva|"]
-    row1["|Sia|0|1|0|1|0|"]
-    row2["|Ria|1|0|1|1|1|"]
-    row3["|Xi|0|1|0|1|0|"]
-    row4["|Ivy|1|1|1|0|1|"]
-    row5["|Eva|0|1|0|1|0|"]
 
-    matrix --> rowHeader
-    rowHeader --> row1
-    row1 --> row2
-    row2 --> row3
-    row3 --> row4
-    row4 --> row5
-   ```
-   
 
 is it overly sensitive
 
@@ -189,7 +172,7 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwOTY3MjAwLC02NTM1MDc5MTAsNjE5MD
+eyJoaXN0b3J5IjpbNzcxOTkxMjkzLC02NTM1MDc5MTAsNjE5MD
 I4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLTE3MDYwMzE0
 NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMwNjg3MTk0LD
 kzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOSwtMTExNjk3
