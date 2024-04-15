@@ -190,10 +190,10 @@ For the whole 5-node graph that we are working on, can be represented as below  
 
 Once we know, we solve for $x$ using, and get centrality of 
 
-| Iteration | Vector \(x\)             | Normalized \(x\)         | Norm of \(x\)  | Approx. \( \lambda \) |
-|-----------|--------------------------|--------------------------|----------------|----------------------|
-| Initial   | \( [1, 1, 1, 1, 1]^T \)  | \( [1, 1, 1, 1, 1]^T \)  | 2.236 (sqrt(5))| -                    |
-| 1         | \( [2, 4, 2, 4, 2]^T \)  | \( [\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}]^T \) | 2\(\sqrt{11}\) | 6.633 (2\(\sqrt{11}\)) |
+| Iteration | Vector $x$                                    | Normalized $x$                                                                                           | Norm of $x$      | Approx. $\lambda$   |
+|-----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|
+| Initial   | $[1, 1, 1, 1, 1]^T$                         | $[1, 1, 1, 1, 1]^T$                                                                                    | $\sqrt{5}$     | -                       |
+| 1         | $[2, 4, 2, 4, 2]^T$                         | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$  | $2\sqrt{11}$ (6.633) |
 
 
 
@@ -224,11 +224,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNDYxMjY5LDE0MzIxODQ5MTUsLTE1OD
-IxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4MiwxOTIwMjcy
-ODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2MDMwMywtOT
-c2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQz
-LDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2Mj
-E3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEw
+eyJoaXN0b3J5IjpbMTUxMTU2NjI4MSw4MjA0NjEyNjksMTQzMj
+E4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAz
+NDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMT
+A4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5
+MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mz
+g3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkz
 XX0=
 -->
