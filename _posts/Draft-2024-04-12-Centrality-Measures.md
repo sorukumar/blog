@@ -192,7 +192,6 @@ flowchart TB
     NodeG --- NodeH
     HighEigenvectorNode --- NodeF
     NodeF --- NodeG
-
    ```
 
 is it overly sensitive
@@ -232,11 +231,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDU1MjQyMSwyMzA0OTEwMDksMTEwOD
-M2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAs
-MjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nz
-k0NCwtMjA2MjE3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5Mywt
-NjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MT
-k2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2Nzcx
-Ml19
+eyJoaXN0b3J5IjpbMzgxMzQ5MjU3LDIzMDQ5MTAwOSwxMTA4Mz
+YwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwy
+MzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mzg3OT
+Q0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02
+NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOT
+YyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEy
+XX0=
 -->
