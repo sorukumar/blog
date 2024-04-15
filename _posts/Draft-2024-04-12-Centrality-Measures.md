@@ -152,7 +152,7 @@ flowchart TB
     HighClosenessNode --- HighBetweennessNode
    ```
 
-Looking at the graph, you may guess the HighbetweennessNode does not have super low closeness centrality as well. 
+Looking at the graph, you may guess the 'HighbetweennessNode' does not have super low closeness centrality. There is a overall with other centrality, so in the contxt of LN, we dont get the incremental value from a
 #### Eigenvector Centrality
 
 To calculate the eigenvector centrality of a node \( v \) in a network, we use the following formula:
@@ -212,11 +212,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNjYyNTA5LDExMDgzNjAzMDMsLTk3Nj
-g4MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1
-NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNz
-k0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2
-MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNj
-AzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcx
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYxMDAxMDcsMTEwODM2MDMwMywtOT
+c2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTExNzQz
+LDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0NCwtMjA2Mj
+E3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEw
+LDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNz
+A2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4
+NzE5NF19
 -->
