@@ -5,7 +5,7 @@ Centrality measure are metrics to understand, quantify and rank importance of no
 
 Here is what I'll try achieving in this post:
 
- 1. Present an intuitive definition and understanding of centrality measures we see aroud on LN exploreres.
+ 1. Present an intuitive definition and understanding of centrality measures we see around on LN exploreres.
  2. Show and calculate those metrics for a simple 5-node graph
  3. Thoughts on what to think of these centrality metrics when choosing a peer to open a channel.
 
@@ -187,11 +187,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODc5NTgyNCwxOTQ4Mzg3OTQ0LC0yMD
-YyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5
-MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLT
-E3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMw
-Njg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOS
-wtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLTEz
-NDYxMTg3MTVdfQ==
+eyJoaXN0b3J5IjpbLTMxMjgzMjAyMCwxMjE4Nzk1ODI0LDE5ND
+gzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEy
+OTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMT
+QxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUx
+Njc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NT
+YsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0
+ODI2MDY5NV19
 -->
