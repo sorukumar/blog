@@ -10,7 +10,6 @@ Here is what I'll try achieving in this post:
  3. Thoughts on what to think of these centrality metrics when choosing a peer to open a channel.
 
 
-
 ## Intuitive definition
 
 1.  **Degree Centrality**
@@ -25,10 +24,7 @@ Here is what I'll try achieving in this post:
         - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments matters because if you expect to send or receive from all almost everyone then it is good metric to look at.
 5.  **Eigenvector Centrality**
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
-6.  **Katz Centrality**
-        -   Similar to its cousin, the Eigenvector, but adds a sprinkle of influence from all nodes within a few handshakes. It acknowledges even the faintest nod from across the room.
-7.  **PageRank**
-        -   The algorithm of the Internet age, crafted by Google’s own. Nodes gain status not just by having many connections, but how significant those connections are. It’s the difference between a nod from a king and a wave from a crowd.
+
 
 # A Network Graph.
 
@@ -187,11 +183,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjgzMjAyMCwxMjE4Nzk1ODI0LDE5ND
-gzODc5NDQsLTIwNjIxNzk0NjYsMTM4MTk4NTQyMyw3NzE5OTEy
-OTMsLTY1MzUwNzkxMCw2MTkwMjg0NTcsLTE4NTQxOTA0MjcsMT
-QxNDE5NjI1NCwtMTcwNjAzMTQ2OCwtNzkyMzk2MTk4LDE2MTUx
-Njc3MTIsLTE0MzA2ODcxOTQsOTM3MTY5OTgwLDEwOTYyOTE5NT
-YsNjQwNzY2MDI5LC0xMTE2OTc1MDEwLDE4NTM2MTA5NzQsMTk0
-ODI2MDY5NV19
+eyJoaXN0b3J5IjpbNTcxNTMzNTUsMTIxODc5NTgyNCwxOTQ4Mz
+g3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkz
+LC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MT
+QxOTYyNTQsLTE3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3
+NzEyLC0xNDMwNjg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LD
+Y0MDc2NjAyOSwtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgy
+NjA2OTVdfQ==
 -->
