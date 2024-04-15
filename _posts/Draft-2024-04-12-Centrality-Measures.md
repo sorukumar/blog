@@ -46,7 +46,7 @@ $\text{Degree Centrality}(N) = \frac{\text{Number of channels for } N}{\text{Tot
 For LN, it is only '# of channels' that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
 
-**How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph.
+**How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph. Make a note that capacity/liquidity has no play on this metric.
 
 **Calculation**
 | Node | Degree ( # of nodes connected to) | Calculation                        | Degree Centrality |
@@ -92,25 +92,22 @@ Once, we have shortest path through each node, and also total shortest path coun
                
 For LN, it is not just the count of channel matters for high B, but the location of node in the graph. A node with a low channel count (low D) may have high B, if it acts as a bridge.  
 
-**How to think about 'Degree centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage.
+**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage.
 
 ```mermaid
 flowchart LR
-    Ava --- Mia
-    Mia --- Zoe
-    Zoe --- Ivy
-    Ivy --- Mya
-    Mya --- Eva
-    Eva --- Ida
-    Ida --- Uma
-    Uma --- Ava
-    Zoe --- Eva
-    Mia --- Ida
-    Ava --- Uma
-    Uma --- Ivy
-    Ivy --- Zoe
-    Zoe --- Mya
-    Mya --- Uma
+    Sia --- Ria
+    Ria --- Xi
+    Xi --- Ivy
+    Ivy --- Eva
+    Sia --- Ivy
+    Ria --- Ivy
+    Ria --- Eva
+    Xi --- Kim
+    Kim --- Tom
+    Tom --- Eva
+    Ria --- Kim
+
    ```
 ## Closeness Centrality
 
@@ -202,7 +199,7 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjU3MTAyOSwtMTUyNTM3Mjk4LDEzMT
+eyJoaXN0b3J5IjpbMTMzMzcxMjgxNSwtMTUyNTM3Mjk4LDEzMT
 g5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgyNCwx
 OTQ4Mzg3OTQ0LC0yMDYyMTc5NDY2LDEzODE5ODU0MjMsNzcxOT
 kxMjkzLC02NTM1MDc5MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3
