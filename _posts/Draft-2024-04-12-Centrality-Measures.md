@@ -3,6 +3,10 @@
 
 Centrality measure are metrics to understand, quantify and rank importance of nodes in a graph. Lightning network is a graph.
 
+Here is what I'll try achieving in this post:
+
+ 1. Present an intuitive definition and understanding of
+
 This is an attemt to define centrality metrics in an intuitive way that would work for even your four legged kid, if you try. I'll also add some thoughts on relevance of the metric in context of Lightning network.
  
 
@@ -182,11 +186,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMz
-gxOTg1NDIzLDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1
-NywtMTg1NDE5MDQyNywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC
-03OTIzOTYxOTgsMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5Mzcx
-Njk5ODAsMTA5NjI5MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMT
-AsMTg1MzYxMDk3NCwxOTQ4MjYwNjk1LC0xMzQ2MTE4NzE1LDEx
-MzM1OTM1MDNdfQ==
+eyJoaXN0b3J5IjpbMTI1NDE1ODg0NywxOTQ4Mzg3OTQ0LC0yMD
+YyMTc5NDY2LDEzODE5ODU0MjMsNzcxOTkxMjkzLC02NTM1MDc5
+MTAsNjE5MDI4NDU3LC0xODU0MTkwNDI3LDE0MTQxOTYyNTQsLT
+E3MDYwMzE0NjgsLTc5MjM5NjE5OCwxNjE1MTY3NzEyLC0xNDMw
+Njg3MTk0LDkzNzE2OTk4MCwxMDk2MjkxOTU2LDY0MDc2NjAyOS
+wtMTExNjk3NTAxMCwxODUzNjEwOTc0LDE5NDgyNjA2OTUsLTEz
+NDYxMTg3MTVdfQ==
 -->
