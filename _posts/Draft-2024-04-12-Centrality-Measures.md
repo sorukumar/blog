@@ -43,9 +43,9 @@ flowchart LR
 
 #### Degree Centrality
 
-Degree Centrality for a node \(v\) is calculated as:
+Degree Centrality for a node \(n\) is calculated as:
 
-$\text{Degree Centrality}(v) = \frac{\text{Number of direct connections of } v}{\text{Total possible connections}}$
+$\text{Degree Centrality}(n) = \frac{\text{Number of channels for } n}{\text{Total number of channels in LN graph}}$
 
 For LN, it is the # of channels that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
@@ -186,11 +186,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OT
-U4MjQsMTk0ODM4Nzk0NCwtMjA2MjE3OTQ2NiwxMzgxOTg1NDIz
-LDc3MTk5MTI5MywtNjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1ND
-E5MDQyNywxNDE0MTk2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYx
-OTgsMTYxNTE2NzcxMiwtMTQzMDY4NzE5NCw5MzcxNjk5ODAsMT
-A5NjI5MTk1Niw2NDA3NjYwMjksLTExMTY5NzUwMTAsMTg1MzYx
-MDk3NF19
+eyJoaXN0b3J5IjpbMTMxODk0OTkwLDIzNzExMTc0Myw1NzE1Mz
+M1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNzk0NjYs
+MTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2MTkwMj
+g0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNjAzMTQ2
+OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcxOTQsOT
+M3MTY5OTgwLDEwOTYyOTE5NTYsNjQwNzY2MDI5LC0xMTE2OTc1
+MDEwXX0=
 -->
