@@ -175,7 +175,25 @@ The whole graph can be represendted as below matrix. it is called adjacency matr
 | Eva |  0  |  1  |  0  |  1  |  0  |
 
 
+```mermaid
+flowchart TB
+    HighBetweennessNode --- NodeA
+    HighBetweennessNode --- NodeB
+    NodeA --- HighDegreeNode
+    NodeB --- NodeC
+    HighDegreeNode --- NodeD
+    HighDegreeNode --- NodeE
+    HighDegreeNode --- HighEigenvectorNode
+    HighEigenvectorNode --- HighClosenessNode
+    HighClosenessNode --- NodeD
+    HighClosenessNode --- NodeE
+    NodeC --- NodeG
+    NodeC --- NodeH
+    NodeG --- NodeH
+    HighEigenvectorNode --- NodeF
+    NodeF --- NodeG
 
+   ```
 
 is it overly sensitive
 
@@ -214,11 +232,11 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Nj
-g4MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1
-NzE1MzM1NSwxMjE4Nzk1ODI0LDE5NDgzODc5NDQsLTIwNjIxNz
-k0NjYsMTM4MTk4NTQyMyw3NzE5OTEyOTMsLTY1MzUwNzkxMCw2
-MTkwMjg0NTcsLTE4NTQxOTA0MjcsMTQxNDE5NjI1NCwtMTcwNj
-AzMTQ2OCwtNzkyMzk2MTk4LDE2MTUxNjc3MTIsLTE0MzA2ODcx
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTcwMDU1MjQyMSwyMzA0OTEwMDksMTEwOD
+M2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAs
+MjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nz
+k0NCwtMjA2MjE3OTQ2NiwxMzgxOTg1NDIzLDc3MTk5MTI5Mywt
+NjUzNTA3OTEwLDYxOTAyODQ1NywtMTg1NDE5MDQyNywxNDE0MT
+k2MjU0LC0xNzA2MDMxNDY4LC03OTIzOTYxOTgsMTYxNTE2Nzcx
+Ml19
 -->
