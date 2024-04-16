@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCentrality Measures for Lightning Network"
+title: "Centrality Measures for Lightning Network"
 categories: Lightning Technical
 author:
 - sorukumar
@@ -228,5 +228,5 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDU1MjAwNl19
+eyJoaXN0b3J5IjpbLTIwOTM5NjE5NjNdfQ==
 -->
