@@ -89,7 +89,7 @@ Once, we have shortest path through each node, and also total shortest path coun
                
 It is not just the count of channel matters for high B, but the location of node in the graph. A node with a low channel count (low D) may have high B, if it acts as a bridge.  
 
-For an example, have a look at below graph. Kim has high B, even though we have nodes with high D.
+For an example, have a look at below graph. Kim has high B, even though we have nodes, Alice and Dave, with higher D.
 ```mermaid
 flowchart LR
     Alice --- Bob
@@ -102,7 +102,7 @@ flowchart LR
     Kim --- Dave
    ```
 
-**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric.
+**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric. So, we can choose one with high capacit
 
 ## Closeness Centrality
 
@@ -224,11 +224,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzUyNDg0MywtMTE5Nzg5NTc1LC03Nz
-E0NzM0NzQsLTE5NTU5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEy
-NjksMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMS
-wtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5
-MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LD
-EzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgy
-NF19
+eyJoaXN0b3J5IjpbMjk4MzA3NjUsLTExOTc4OTU3NSwtNzcxND
+czNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5
+LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLT
+I1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEw
+MDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMz
+E4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjRd
+fQ==
 -->
