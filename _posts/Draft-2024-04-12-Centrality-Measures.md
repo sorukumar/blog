@@ -132,7 +132,7 @@ Calculation for Closeness centrality
 | Ivy  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
 | Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
-Study the graph below to internalize that how same or different Closeness centrality is with Big D or Big B.
+Study the graph below to internalize that how  Closeness centrality is with Big D or Big B.
 ```mermaid
 flowchart TB
     HighBetweennessNode --- NodeA
@@ -150,7 +150,7 @@ flowchart TB
     HighClosenessNode --- HighBetweennessNode
    ```
 
-**Lightning and Closeness centrality:** Looking at the graph, you may guess that 'HighbetweennessNode' does not have super low closeness centrality. There is a overlappall with other meausre of centrality, so in the contxt of LN, we dont get the incremental value from additional calculation. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
+**Lightning and Closeness centrality:** Looking at the graph, you may guess that 'HighbetweennessNode' does not have super low closeness centrality. There is an overlapp with other meadures of centrality, so in the contxt of LN, we need to ask are we getting value from an additional metric. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
 
 
 #### Eigenvector Centrality
@@ -225,11 +225,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODQ0NDAyNSwtMTE5Nzg5NTc1LC03Nz
-E0NzM0NzQsLTE5NTU5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEy
-NjksMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMS
-wtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5
-MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LD
-EzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgy
-NF19
+eyJoaXN0b3J5IjpbNjc3ODM2Mjg4LC0xMTk3ODk1NzUsLTc3MT
+Q3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2MjgxLDgyMDQ2MTI2
+OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC0xNTY0MzMyNTMxLC
+0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwNDkx
+MDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgsMT
+MxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0
+XX0=
 -->
