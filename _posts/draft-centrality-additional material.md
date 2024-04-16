@@ -49,6 +49,9 @@ $\text{Degree Centrality}(v) = \frac{\text{Degree of } v}{N-1}$
 $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 
 $\text{Eigenvector Centrality}Ax = \lambda x$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjExODMzM119
+eyJoaXN0b3J5IjpbLTE4ODIyNDI0MjVdfQ==
 -->
