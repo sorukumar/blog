@@ -217,14 +217,14 @@ flowchart TB
     NodeF --- NodeG
    ```
 
-is it overly sensitive
 
-How do you interpret it in terms of opening channels in Lighting network
+**Lightning and Eigenvector centrality:** Big E is super sensitive to . There is an overlapp with other meadures of centrality, so in the contxt of LN, we need to ask are we getting value from an additional metric. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NjkzNjE1LC0xNTkyMDg5OTI1LC0xMT
+eyJoaXN0b3J5IjpbNDM0OTAxMDI1LC0xNTkyMDg5OTI1LC0xMT
 k3ODk1NzUsLTc3MTQ3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2
 MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC
 0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0
