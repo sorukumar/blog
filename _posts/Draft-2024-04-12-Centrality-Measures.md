@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "SCentrality Measures for Lightning Network"
+categories: Bitcoin Business Model
+author:
+- sorukumar
+---
 # Centrality Measures for Lightning Network
 
 Centrality measure are metrics to understand, quantify and rank importance of nodes in a graph. Lightning network is a graph.
@@ -223,11 +229,11 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MjAzNDIwLDQzNDkwMTAyNSwtMTU5Mj
-A4OTkyNSwtMTE5Nzg5NTc1LC03NzE0NzM0NzQsLTE5NTU5MDc0
-MTksMTUxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMT
-U4MjE5NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAy
-NzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC
-05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3
-NDNdfQ==
+eyJoaXN0b3J5IjpbMzk1MjI2MTQsNDM0OTAxMDI1LC0xNTkyMD
+g5OTI1LC0xMTk3ODk1NzUsLTc3MTQ3MzQ3NCwtMTk1NTkwNzQx
+OSwxNTExNTY2MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNT
+gyMTk2MDM0LC0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3
+Mjg1NCw1ODA0MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLT
+k3Njg4MjMyLC0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0
+M119
 -->
