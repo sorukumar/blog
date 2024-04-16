@@ -5,9 +5,9 @@ Centrality measure are metrics to understand, quantify and rank importance of no
 
 Here is what I'll try achieving in this post:
 
- 1. Present an intuitive definition and understanding of centrality measures we see around on LN exploreres.
+ 1. Present an intuitive definition and understanding of centrality measures we see around.
  2. Show and calculate those metrics for a simple 5-node graph
- 3. Thoughts on what to think of these centrality metrics when choosing a peer to open a channel.
+ 3. Thoughts on what to think of these centrality metrics when choosing a peer to open a channel, or in general in context of LN graph.
 
 
 ## Intuitive definition
@@ -15,8 +15,7 @@ Here is what I'll try achieving in this post:
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
  2.  **Betweenness Centrality**
-        -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.
-        - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, it is quite possible two nodes have same betweenness centrality but they add completely different value to you. Think of Panama and Swej.
+        -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.     
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
         - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments matters because if you expect to send or receive from all almost everyone then it is good metric to look at.
@@ -227,11 +226,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc4OTU3NSwtNzcxNDczNDc0LC0xOT
-U1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5
-MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4Mi
-wxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2
-MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMj
-M3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjQsMTk0ODM4Nzk0
-NF19
+eyJoaXN0b3J5IjpbLTE1MjA4MDY1MTQsLTExOTc4OTU3NSwtNz
+cxNDczNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYx
+MjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1Mz
+EsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0
+OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OC
+wxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4
+MjRdfQ==
 -->
