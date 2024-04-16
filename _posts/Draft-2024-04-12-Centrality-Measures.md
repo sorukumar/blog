@@ -132,6 +132,7 @@ Calculation for Closeness centrality
 | Ivy  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
 | Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
+Study the graph below to internalize that how same or different Closeness centrality is with Big D or Big B.
 ```mermaid
 flowchart TB
     HighBetweennessNode --- NodeA
@@ -224,7 +225,7 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTMyNTEyOCwtMTE5Nzg5NTc1LC03Nz
+eyJoaXN0b3J5IjpbMTY0ODQ0NDAyNSwtMTE5Nzg5NTc1LC03Nz
 E0NzM0NzQsLTE5NTU5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEy
 NjksMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMS
 wtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5
