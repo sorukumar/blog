@@ -51,7 +51,9 @@ $\text{Closeness Centrality}(v) = \frac{N-1}{\sum_{u=1}^{N} d(v, u)}$
 $\text{Eigenvector Centrality}Ax = \lambda x$
 
 
+     - This is also a good node to get connected to. However make sure that the canal is wide enough, and secondly, it is quite possible two nodes have same betweenness centrality but they add completely different value to you. Think of Panama and Swej.
 
+        - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments matters because if you expect to send or receive from all almost everyone then it is good metric to look at.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODIyNDI0MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI0NjA4MTJdfQ==
 -->
