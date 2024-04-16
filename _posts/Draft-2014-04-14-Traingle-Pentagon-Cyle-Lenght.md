@@ -1,6 +1,13 @@
 
+---
+layout: post
+title: "Traingle or Pentagon -- LN Graph"
+categories: Lightning Technical
+author:
+- sorukumar
+---
 
-
+In Lightn
 The cycle structure of a graph can impact its quality in several ways:
 
 -   Robustness: Longer cycles make the graph more robust, as there are more alternative paths between nodes if some edges fail. Shorter cycles like C3 are more vulnerable.[3](https://math.stackexchange.com/questions/1490053/what-is-the-difference-between-a-loop-cycle-and-strongly-connected-components-i)
@@ -9,6 +16,6 @@ The cycle structure of a graph can impact its quality in several ways:
 1.  Complexity: The problem of finding a single simple cycle that covers each vertex exactly once (a Hamiltonian cycle) is much harder than finding a set of cycles that cover each edge. The length of the cycle affects the complexity of these problems.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 2.  Cycle Detection Algorithms: The algorithms used to detect cycles in a graph, such as depth-first search, can be impacted by the cycle length. Shorter cycles may be easier to detect.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk3NjM4MjMxNywtMTU3MjE5NDcyNywtMz
+ExNDgyODA2LDczMDk5ODExNl19
 -->
