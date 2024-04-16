@@ -102,7 +102,7 @@ flowchart LR
     Kim --- Dave
    ```
 
-**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric. So, we can choose one with high capacit
+**How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric. So, we can choose one with high capacity. 
 
 ## Closeness Centrality
 
@@ -122,7 +122,7 @@ Calculation for sum of the shortest path
 | Ivy  | To Sia: 1, To Ria: 1, To Xi: 1, To Eva: 1  | 4                |
 | Eva  | To Sia: 2, To Ria: 1, To Xi: 1, To Ivy: 1  | 5                |
 
-Calculation on Closeness centrality
+Calculation for Closeness centrality
 
 | Node | Sum of Distances to Other Nodes | Calculation       | Closeness Centrality |
 |------|---------------------------------|-------------------|----------------------|
@@ -224,11 +224,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MzA3NjUsLTExOTc4OTU3NSwtNzcxND
-czNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5
-LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLT
-I1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEw
-MDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMz
-E4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4MjRd
-fQ==
+eyJoaXN0b3J5IjpbMjA1NTMyNTEyOCwtMTE5Nzg5NTc1LC03Nz
+E0NzM0NzQsLTE5NTU5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEy
+NjksMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMS
+wtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5
+MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LD
+EzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgy
+NF19
 -->
