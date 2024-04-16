@@ -18,7 +18,6 @@ Here is what I'll try achieving in this post:
         -   The broker, the wheel-greaser, the node that lies on the shortest path between others, often controlling the flow of information. If it were a city, it would be Panama—a vital crossroads.     
 3.  **Closeness Centrality**
         -   The node that’s never far from the action, able to whisper in every ear. Measured by how close it stands to every other node in the room, minimizing the whispers needed to spread a secret across the network.
-        - what this metrics tells you is that if you have to do mass payments of micro sizes. this is the node to get connected to. The condition of micro size matters because it mimizes the effect of channel size and balanced channel. Mass payments matters because if you expect to send or receive from all almost everyone then it is good metric to look at.
 4.  **Eigenvector Centrality**
         -   Not just about having friends, but about having powerful friends. This measure looks at the influence of a node’s connections. In a room full of celebrities, it’s the one who knows the biggest stars.
 
@@ -42,7 +41,7 @@ Degree Centrality for a node \(N\) is calculated as:
 
 $\text{Degree Centrality}(N) = \frac{\text{Number of channels for } N}{\text{Total number of channels in LN graph}}$
 
-For LN, it is only '# of channels' that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
+For LN, it is  '# of channels' and only '# of channels' that will have play on degree centrality.  A channel like LQWD-Canada with thousand of channels have 5 times higher degree centrality compared to River, even though River has committed 3 times more bitcoin as liquidity. Refer:[Plebdashboard](https://sorukumar.github.io/plebdashboard/v0:%20for%20feedback/Nodevisualization20240306.html)
 
 
 **How to think about 'Degree centrality' for node selection?** If you find a node with high D, and not directly connected with you, and if the average channel size is not too low, more or less they are good peer to get started with. We should note that a node may have a good D, but still may not give us good coverage, if all of their channels in concentraed in one part of LN graph. Make a note that capacity/liquidity has no play on this metric.
@@ -226,11 +225,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4MDY1MTQsLTExOTc4OTU3NSwtNz
-cxNDczNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYx
-MjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1Mz
-EsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0
-OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OC
-wxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4
-MjRdfQ==
+eyJoaXN0b3J5IjpbNDcyNjkwMTgwLC0xMTk3ODk1NzUsLTc3MT
+Q3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2MjgxLDgyMDQ2MTI2
+OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC0xNTY0MzMyNTMxLC
+0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwNDkx
+MDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgsMT
+MxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0
+XX0=
 -->
