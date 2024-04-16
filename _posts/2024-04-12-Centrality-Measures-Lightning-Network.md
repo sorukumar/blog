@@ -2,6 +2,7 @@
 layout: post
 title: "Centrality Measures for Lightning Network"
 categories: Lightning Technical
+mermaid: true
 author:
 - sorukumar
 ---
