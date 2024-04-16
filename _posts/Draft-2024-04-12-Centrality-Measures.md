@@ -132,7 +132,7 @@ Calculation for Closeness centrality
 | Ivy  | 5                               | $\frac{5-1}{5}$   | 0.8                  |
 | Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
-Study the graph below to internalize that how  Closeness centrality is with Big D or Big B.
+Study the graph below to internalize that how  big C (Closeness centrality) compares with big D or big B.
 ```mermaid
 flowchart TB
     HighBetweennessNode --- NodeA
@@ -159,7 +159,7 @@ To calculate the eigenvector centrality of a node \( N \) in a network, we use t
 
 $\text{Eigenvector Centrality}(v) = \lambda_1 \times \text{Sum of the centralities of the nodes connected to } N$
 
-The solve of the above problem has to be iterative, the centrality of node $N$ depdends on its neighbors, and each neighbors centrality depends on all its neighbors that includes $N$. We'll embark on presenting above equation as matrix form as it would bvery effective in solving for this iterative problem
+The solve of the above problem has to be iterative, the centrality of a node $N$ depdends on its neighbors, and each neighbors centrality depends on all its neighbors that includes $N$. We'll embark on presenting above equation as matrix form as it would bvery effective in solving for this iterative problem
 
 Mathematically, we can say the centrality $x_{N}$ of node $N$:
 $x_N = \frac{1}{\lambda} \sum_{M \in \text{Neighbors}(N)} x_M$
@@ -225,11 +225,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODM2Mjg4LC0xMTk3ODk1NzUsLTc3MT
-Q3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2MjgxLDgyMDQ2MTI2
-OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC0xNTY0MzMyNTMxLC
-0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0MjA0NTIsMjMwNDkx
-MDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC0xNTI1MzcyOTgsMT
-MxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1NSwxMjE4Nzk1ODI0
-XX0=
+eyJoaXN0b3J5IjpbLTE1OTIwODk5MjUsLTExOTc4OTU3NSwtNz
+cxNDczNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYx
+MjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1Mz
+EsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0
+OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OC
+wxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4
+MjRdfQ==
 -->
