@@ -60,7 +60,7 @@ For LN, it is  '# of channels' and only '# of channels' that will have play on d
 
 $\text{Betweenness Centrality}(N) = \frac{\text{Number of shortest paths passing through } N}{\text{Total number of shortest paths}}$
 
-Below table shows shortest path count for each pair, and it should give you an idea of what is shortest path. I beleive defining it is redu
+Below table shows shortest path count for each pair, and it should give you an idea of what is shortest path. I believe defining it is redundant.
 
 | Node Pair | Shortest Path Count | Path Details                            | Intermediary Nodes         |
 |-----------|---------------------|-----------------------------------------|----------------------------|
@@ -76,7 +76,7 @@ Below table shows shortest path count for each pair, and it should give you an i
 | Ivy - Eva | 1                   | Direct path                             | None                       |
 | **Total** | **11**              |                                         |                            |
 
-Once, we have shortest path through each node, and also total shortest path count. below is a table that does calculation on betweenness centrality.
+Once, we have shortest path through each node, and also total shortest path count, we can easily calculate big B.
 
 
 | Node | Shortest Paths Through Node | Betweenness Centrality Calculation | Betweenness Centrality Value |
@@ -224,11 +224,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5MTgyODEsLTExOTc4OTU3NSwtNz
-cxNDczNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYx
-MjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1Mz
-EsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0
-OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OC
-wxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTM4MzUyNDg0MywtMTE5Nzg5NTc1LC03Nz
+E0NzM0NzQsLTE5NTU5MDc0MTksMTUxMTU2NjI4MSw4MjA0NjEy
+NjksMTQzMjE4NDkxNSwtMTU4MjE5NjAzNCwtMTU2NDMzMjUzMS
+wtMjU2ODAzNDgyLDE5MjAyNzI4NTQsNTgwNDIwNDUyLDIzMDQ5
+MTAwOSwxMTA4MzYwMzAzLC05NzY4ODIzMiwtMTUyNTM3Mjk4LD
+EzMTg5NDk5MCwyMzcxMTE3NDMsNTcxNTMzNTUsMTIxODc5NTgy
+NF19
 -->
