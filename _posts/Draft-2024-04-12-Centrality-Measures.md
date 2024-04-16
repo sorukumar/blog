@@ -197,7 +197,7 @@ $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
 | Initial   | $[1, 1, 1, 1, 1]^T$                           | $\sqrt{5}$       | $[1, 1, 1, 1, 1]^T$                                                                                     | -                   | -                                     |
 | 1         | $[2, 4, 2, 4, 2]^T$                           | $2\sqrt{11}$     | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$ (6.633)| $\lambda \approx \frac{\|x^{(1)}\|}{\|x^{(0)}\|} = \frac{2\sqrt{11}}{\sqrt{5}}$ |
 
-Now, we know how to calculate eigenvector centrality, have a look at a graph below that show how eigenvector as a metric compares with other centrality metrics.
+Now, we know how to calculate big E (eigenvector centrality), have a look at a graph below that show how eigenvector as a metric compares with other centrality metrics.
 
 ```mermaid
 flowchart TB
@@ -225,11 +225,11 @@ How do you interpret it in terms of opening channels in Lighting network
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIwODk5MjUsLTExOTc4OTU3NSwtNz
-cxNDczNDc0LC0xOTU1OTA3NDE5LDE1MTE1NjYyODEsODIwNDYx
-MjY5LDE0MzIxODQ5MTUsLTE1ODIxOTYwMzQsLTE1NjQzMzI1Mz
-EsLTI1NjgwMzQ4MiwxOTIwMjcyODU0LDU4MDQyMDQ1MiwyMzA0
-OTEwMDksMTEwODM2MDMwMywtOTc2ODgyMzIsLTE1MjUzNzI5OC
-wxMzE4OTQ5OTAsMjM3MTExNzQzLDU3MTUzMzU1LDEyMTg3OTU4
-MjRdfQ==
+eyJoaXN0b3J5IjpbOTU2NTg5MjUxLC0xNTkyMDg5OTI1LC0xMT
+k3ODk1NzUsLTc3MTQ3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2
+MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC
+0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0
+MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC
+0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1
+NV19
 -->
