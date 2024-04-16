@@ -218,16 +218,16 @@ flowchart TB
    ```
 
 
-**Lightning and Eigenvector centrality:** Big E is super sensitive to network changes, and depending how we choose nodes, no zombie nodes, nodes that come and go
+**Lightning and Eigenvector centrality:** Big E is super sensitive to network changes, and depending how we choose nodes, no zombie nodes, lurkers, nodes that come and go, and nodes with liquidity higher than certain threshold to route paymment reliably, the big E will change a lot.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTA0NzkyNiw0MzQ5MDEwMjUsLTE1OT
-IwODk5MjUsLTExOTc4OTU3NSwtNzcxNDczNDc0LC0xOTU1OTA3
-NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5MTUsLT
-E1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4MiwxOTIw
-MjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2MDMwMy
-wtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTEx
-NzQzXX0=
+eyJoaXN0b3J5IjpbMzA3MjAzNDIwLDQzNDkwMTAyNSwtMTU5Mj
+A4OTkyNSwtMTE5Nzg5NTc1LC03NzE0NzM0NzQsLTE5NTU5MDc0
+MTksMTUxMTU2NjI4MSw4MjA0NjEyNjksMTQzMjE4NDkxNSwtMT
+U4MjE5NjAzNCwtMTU2NDMzMjUzMSwtMjU2ODAzNDgyLDE5MjAy
+NzI4NTQsNTgwNDIwNDUyLDIzMDQ5MTAwOSwxMTA4MzYwMzAzLC
+05NzY4ODIzMiwtMTUyNTM3Mjk4LDEzMTg5NDk5MCwyMzcxMTE3
+NDNdfQ==
 -->
