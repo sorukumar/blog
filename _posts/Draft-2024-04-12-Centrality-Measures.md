@@ -218,17 +218,16 @@ flowchart TB
    ```
 
 
-**Lightning and Eigenvector centrality:** Big E is super sensitive to . There is an overlapp with other meadures of centrality, so in the contxt of LN, we need to ask are we getting value from an additional metric. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
-
+**Lightning and Eigenvector centrality:** Big E is super sensitive to network changes, and depending how we choose nodes, no zombie nodes, nodes that come and go
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0OTAxMDI1LC0xNTkyMDg5OTI1LC0xMT
-k3ODk1NzUsLTc3MTQ3MzQ3NCwtMTk1NTkwNzQxOSwxNTExNTY2
-MjgxLDgyMDQ2MTI2OSwxNDMyMTg0OTE1LC0xNTgyMTk2MDM0LC
-0xNTY0MzMyNTMxLC0yNTY4MDM0ODIsMTkyMDI3Mjg1NCw1ODA0
-MjA0NTIsMjMwNDkxMDA5LDExMDgzNjAzMDMsLTk3Njg4MjMyLC
-0xNTI1MzcyOTgsMTMxODk0OTkwLDIzNzExMTc0Myw1NzE1MzM1
-NV19
+eyJoaXN0b3J5IjpbMTQwMTA0NzkyNiw0MzQ5MDEwMjUsLTE1OT
+IwODk5MjUsLTExOTc4OTU3NSwtNzcxNDczNDc0LC0xOTU1OTA3
+NDE5LDE1MTE1NjYyODEsODIwNDYxMjY5LDE0MzIxODQ5MTUsLT
+E1ODIxOTYwMzQsLTE1NjQzMzI1MzEsLTI1NjgwMzQ4MiwxOTIw
+MjcyODU0LDU4MDQyMDQ1MiwyMzA0OTEwMDksMTEwODM2MDMwMy
+wtOTc2ODgyMzIsLTE1MjUzNzI5OCwxMzE4OTQ5OTAsMjM3MTEx
+NzQzXX0=
 -->
