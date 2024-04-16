@@ -47,6 +47,7 @@ minima:
 # MathJax configuration
 mathjax:
   enable: true
+markdown: kramdown
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
