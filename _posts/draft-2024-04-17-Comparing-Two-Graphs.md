@@ -58,6 +58,70 @@ Given that both graphs are designed for transmitting data from one node to anoth
 -   Choose the graph that demonstrates better performance across these metrics, particularly focusing on robustness, efficiency, and shortest paths if your main goal is to optimize for fast and reliable data transmission. The choice might also depend on specific operational requirements like fault tolerance, load capacity, or future scalability.
 
 By focusing on these metrics, you can make a well-informed decision about which graph is more suitable for your data transmission needs, considering both the current performance and future adaptability of the network.
+
+    import networkx as nx
+import matplotlib.pyplot as plt
+
+def create_graph(edges):
+    G = nx.Graph()
+    G.add_edges_from(edges)
+    return G
+
+def analyze_graph(G, name):
+    print(f"Analysis of {name}:")
+    # Number of nodes and edges
+    print("Number of nodes:", G.number_of_nodes())
+    print("Number of edges:", G.number_of_edges())
+
+    # Check connectivity
+    print("Is connected:", nx.is_connected(G))
+    if nx.is_connected(G):
+        # Average shortest path length and diameter
+        print("Average shortest path length:", nx.average_shortest_path_length(G))
+        print("Diameter (longest shortest path):", nx.diameter(G))
+    
+    # Clustering coefficient
+    print("Average clustering coefficient:", nx.average_clustering(G))
+
+    # Degree Centrality
+    degree_centrality = nx.degree_centrality(G)
+    print("Max degree centrality:", max(degree_centrality.values()))
+
+    # Betweenness Centrality
+    betweenness_centrality = nx.betweenness_centrality(G)
+    print("Max betweenness centrality:", max(betweenness_centrality.values()))
+
+    # Closeness Centrality
+    closeness_centrality = nx.closeness_centrality(G)
+    print("Max closeness centrality:", max(closeness_centrality.values()))
+
+    # Plotting the graph
+    plt.figure(figsize=(8, 6))
+    nx.draw(G, with_labels=True, node_color='skyblue')
+    plt.title(f"Network Diagram of {name}")
+    plt.show()
+    # Example edges for two graphs
+edges1 = [(1, 2), (2, 3), (3, 4), (4, 5), (1, 5), (2, 4)]
+edges2 = [(1, 2), (2, 3), (3, 4), (4, 5), (1, 5), (1, 3), (2, 5)]
+# Create graphs
+G1 = create_graph(edges1)
+G2 = create_graph(edges2)
+
+# Analyze both graphs
+analyze_graph(G1, "Graph 1")
+analyze_graph(G2, "Graph 2")
+
+
+
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjQ3NTM5N119
+eyJoaXN0b3J5IjpbLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
 -->
