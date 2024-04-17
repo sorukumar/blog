@@ -7,7 +7,7 @@ author:
 - sorukumar
 ---
 
-When you are looking for a peer on LightningNetworkplus, you could either form a traingle or a pentagon. A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. I have wondered how different or same
+When you are looking for a peer on LightningNetworkplus, you could either form a traingle or a pentagon. A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. I have wondered how different or same it is to open a 2 way channel ( dual funded channel), 3 way channel and 5 way channel.
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -17,7 +17,7 @@ The cycle structure of a graph can impact its quality in several ways:
 1.  Complexity: The problem of finding a single simple cycle that covers each vertex exactly once (a Hamiltonian cycle) is much harder than finding a set of cycles that cover each edge. The length of the cycle affects the complexity of these problems.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 2.  Cycle Detection Algorithms: The algorithms used to detect cycles in a graph, such as depth-first search, can be impacted by the cycle length. Shorter cycles may be easier to detect.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODE5OTk2LC0xNDM0MzQ4MjI0LC05Nz
-YzODIzMTcsLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMTEyNTk0NjQsLTE0MzQzNDgyMjQsLT
+k3NjM4MjMxNywtMTU3MjE5NDcyNywtMzExNDgyODA2LDczMDk5
+ODExNl19
 -->
