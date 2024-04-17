@@ -42,7 +42,7 @@ For node operators, the defnition of 'good' is  succesful routing through the no
 Considering, we don't have data for either. We'll look for its proxies.
 
 For a node, the proxy we can look for: Centrality measures for the node
-for the network, the proxy we can look for 
+for the network, the proxy we can look for : Connectivity metrics, path length metrics, robustness metrics, throughput metrics
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -58,7 +58,8 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDE3NTQwMywxODIyNDE3MjU3LC0xMj
-U0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMTcsLTE1NzIx
-OTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA0MzI2MzE0NywxMzI0MTc1NDAzLDE4Mj
+I0MTcyNTcsLTEyNTQ0MzA5NTQsLTE0MzQzNDgyMjQsLTk3NjM4
+MjMxNywtMTU3MjE5NDcyNywtMzExNDgyODA2LDczMDk5ODExNl
+19
 -->
