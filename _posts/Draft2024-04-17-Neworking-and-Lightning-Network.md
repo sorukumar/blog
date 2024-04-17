@@ -3,9 +3,9 @@
 
 # Networking and Lightning network
 
-There is a lot of similarity between running a node as a lightning network, and networking for career progression.
+There is a lot of similarity between running a node in lightning network, and networking for career progression.
 
-The strategy and tactics you apply in 
+The strategy and tactics you apply in real life networking also applies in Lightning network and vice versa. lets dive into it.
 
 
 # Files
@@ -26,5 +26,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzM2MDQ4NV19
+eyJoaXN0b3J5IjpbNDEwMTg5NTFdfQ==
 -->
