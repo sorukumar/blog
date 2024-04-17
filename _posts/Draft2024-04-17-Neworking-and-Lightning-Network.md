@@ -18,20 +18,11 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## Sometime having an influence over a niche cluster is better than going for a big coverage
 
-## Create files and folders
+### idea for this post
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+ 1. make a list of 7 
 
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzU5MzE4MywtMTMwNDkxMDAxNiw0MT
+eyJoaXN0b3J5IjpbLTU2MTg3MzkwMCwtMTMwNDkxMDAxNiw0MT
 AxODk1MV19
 -->
