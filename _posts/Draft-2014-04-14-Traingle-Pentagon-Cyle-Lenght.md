@@ -15,7 +15,7 @@ When you are looking for a peer on LightningNetworkplus, you could either form a
 3 way channel: Traingle
 
 
-5 way chann
+5 way channel: Pentagon
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -25,7 +25,7 @@ The cycle structure of a graph can impact its quality in several ways:
 1.  Complexity: The problem of finding a single simple cycle that covers each vertex exactly once (a Hamiltonian cycle) is much harder than finding a set of cycles that cover each edge. The length of the cycle affects the complexity of these problems.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 2.  Cycle Detection Algorithms: The algorithms used to detect cycles in a graph, such as depth-first search, can be impacted by the cycle length. Shorter cycles may be easier to detect.[1](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjI5MDMyNywtMTQzNDM0ODIyNCwtOT
-c2MzgyMzE3LC0xNTcyMTk0NzI3LC0zMTE0ODI4MDYsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbODc2NjkzMTYsLTE0MzQzNDgyMjQsLTk3Nj
+M4MjMxNywtMTU3MjE5NDcyNywtMzExNDgyODA2LDczMDk5ODEx
+Nl19
 -->
