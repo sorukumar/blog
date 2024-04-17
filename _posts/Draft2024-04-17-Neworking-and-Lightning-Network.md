@@ -3,7 +3,9 @@
 
 # Networking and Lightning network
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+There is a lot of similarity between running a node as a lightning network, and networking for career progression.
+
+The strategy and tactics you apply in 
 
 
 # Files
@@ -24,5 +26,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjQ2MTI3NV19
+eyJoaXN0b3J5IjpbMTA3NzM2MDQ4NV19
 -->
