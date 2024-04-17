@@ -33,7 +33,9 @@ flowchart LR
 
 I have wondered how different or same it is to open a 2 way channel, 3 way channel and 5 way channel.
 
-First, lers 
+First, lets establish, how we will look to compare them.
+
+We can compare them along two dimensions. 1st 
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -49,7 +51,7 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMwMDY5MjUsMTgyMjQxNzI1NywtMT
-I1NDQzMDk1NCwtMTQzNDM0ODIyNCwtOTc2MzgyMzE3LC0xNTcy
-MTk0NzI3LC0zMTE0ODI4MDYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE5ODc0NTMxMCwxODIyNDE3MjU3LC0xMj
+U0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMTcsLTE1NzIx
+OTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
 -->
