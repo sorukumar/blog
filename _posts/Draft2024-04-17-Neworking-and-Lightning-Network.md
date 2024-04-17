@@ -15,8 +15,10 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## Powerful friends help even more
 
 
-## Having powerful 
+## Quality of freindship matters
 
+
+## Quality of freindship matters
 
 ## Create files and folders
 
@@ -32,5 +34,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTMxMzU2Myw0MTAxODk1MV19
+eyJoaXN0b3J5IjpbLTEzMDQ5MTAwMTYsNDEwMTg5NTFdfQ==
 -->
