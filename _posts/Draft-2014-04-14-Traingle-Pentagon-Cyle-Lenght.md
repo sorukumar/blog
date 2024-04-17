@@ -35,7 +35,9 @@ I have wondered how different or same it is to open a 2 way channel, 3 way chann
 
 First, lets establish, how we will look to compare them.
 
-We can compare them along two dimensions. 1st 
+We can compare them along two dimensions. 1st dimention would be how good it is for node operators, 2nd dimentions would be how good it is for whole network.
+
+
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -51,7 +53,7 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODc0NTMxMCwxODIyNDE3MjU3LC0xMj
+eyJoaXN0b3J5IjpbMTU1NzEyODU1OSwxODIyNDE3MjU3LC0xMj
 U0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMTcsLTE1NzIx
 OTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
 -->
