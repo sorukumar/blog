@@ -20,9 +20,10 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ### idea for this post
 
- 1. make a list of 7 
+ 1. make a list of 7 networking wisdom and get node running tactics out of that
+ 2. make headline like thou shalt have powerful friends..chatgpt
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTg3MzkwMCwtMTMwNDkxMDAxNiw0MT
+eyJoaXN0b3J5IjpbLTMzNzc5MDg5OSwtMTMwNDkxMDAxNiw0MT
 AxODk1MV19
 -->
