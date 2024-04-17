@@ -1,12 +1,12 @@
 
-Ranking python API
+Ranking python API and libraries
 
 by securty
-proxy, developers and their repuytation
+proxy, developers and their reputation
 
 social, voted by Bitcoin and open source developers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDg0ODA0NV19
+eyJoaXN0b3J5IjpbLTE0MzQyMjA4OTRdfQ==
 -->
