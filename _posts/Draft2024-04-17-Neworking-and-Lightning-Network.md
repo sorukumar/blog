@@ -5,7 +5,7 @@
 
 There is a lot of similarity between running a node in lightning network, and networking for career progression.
 
-The strategy and tactics you apply in real life networking also applies in Lightning network and vice versa. lets dive into it.
+The strategy and tactics you apply in real life networking also applies in Lightning network and vice versa. The goal of this write-up is to show the parallellets dive into it.
 
 
 # Files
@@ -26,5 +26,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMTg5NTFdfQ==
+eyJoaXN0b3J5IjpbMTM0MzUxNjc3MSw0MTAxODk1MV19
 -->
