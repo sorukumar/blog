@@ -16,7 +16,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## Quality of freindship matters
 
 
-## Sometime having an influence over a niche cluster is better than going for a bog coverage
+## Sometime having an influence over a niche cluster is better than going for a big coverage
 
 ## Create files and folders
 
@@ -32,6 +32,6 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTgyNjEzOSwtMTMwNDkxMDAxNiw0MT
+eyJoaXN0b3J5IjpbLTk3MzU5MzE4MywtMTMwNDkxMDAxNiw0MT
 AxODk1MV19
 -->
