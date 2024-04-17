@@ -1,6 +1,4 @@
 
-
-
 # Networking and Lightning network
 
 There is a lot of similarity between running a node in lightning network, and networking for career progression.
@@ -18,7 +16,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## Quality of freindship matters
 
 
-## Quality of freindship matters
+## Sometime having an influence over a niche cluster is better than going for a bog coverage
 
 ## Create files and folders
 
@@ -34,5 +32,6 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ5MTAwMTYsNDEwMTg5NTFdfQ==
+eyJoaXN0b3J5IjpbMjEwMTgyNjEzOSwtMTMwNDkxMDAxNiw0MT
+AxODk1MV19
 -->
