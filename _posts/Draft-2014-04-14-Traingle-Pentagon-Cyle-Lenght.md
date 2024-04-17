@@ -39,9 +39,9 @@ We can compare them along two dimensions. 1st dimention would be how good it is 
 
 For node operators, the defnition of 'good' is  succesful routing through the node, and for the whole network the defintion of good is lower payment failure rate for the network.
 
-Conisdering, we don't have data for either. We'll look for its proxies.
+Considering, we don't have data for either. We'll look for its proxies.
 
-
+For node, the proxy we can look for: Centrality measures for the no
 
 The cycle structure of a graph can impact its quality in several ways:
 
@@ -57,7 +57,7 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzY4MTI5OSwxODIyNDE3MjU3LC0xMj
+eyJoaXN0b3J5IjpbMjA2MTY1MjYzNCwxODIyNDE3MjU3LC0xMj
 U0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMTcsLTE1NzIx
 OTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
 -->
