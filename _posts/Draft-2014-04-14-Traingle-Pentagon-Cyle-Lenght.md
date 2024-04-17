@@ -33,6 +33,8 @@ flowchart LR
 
 I have wondered how different or same it is to open a 2 way channel ( dual funded channel), 3 way channel and 5 way channel.
 
+if you 
+
 The cycle structure of a graph can impact its quality in several ways:
 
 -   Robustness: Longer cycles make the graph more robust, as there are more alternative paths between nodes if some edges fail. Shorter cycles like C3 are more vulnerable.[3](https://math.stackexchange.com/questions/1490053/what-is-the-difference-between-a-loop-cycle-and-strongly-connected-components-i)
@@ -47,7 +49,7 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQxMDA5MTUsMTgyMjQxNzI1NywtMT
-I1NDQzMDk1NCwtMTQzNDM0ODIyNCwtOTc2MzgyMzE3LC0xNTcy
-MTk0NzI3LC0zMTE0ODI4MDYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ3NDAwODgzOSwxODIyNDE3MjU3LC0xMj
+U0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMTcsLTE1NzIx
+OTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
 -->
