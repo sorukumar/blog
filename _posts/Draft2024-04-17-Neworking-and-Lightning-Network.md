@@ -5,10 +5,10 @@
 
 There is a lot of similarity between running a node in lightning network, and networking for career progression.
 
-The strategy and tactics you apply in real life networking also applies in Lightning network and vice versa. The goal of this write-up is to show the parallellets dive into it.
+The strategy and tactics you apply in real life networking also applies in Lightning network and vice versa. The goal of this write-up is to show the parallels, and along the way learn a little bit of both. Lets dive into it.
 
 
-# Files
+# Fi
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -26,5 +26,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Delete a file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzUxNjc3MSw0MTAxODk1MV19
+eyJoaXN0b3J5IjpbLTU4ODgwOTc0NCw0MTAxODk1MV19
 -->
