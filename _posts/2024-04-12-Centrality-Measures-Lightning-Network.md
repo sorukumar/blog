@@ -211,11 +211,6 @@ $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
 
 Now, we know how to calculate big E (eigenvector centrality), have a look at a graph below to get a feeling of how it compares with big B, big C or big D.
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-</div>
-
 
 <div class="mermaid">
 flowchart TB
@@ -234,7 +229,7 @@ flowchart TB
     NodeG --- NodeH
     HighEigenvectorNode --- NodeF
     NodeF --- NodeG
-   ```
+</div>
 
 
 **Lightning and Eigenvector centrality:** Big E is super sensitive to network changes, and depending how we choose nodes, no zombie nodes, lurkers, nodes that come and go, and nodes with liquidity higher than certain threshold to route paymment reliably, the big E will change a lot.
@@ -242,6 +237,6 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjgwMjU1LC02MzA1MjU1NDMsNDQ5NT
-c1MTQwLC0yMDkzOTYxOTYzXX0=
+eyJoaXN0b3J5IjpbNTgwNTc2NjUsLTYzMDUyNTU0Myw0NDk1Nz
+UxNDAsLTIwOTM5NjE5NjNdfQ==
 -->
