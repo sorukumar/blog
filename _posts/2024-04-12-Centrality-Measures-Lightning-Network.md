@@ -32,13 +32,6 @@ Here is what I'll try achieving in this post:
 ## A Network Graph.
 
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
 
 <div class="mermaid">
 flowchart LR
@@ -106,7 +99,8 @@ Once, we have shortest path through each node, and also total shortest path coun
 It is not just the count of channel matters for high B, but the location of node in the graph. A node with a low channel count (low D) may have high B, if it acts as a bridge.  
 
 For an example, have a look at below graph. Kim has high B, even though we have nodes, Alice and Dave, with higher D.
-```mermaid
+
+<div class="mermaid">
 flowchart LR
     Alice --- Bob
     Bob --- Carol
@@ -116,7 +110,7 @@ flowchart LR
     Frank --- Dave
     Alice --- Kim
     Kim --- Dave
-   ```
+   </div>
 
 **How to think about 'Betweenness centrality' for node selection?** In general, it is great connecting to a bridge, as it gives you a very good coverage. However, make a note again that capacity/liquidity has no play on this metric. So, we can choose one with high capacity. 
 
@@ -149,7 +143,9 @@ Calculation for Closeness centrality
 | Eva  | 6                               | $\frac{5-1}{6}$   | 0.67                 |
 
 Study the graph below to internalize that how  big C (Closeness centrality) compares with big D or big B.
-```mermaid
+
+
+<div class="mermaid">
 flowchart TB
     HighBetweennessNode --- NodeA
     HighBetweennessNode --- NodeB
@@ -164,7 +160,7 @@ flowchart TB
     HighClosenessNode --- HighDegreeNode
     HighClosenessNode --- NodeC
     HighClosenessNode --- HighBetweennessNode
-   ```
+ </div>
 
 **Lightning and Closeness centrality:** Looking at the graph, you may guess that 'HighbetweennessNode' does not have super low closeness centrality. There is an overlapp with other meadures of centrality, so in the contxt of LN, we need to ask are we getting value from an additional metric. However, if someone is doing micro mass payment, this would be the node to get connected to. Micro payment makes sure that we dont have to worry about liquidity a lot, mass payment because, through this node, you can connect to eveyone in the graph with least hops.
 
@@ -214,7 +210,14 @@ $x^{(0)} = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}$
 | 1         | $[2, 4, 2, 4, 2]^T$                           | $2\sqrt{11}$     | $\left[\frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}, \frac{2}{\sqrt{11}}, \frac{1}{\sqrt{11}}\right]^T$ | $2\sqrt{11}$ (6.633)| $\lambda \approx \frac{\|x^{(1)}\|}{\|x^{(0)}\|} = \frac{2\sqrt{11}}{\sqrt{5}}$ |
 
 Now, we know how to calculate big E (eigenvector centrality), have a look at a graph below to get a feeling of how it compares with big B, big C or big D.
-```mermaid
+
+<div class="mermaid">
+graph TD;
+    A-->B;
+</div>
+
+
+<div class="mermaid">
 flowchart TB
     HighBetweennessNode --- NodeA
     HighBetweennessNode --- NodeB
@@ -239,6 +242,6 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDUyNTU0Myw0NDk1NzUxNDAsLTIwOT
-M5NjE5NjNdfQ==
+eyJoaXN0b3J5IjpbLTc2MjgwMjU1LC02MzA1MjU1NDMsNDQ5NT
+c1MTQwLC0yMDkzOTYxOTYzXX0=
 -->
