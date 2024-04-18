@@ -1,11 +1,11 @@
 
-#  Health of Lightning network
+#  Health of Lightning network v0.0
 
 The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, until all nodes start sharing data is not available, for good reasons. It is important to develop and monitor meaningful metrics that are lead to these metrics, and can work as a proxy.
 
 These metrics come from the graph literature. And, of course, Lighitng network graph has its own set of constraints and challenges. Nevertheless, it is a good start.
 
-In this post, I will lay out the metrics category, and eventually,  when I start building and tracking the metrics for Plebdashboard, metrics would evolve based on how data looks like.
+In this post, I will lay out the metrics category.    when I start building and tracking the metrics for Plebdashboard, metrics would evolve based on how data looks like.
 
 Here is a list of metrics:
 
@@ -52,8 +52,8 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEyNzcyOTAsMjI4NjQ2Mzk0LDExOD
-EyNDY4MDEsMTEyNjY3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5
-NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX
-0=
+eyJoaXN0b3J5IjpbLTY1MTEzMDQzMiwyMjg2NDYzOTQsMTE4MT
+I0NjgwMSwxMTI2Njc0MzM0LDY4Nzg4MzIwOSwtODE2ODgyNjk2
+LC0xODUyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUzOTddfQ
+==
 -->
