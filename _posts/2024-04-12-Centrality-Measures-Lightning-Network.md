@@ -7,7 +7,7 @@ author:
 - sorukumar
 ---
 
-Centrality measure are metrics to understand, quantify and rank importance of nodes in a graph. Lightning network is a graph.
+Centrality measure are metrics to understand, quantify and rank importance of nodes in a graph. 
 
 Here is what I'll try achieving in this post:
 
@@ -229,5 +229,5 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM5NjE5NjNdfQ==
+eyJoaXN0b3J5IjpbLTM4MDU5NzkwOSwtMjA5Mzk2MTk2M119
 -->
