@@ -1,15 +1,15 @@
 
 #  Health of Lightning network
 
-The best set of metrics to gauge the health of Lighting network graph is actual metrics on total payment, failure rate and speed. Considering that info is not available, for good reason,  until all nodes start sharing data. I for now, we can live with below metrics that tells us the health of a graph.
+The best set of metrics to gauge the health of Lighting network graph is actual metrics on total payment, failure rate and speed. Considering that info is not available, for good reason,  until all nodes start sharing data. It is important to develop and monitor meaningful metrics that gives us some insight
 
-These metrics come from the graph science literature. And, of course, Lighitng network graph has its own set of constraints and challenges, but, yet it would be great starting point.
+These metrics come from the graph science literature. And, of course, Lighitng network graph has its own set of constraints and challenges, but, yet it is a god starting point.
 
 In this post, we will lay out the metrics, and eventually, I'll add those in Plebdashboard.
 
 Here is a list of metrics:
 
-### 1. **Connectivity**
+### 1. Connectivity Metrics
 
 -   **Description**:  A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
 -   **Metric**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
@@ -129,6 +129,6 @@ analyze_graph(G2, "Graph 2")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjkzMjcwMiwtODE2ODgyNjk2LC0xOD
+eyJoaXN0b3J5IjpbMTA5ODAwNTU3NywtODE2ODgyNjk2LC0xOD
 UyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUzOTddfQ==
 -->
