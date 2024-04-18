@@ -44,7 +44,7 @@ Here is a list of metrics:
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 
-### 9. **Load Balancing**
+### 8. **Load Balancing**
 
 -   **What is it**: The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck.
 -   **Metric**: Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks.
@@ -52,7 +52,7 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTI5NjUzNywxMTgxMjQ2ODAxLDExMj
-Y2NzQzMzQsNjg3ODgzMjA5LC04MTY4ODI2OTYsLTE4NTI0MDA1
-OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
+eyJoaXN0b3J5IjpbMjI4NjQ2Mzk0LDExODEyNDY4MDEsMTEyNj
+Y3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5NiwtMTg1MjQwMDU5
+OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
