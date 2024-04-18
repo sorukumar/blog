@@ -5,7 +5,7 @@ The best set of metrics to gauge the health of Lighting network graph is actual 
 
 These metrics come from the graph science literature. And, of course, Lighitng network graph has its own set of constraints and challenges, but, yet it is a good starting point.
 
-In this post, we will lay out the metrics, and eventually, I'll add those in Plebdashboard.
+In this post, we will lay out the metrics, and eventually, we'll start tracking those in Plebdashboard.
 
 Here is a list of metrics:
 
@@ -67,7 +67,7 @@ By focusing on these metrics, you can make a well-informed decision about which 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDEwNjk3Nyw2ODc4ODMyMDksLTgxNj
+eyJoaXN0b3J5IjpbLTUyMDEzOTUyNCw2ODc4ODMyMDksLTgxNj
 g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
 Mzk3XX0=
 -->
