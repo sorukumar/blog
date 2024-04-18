@@ -12,11 +12,11 @@ Here is a list of metrics:
 ### 1. Connectivity Metrics
 
 -   **What is it**:  It checks that there are multiple path from node A to node B.
--   **Metrics**: Look at the number of well connected components, the size of the largest connected component, and the average node degree.
+-   **Metrics**: Look at the number of 'well' connected components, the size of the largest connected component, and the average node degree.
 
 ### 2. Path Length Metrics
 
--   **What is it**: The average shortest path length is crucial for HTLC transmission. Remember liquidity is an unknown for us. More number of channels we have to use, the unknown liquidity balance will eventually catch up with us.
+-   **What is it**: The average shortest path length is crucial for HTLC transmission. Remember liquidity is an unknown for us.  The more number of channels the more number of unknows in terms of liquidity balance.
 -   **Metrics**: Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths).
 
 ### 3. Robustness
@@ -52,7 +52,8 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NTI4ODU0LDIyODY0NjM5NCwxMTgxMj
-Q2ODAxLDExMjY2NzQzMzQsNjg3ODgzMjA5LC04MTY4ODI2OTYs
-LTE4NTI0MDA1OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
+eyJoaXN0b3J5IjpbMjA5ODYyNDU4MSwyMjg2NDYzOTQsMTE4MT
+I0NjgwMSwxMTI2Njc0MzM0LDY4Nzg4MzIwOSwtODE2ODgyNjk2
+LC0xODUyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUzOTddfQ
+==
 -->
