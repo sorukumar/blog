@@ -7,12 +7,11 @@ These metrics come from the graph science literature. And, of course, Lighitng n
 
 In this post, we will lay out the metrics, and eventually, I'll add those in Plebdashboard.
 
-
-Given that both graphs are designed for transmitting data from one node to another, the comparison should focus on metrics that highlight the efficiency, robustness, and overall performance of data transmission within each network. Here are several key metrics and considerations that can help you determine which graph might be better suited for data transmission tasks:
+Here is a list of metrics:
 
 ### 1. **Connectivity**
 
--   **Description**: Check the connectivity of each graph. A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
+-   **Description**:  A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
 -   **Metric**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
 
 ### 2. **Path Length**
@@ -130,6 +129,6 @@ analyze_graph(G2, "Graph 2")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1OTc1NiwtMTg1MjQwMDU5OCwtMj
+eyJoaXN0b3J5IjpbLTgxNjg4MjY5NiwtMTg1MjQwMDU5OCwtMj
 AwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
