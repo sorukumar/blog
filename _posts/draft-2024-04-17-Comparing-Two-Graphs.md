@@ -17,9 +17,9 @@ Here is a list of metrics:
 ### 2. Path Length Metrics
 
 -   **What is it**: The average shortest path length is crucial for data transmission as it affects the speed of communication between any two nodes.
--   **Metrisc**: Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths).
+-   **Metrics**: Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths).
 
-### 3. **Robustness**
+### 3. Robustness
 
 -   **Description**: The ability of the graph to maintain connectedness and functionality when nodes or edges fail.
 -   **Metric**: Measure the graph's resilience by simulating node or edge failures and observing how the graph's connectivity and average path length are affected.
@@ -67,7 +67,7 @@ By focusing on these metrics, you can make a well-informed decision about which 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDI4NDg3NSw2ODc4ODMyMDksLTgxNj
+eyJoaXN0b3J5IjpbMjEwMDc5ODg5MSw2ODc4ODMyMDksLTgxNj
 g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
 Mzk3XX0=
 -->
