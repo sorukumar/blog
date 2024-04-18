@@ -11,7 +11,7 @@ Here is a list of metrics:
 
 ### 1. Connectivity Metrics
 
--   **What is it**:  A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
+-   **What is it**:  It checks that there are multiple path from node A to node B.
 -   **Metrics**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
 
 ### 2. Path Length Metrics
@@ -57,7 +57,7 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjY3NDMzNCw2ODc4ODMyMDksLTgxNj
-g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
-Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE5NDIxMzg4MTUsMTEyNjY3NDMzNCw2OD
+c4ODMyMDksLTgxNjg4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2
+NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
