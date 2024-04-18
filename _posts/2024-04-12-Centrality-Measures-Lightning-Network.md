@@ -40,7 +40,7 @@ graph TD;
     C-->D;
 </div>
 
-```mermaid
+<div class="mermaid">
 flowchart LR
     Sia --- Ria
     Ria --- Xi
@@ -49,7 +49,7 @@ flowchart LR
     Sia --- Ivy
     Ria --- Ivy
     Ria --- Eva
-   ```
+   </div>
    
 ## Degree Centrality
 
@@ -239,5 +239,6 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5NTc1MTQwLC0yMDkzOTYxOTYzXX0=
+eyJoaXN0b3J5IjpbLTYzMDUyNTU0Myw0NDk1NzUxNDAsLTIwOT
+M5NjE5NjNdfQ==
 -->
