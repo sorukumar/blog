@@ -42,12 +42,7 @@ Here is a list of metrics:
 ### 7. **Centrality Measures**
 
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
--   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector 
-
-### 8. **Scalability**
-
--   **What is it**: How well can the network grow? This is particularly important if the network needs to accommodate more nodes or heavier data flow without significant performance degradation.
--   **Metric**: This is more of a qualitative assessment, looking at how adding nodes or edges affects the metrics mentioned above.
+-   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 
 ### 9. **Load Balancing**
 
@@ -57,7 +52,7 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0NjQ5MzYwLDExODEyNDY4MDEsMTEyNj
-Y3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5NiwtMTg1MjQwMDU5
-OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
+eyJoaXN0b3J5IjpbMTA4NTI5NjUzNywxMTgxMjQ2ODAxLDExMj
+Y2NzQzMzQsNjg3ODgzMjA5LC04MTY4ODI2OTYsLTE4NTI0MDA1
+OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
 -->
