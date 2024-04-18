@@ -30,6 +30,15 @@ Here is what I'll try achieving in this post:
 
 ## A Network Graph.
 
+
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
+
 ```mermaid
 flowchart LR
     Sia --- Ria
