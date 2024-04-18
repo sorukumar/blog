@@ -27,12 +27,12 @@ Here is a list of metrics:
 ### 4. **Throughput**
 
 -   **What is it**: The graph’s capacity to handle large amounts of data simultaneously without significant delays.
--   **Metric**: This can be indirectly measured by analyzing the graph’s degree distribution and bandwidth (which might be theoretical in some cases unless specified by the network’s physical or software design).
+-   **Metric**: This can be indirectly measured by analyzing the graph’s degree distribution and bandwidth.
 
 ### 5. **Network Efficiency**
 
 -   **What is it**: Overall efficiency of the network in terms of both local and global efficiency.
--   **Metric**: Global efficiency (inverse of the average shortest path length) and local efficiency (measures efficiency of information transfer in localized clusters).
+-   **Metric**: Global efficiency (inverse of the average shortest path length) and local efficiency (measures efficiency of information transfer in localized clusters). Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks
 
 ### 6. **Clustering Coefficient**
 
@@ -52,8 +52,8 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjgzMjMyOCw4Njg1NDg1MjksMjA5OD
-YyNDU4MSwyMjg2NDYzOTQsMTE4MTI0NjgwMSwxMTI2Njc0MzM0
-LDY4Nzg4MzIwOSwtODE2ODgyNjk2LC0xODUyNDAwNTk4LC0yMD
-A0MTY0MTk4LDE0NzI0NzUzOTddfQ==
+eyJoaXN0b3J5IjpbMzIxODUyNTY0LDExNDY4MzIzMjgsODY4NT
+Q4NTI5LDIwOTg2MjQ1ODEsMjI4NjQ2Mzk0LDExODEyNDY4MDEs
+MTEyNjY3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5NiwtMTg1Mj
+QwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
