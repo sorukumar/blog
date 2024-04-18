@@ -50,6 +50,9 @@ Considering, we don't have data for either. We'll look for its proxies.
 For a node, the proxy we can look for: Centrality measures for the node
 for the network, the proxy we can look for : Connectivity metrics, path length metrics, robustness metrics, throughput metrics
 
+### Criterion for Comparison:
+
+
 The cycle structure of a graph can impact its quality in several ways:
 
 -   Robustness: Longer cycles make the graph more robust, as there are more alternative paths between nodes if some edges fail. Shorter cycles like C3 are more vulnerable.[3](https://math.stackexchange.com/questions/1490053/what-is-the-difference-between-a-loop-cycle-and-strongly-connected-components-i)
@@ -64,8 +67,8 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgxMzc4MjcsMjA0MzI2MzE0NywxMz
-I0MTc1NDAzLDE4MjI0MTcyNTcsLTEyNTQ0MzA5NTQsLTE0MzQz
-NDgyMjQsLTk3NjM4MjMxNywtMTU3MjE5NDcyNywtMzExNDgyOD
-A2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODM1OTA4MTgxLDIwNDMyNjMxNDcsMTMyND
+E3NTQwMywxODIyNDE3MjU3LC0xMjU0NDMwOTU0LC0xNDM0MzQ4
+MjI0LC05NzYzODIzMTcsLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNi
+w3MzA5OTgxMTZdfQ==
 -->
