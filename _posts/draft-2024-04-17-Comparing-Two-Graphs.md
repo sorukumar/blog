@@ -11,13 +11,13 @@ Here is a list of metrics:
 
 ### 1. Connectivity Metrics
 
--   **Description**:  A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
--   **Metric**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
+-   **What is it**:  A well-connected graph ensures that there are multiple paths for transmitting data, which increases the reliability of data transfer.
+-   **Metrics**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
 
-### 2. **Path Length**
+### 2. Path Length Metrics
 
--   **Description**: The average shortest path length is crucial for data transmission as it affects the speed of communication between any two nodes.
--   **Metric**: Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths).
+-   **What is it**: The average shortest path length is crucial for data transmission as it affects the speed of communication between any two nodes.
+-   **Metrisc**: Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths).
 
 ### 3. **Robustness**
 
@@ -65,70 +65,8 @@ Here is a list of metrics:
 
 By focusing on these metrics, you can make a well-informed decision about which graph is more suitable for your data transmission needs, considering both the current performance and future adaptability of the network.
 
-    import networkx as nx
-import matplotlib.pyplot as plt
-
-def create_graph(edges):
-    G = nx.Graph()
-    G.add_edges_from(edges)
-    return G
-
-def analyze_graph(G, name):
-    print(f"Analysis of {name}:")
-    # Number of nodes and edges
-    print("Number of nodes:", G.number_of_nodes())
-    print("Number of edges:", G.number_of_edges())
-
-    # Check connectivity
-    print("Is connected:", nx.is_connected(G))
-    if nx.is_connected(G):
-        # Average shortest path length and diameter
-        print("Average shortest path length:", nx.average_shortest_path_length(G))
-        print("Diameter (longest shortest path):", nx.diameter(G))
-    
-    # Clustering coefficient
-    print("Average clustering coefficient:", nx.average_clustering(G))
-
-    # Degree Centrality
-    degree_centrality = nx.degree_centrality(G)
-    print("Max degree centrality:", max(degree_centrality.values()))
-
-    # Betweenness Centrality
-    betweenness_centrality = nx.betweenness_centrality(G)
-    print("Max betweenness centrality:", max(betweenness_centrality.values()))
-
-    # Closeness Centrality
-    closeness_centrality = nx.closeness_centrality(G)
-    print("Max closeness centrality:", max(closeness_centrality.values()))
-
-    # Plotting the graph
-    plt.figure(figsize=(8, 6))
-    nx.draw(G, with_labels=True, node_color='skyblue')
-    plt.title(f"Network Diagram of {name}")
-    plt.show()
-    # Example edges for two graphs
-edges1 = [(1, 2), (2, 3), (3, 4), (4, 5), (1, 5), (2, 4)]
-edges2 = [(1, 2), (2, 3), (3, 4), (4, 5), (1, 5), (1, 3), (2, 5)]
-# Create graphs
-G1 = create_graph(edges1)
-G2 = create_graph(edges2)
-
-# Analyze both graphs
-analyze_graph(G1, "Graph 1")
-analyze_graph(G2, "Graph 2")
-
-
-
-
-
-
-
-
-
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODAwNTU3NywtODE2ODgyNjk2LC0xOD
-UyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUzOTddfQ==
+eyJoaXN0b3J5IjpbNjg3ODgzMjA5LC04MTY4ODI2OTYsLTE4NT
+I0MDA1OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
 -->
