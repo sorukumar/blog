@@ -21,37 +21,37 @@ Here is a list of metrics:
 
 ### 3. Robustness
 
--   **Description**: The ability of the graph to maintain connectedness and functionality when nodes or edges fail.
+-   **What is it**: The ability of the graph to maintain connectedness and functionality when nodes or edges fail.
 -   **Metric**: Measure the graph's resilience by simulating node or edge failures and observing how the graph's connectivity and average path length are affected.
 
 ### 4. **Throughput**
 
--   **Description**: The graph’s capacity to handle large amounts of data simultaneously without significant delays.
+-   **What is it**: The graph’s capacity to handle large amounts of data simultaneously without significant delays.
 -   **Metric**: This can be indirectly measured by analyzing the graph’s degree distribution and bandwidth (which might be theoretical in some cases unless specified by the network’s physical or software design).
 
 ### 5. **Network Efficiency**
 
--   **Description**: Overall efficiency of the network in terms of both local and global efficiency.
+-   **What is it**: Overall efficiency of the network in terms of both local and global efficiency.
 -   **Metric**: Global efficiency (inverse of the average shortest path length) and local efficiency (measures efficiency of information transfer in localized clusters).
 
 ### 6. **Clustering Coefficient**
 
--   **Description**: Indicates the degree to which nodes in the graph tend to cluster together. High clustering can suggest robustness, as parallel paths can exist for data transmission.
+-   **What is it**: Indicates the degree to which nodes in the graph tend to cluster together. High clustering can suggest robustness, as parallel paths can exist for data transmission.
 -   **Metric**: Global and average local clustering coefficients.
 
 ### 7. **Centrality Measures**
 
--   **Description**: Important to identify critical nodes for maintaining fast and reliable communication.
+-   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), and closeness centrality (nodes efficiently distributing data).
 
 ### 8. **Scalability**
 
--   **Description**: How well can the network grow? This is particularly important if the network needs to accommodate more nodes or heavier data flow without significant performance degradation.
+-   **What is it**: How well can the network grow? This is particularly important if the network needs to accommodate more nodes or heavier data flow without significant performance degradation.
 -   **Metric**: This is more of a qualitative assessment, looking at how adding nodes or edges affects the metrics mentioned above.
 
 ### 9. **Load Balancing**
 
--   **Description**: The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck.
+-   **What is it**: The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck.
 -   **Metric**: Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks.
 
 ### Practical Comparison Steps:
@@ -67,7 +67,7 @@ By focusing on these metrics, you can make a well-informed decision about which 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDc5ODg5MSw2ODc4ODMyMDksLTgxNj
-g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
-Mzk3XX0=
+eyJoaXN0b3J5IjpbODg2NTU5ODQ2LDY4Nzg4MzIwOSwtODE2OD
+gyNjk2LC0xODUyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUz
+OTddfQ==
 -->
