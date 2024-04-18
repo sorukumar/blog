@@ -9,11 +9,6 @@ author:
 
 When you are looking for a peer on LightningNetworkplus, you could either form a traingle or a pentagon. 
 
-2 way channel
-```mermaid
-graph LR 
-	A --- B 
-   ```
 3 way channel: Traingle
 ```mermaid
 flowchart LR 
@@ -31,9 +26,17 @@ flowchart LR
 	E --- A
    ```
 
+and, there is one more:
+
+2 way channel
+```mermaid
+graph LR 
+	A --- B 
+   ```
+   
 I have wondered how different or same it is to open a 2 way channel, 3 way channel and 5 way channel.
 
-First, lets establish, how we will look to compare them.
+Criterion 
 
 We can compare them along two dimensions. 1st dimention would be how good it is for node operators, 2nd dimentions would be how good it is for whole network.
 
@@ -58,8 +61,8 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzI2MzE0NywxMzI0MTc1NDAzLDE4Mj
-I0MTcyNTcsLTEyNTQ0MzA5NTQsLTE0MzQzNDgyMjQsLTk3NjM4
-MjMxNywtMTU3MjE5NDcyNywtMzExNDgyODA2LDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbMTA1MzQ5OTA2LDIwNDMyNjMxNDcsMTMyND
+E3NTQwMywxODIyNDE3MjU3LC0xMjU0NDMwOTU0LC0xNDM0MzQ4
+MjI0LC05NzYzODIzMTcsLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNi
+w3MzA5OTgxMTZdfQ==
 -->
