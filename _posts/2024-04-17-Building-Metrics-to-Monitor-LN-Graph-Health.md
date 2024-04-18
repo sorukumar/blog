@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "Building Metrics to Measure Health of LN graph v0.0"
+title: "Building Metrics to Measure Health of Lightning Network Graph v0.0"
 categories: Lightning Technical
 author:
 - sorukumar
@@ -30,25 +29,25 @@ Here is a list of metrics:
 -   **What is it**: The ability of the graph to maintain connectedness and functionality when nodes or edges fail.
 -   **Metric**: Measure the graph's resilience by simulating node or edge failures and observing how the graph's connectivity and average path length are affected.
 
-### 4. **Throughput**
+### 4. Throughput
 
 -   **What is it**: The graph’s capacity to handle large amounts of data simultaneously without significant delays.
 -   **Metric**: This can be indirectly measured by analyzing the graph’s degree distribution and bandwidth.
 
-### 5. **Network Efficiency**
+### 5. Network Efficiency
 
 -   **What is it**: Overall efficiency of the network in terms of both local and global efficiency. The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck
 -   **Metric**: Global efficiency (inverse of the average shortest path length) and local efficiency (measures efficiency of information transfer in localized clusters). Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks
 
-### 6. **Clustering Coefficient**
+### 6. Clustering Coefficient
 
 -   **What is it**: Indicates the degree to which nodes in the graph tend to cluster together. High clustering can suggest robustness, as parallel paths can exist for data transmission.
 -   **Metric**: Global and average local clustering coefficients.
 
-### 7. **Centrality Measures**
+### 7. Centrality Measures
 
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTU5NzQ1NywxMDY5NTkwMzk1XX0=
+eyJoaXN0b3J5IjpbNDY1MDQ2NTksMTA2OTU5MDM5NV19
 -->
