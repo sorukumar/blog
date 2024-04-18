@@ -1,7 +1,7 @@
 
 #  Health of Lightning network
 
-The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, until all nodes start sharing data is not available, for good reason. It is important to develop and monitor meaningful metrics that are lead to these metrics, and can work as a proxy.
+The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, until all nodes start sharing data is not available, for good reasons. It is important to develop and monitor meaningful metrics that are lead to these metrics, and can work as a proxy.
 
 These metrics come from the graph science literature. And, of course, Lighitng network graph has its own set of constraints and challenges, but, yet it is a good starting point.
 
@@ -67,7 +67,7 @@ By focusing on these metrics, you can make a well-informed decision about which 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDEzOTUyNCw2ODc4ODMyMDksLTgxNj
+eyJoaXN0b3J5IjpbMTY4NDI4NDg3NSw2ODc4ODMyMDksLTgxNj
 g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
 Mzk3XX0=
 -->
