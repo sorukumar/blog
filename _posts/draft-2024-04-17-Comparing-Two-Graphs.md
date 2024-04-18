@@ -54,20 +54,10 @@ Here is a list of metrics:
 -   **What is it**: The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck.
 -   **Metric**: Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks.
 
-### Practical Comparison Steps:
-
--   **Simulation**: Run simulations on both graphs to see how data flows under various conditions, such as high traffic, node/edge failures, or rapid network scaling.
--   **Software Tools**: Use network analysis and simulation tools like NetworkX for Python, Gephi, or specialized simulation software that can model data flow and test network resilience under stress.
-
-### Decision Criteria:
-
--   Choose the graph that demonstrates better performance across these metrics, particularly focusing on robustness, efficiency, and shortest paths if your main goal is to optimize for fast and reliable data transmission. The choice might also depend on specific operational requirements like fault tolerance, load capacity, or future scalability.
-
-By focusing on these metrics, you can make a well-informed decision about which graph is more suitable for your data transmission needs, considering both the current performance and future adaptability of the network.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NTU5ODQ2LDY4Nzg4MzIwOSwtODE2OD
-gyNjk2LC0xODUyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUz
-OTddfQ==
+eyJoaXN0b3J5IjpbMTEyNjY3NDMzNCw2ODc4ODMyMDksLTgxNj
+g4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1
+Mzk3XX0=
 -->
