@@ -31,7 +31,7 @@ Here is a list of metrics:
 
 ### 5. **Network Efficiency**
 
--   **What is it**: Overall efficiency of the network in terms of both local and global efficiency.
+-   **What is it**: Overall efficiency of the network in terms of both local and global efficiency. The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck
 -   **Metric**: Global efficiency (inverse of the average shortest path length) and local efficiency (measures efficiency of information transfer in localized clusters). Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks
 
 ### 6. **Clustering Coefficient**
@@ -44,16 +44,12 @@ Here is a list of metrics:
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 
-### 8. **Load Balancing**
-
--   **What is it**: The ability of the network to distribute traffic evenly among nodes to prevent any single node from becoming a bottleneck.
--   **Metric**: Variance in node degree and edge loads can be simulated under various traffic conditions to observe potential bottlenecks.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxODUyNTY0LDExNDY4MzIzMjgsODY4NT
-Q4NTI5LDIwOTg2MjQ1ODEsMjI4NjQ2Mzk0LDExODEyNDY4MDEs
-MTEyNjY3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5NiwtMTg1Mj
-QwMDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
+eyJoaXN0b3J5IjpbMTk0MjY0Mjg3MiwxMTQ2ODMyMzI4LDg2OD
+U0ODUyOSwyMDk4NjI0NTgxLDIyODY0NjM5NCwxMTgxMjQ2ODAx
+LDExMjY2NzQzMzQsNjg3ODgzMjA5LC04MTY4ODI2OTYsLTE4NT
+I0MDA1OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
 -->
