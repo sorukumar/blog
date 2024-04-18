@@ -5,14 +5,14 @@ The best set of metrics to gauge the health of Lighting network graph is actual 
 
 These metrics come from the graph literature. And, of course, Lighitng network graph has its own set of constraints and challenges. Nevertheless, it is a good start.
 
-In this post, I will lay out the metrics category.    when I start building and tracking the metrics for Plebdashboard, metrics would evolve based on how data looks like.
+In this post, I will lay out the metrics category. The metrics would evolve, and I come with precise defintion of the metrics based on data  when I start building and tracking the metrics for Plebdashboard.
 
 Here is a list of metrics:
 
 ### 1. Connectivity Metrics
 
 -   **What is it**:  It checks that there are multiple path from node A to node B.
--   **Metrics**: Look at the number of connected components, the size of the largest connected component, and the average node degree.
+-   **Metrics**: Look at the number of well connected components, the size of the largest connected component, and the average node degree.
 
 ### 2. Path Length Metrics
 
@@ -52,8 +52,7 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTEzMDQzMiwyMjg2NDYzOTQsMTE4MT
-I0NjgwMSwxMTI2Njc0MzM0LDY4Nzg4MzIwOSwtODE2ODgyNjk2
-LC0xODUyNDAwNTk4LC0yMDA0MTY0MTk4LDE0NzI0NzUzOTddfQ
-==
+eyJoaXN0b3J5IjpbNjM5NTI4ODU0LDIyODY0NjM5NCwxMTgxMj
+Q2ODAxLDExMjY2NzQzMzQsNjg3ODgzMjA5LC04MTY4ODI2OTYs
+LTE4NTI0MDA1OTgsLTIwMDQxNjQxOTgsMTQ3MjQ3NTM5N119
 -->
