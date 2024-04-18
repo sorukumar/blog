@@ -1,7 +1,7 @@
 
 #  Health of Lightning network
 
-Given that both graphs are designed for transmitting data from one node to another, the comparison should focus on metrics that highlight the efficiency, robustness, and overall performance of data transmission within each network. Here are several key metrics and considerations that can help you determine which graph might be better suited for data transmission tasks:
+The best set of metrics to gauge the health of Lighting network graph is actual metrics on total payment, failure rate and speed. Given that both graphs are designed for transmitting data from one node to another, the comparison should focus on metrics that highlight the efficiency, robustness, and overall performance of data transmission within each network. Here are several key metrics and considerations that can help you determine which graph might be better suited for data transmission tasks:
 
 ### 1. **Connectivity**
 
@@ -123,6 +123,6 @@ analyze_graph(G2, "Graph 2")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI0MDA1OTgsLTIwMDQxNjQxOTgsMT
-Q3MjQ3NTM5N119
+eyJoaXN0b3J5IjpbMTQ3MzMzNjQ0MSwtMTg1MjQwMDU5OCwtMj
+AwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
