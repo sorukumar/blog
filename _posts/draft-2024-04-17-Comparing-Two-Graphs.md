@@ -3,7 +3,7 @@
 
 The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, until all nodes start sharing data is not available, for good reasons. It is important to develop and monitor meaningful metrics that are lead to these metrics, and can work as a proxy.
 
-These metrics come from the graph literature. [Link1](https://reference.wolfram.com/language/guide/GraphMeasures.html)  [Link2](https://www.semantic-web-journal.net/system/files/swj3366.pdf). And, of course, Lighitng network graph has its own set of constraints and challenges. Nevertheless, it is a good start.
+These metrics come from the graph literature. [Link1](https://reference.wolfram.com/language/guide/GraphMeasures.html)  [Link2](https://link.springer.com/chapter/10.1007/978-3-642-23780-5_13). LN graph has its own set of constraints and challenges, so the metrics needs to defined for it.
 
 In this post, I will lay out the metrics category. The metrics would evolve, and I come with precise defintion of the metrics based on data  when I start building and tracking the metrics for Plebdashboard.
 
@@ -48,9 +48,9 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE4MTE0OTYsLTExNjE0OTM4MDUsMT
-k0MjY0Mjg3MiwxMTQ2ODMyMzI4LDg2ODU0ODUyOSwyMDk4NjI0
-NTgxLDIyODY0NjM5NCwxMTgxMjQ2ODAxLDExMjY2NzQzMzQsNj
-g3ODgzMjA5LC04MTY4ODI2OTYsLTE4NTI0MDA1OTgsLTIwMDQx
-NjQxOTgsMTQ3MjQ3NTM5N119
+eyJoaXN0b3J5IjpbMTI3OTM2Mzg2MiwtMTc1MTgxMTQ5NiwtMT
+E2MTQ5MzgwNSwxOTQyNjQyODcyLDExNDY4MzIzMjgsODY4NTQ4
+NTI5LDIwOTg2MjQ1ODEsMjI4NjQ2Mzk0LDExODEyNDY4MDEsMT
+EyNjY3NDMzNCw2ODc4ODMyMDksLTgxNjg4MjY5NiwtMTg1MjQw
+MDU5OCwtMjAwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
 -->
