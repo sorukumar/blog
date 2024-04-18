@@ -11,7 +11,7 @@ Centrality measure are metrics to understand, quantify and rank importance of no
 
 Here is what I'll try achieving in this post:
 
- 1. Present an intuitive definition and understanding of centrality measures we see around.
+ 1. Present an intuitive definition and understanding of centrality measures lighting exploeres and data apps talk about
  2. Show and calculate those metrics for a simple 5-node graph
  3. Thoughts on what to think of these centrality metrics when choosing a peer to open a channel, or in general in context of LN graph.
 
@@ -229,5 +229,5 @@ flowchart TB
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDU5NzkwOSwtMjA5Mzk2MTk2M119
+eyJoaXN0b3J5IjpbNDQ5NTc1MTQwLC0yMDkzOTYxOTYzXX0=
 -->
