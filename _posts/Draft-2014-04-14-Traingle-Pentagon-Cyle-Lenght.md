@@ -36,9 +36,12 @@ graph LR
    
 I have wondered how different or same it is to open a 2 way channel, 3 way channel and 5 way channel.
 
-Criterion 
+### Criterion for Comparison:
 
-We can compare them along two dimensions. 1st dimention would be how good it is for node operators, 2nd dimentions would be how good it is for whole network.
+We can compare them along two dimensions. 
+
+ - 1st dimention would be how good it is for node operators,
+ -  2nd dimentions would be how good it is for whole network.
 
 For node operators, the defnition of 'good' is  succesful routing through the node, and for the whole network the defintion of good is lower payment failure rate for the network.
 
@@ -61,8 +64,8 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzQ5OTA2LDIwNDMyNjMxNDcsMTMyND
-E3NTQwMywxODIyNDE3MjU3LC0xMjU0NDMwOTU0LC0xNDM0MzQ4
-MjI0LC05NzYzODIzMTcsLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNi
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTgxMzc4MjcsMjA0MzI2MzE0NywxMz
+I0MTc1NDAzLDE4MjI0MTcyNTcsLTEyNTQ0MzA5NTQsLTE0MzQz
+NDgyMjQsLTk3NjM4MjMxNywtMTU3MjE5NDcyNywtMzExNDgyOD
+A2LDczMDk5ODExNl19
 -->
