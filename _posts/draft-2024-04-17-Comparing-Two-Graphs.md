@@ -17,7 +17,7 @@ Here is a list of metrics:
 ### 2. Path Length Metrics
 
 -   **What is it**: The average shortest path length is crucial for HTLC transmission. Remember liquidity is an unknown for us.  The more number of channels the more number of unknows in terms of liquidity balance.
--   **Metrics**: distribution of Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths) for a set of 'major' routing nodes.
+-   **Metrics**: distribution of Average shortest path length (mean geodesic distance) and diameter of the graph (the longest of all the shortest path lengths) for active nodes.
 
 ### 3. Robustness
 
@@ -52,8 +52,8 @@ Here is a list of metrics:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTQ4NTI5LDIwOTg2MjQ1ODEsMjI4Nj
-Q2Mzk0LDExODEyNDY4MDEsMTEyNjY3NDMzNCw2ODc4ODMyMDks
-LTgxNjg4MjY5NiwtMTg1MjQwMDU5OCwtMjAwNDE2NDE5OCwxND
-cyNDc1Mzk3XX0=
+eyJoaXN0b3J5IjpbMTE0NjgzMjMyOCw4Njg1NDg1MjksMjA5OD
+YyNDU4MSwyMjg2NDYzOTQsMTE4MTI0NjgwMSwxMTI2Njc0MzM0
+LDY4Nzg4MzIwOSwtODE2ODgyNjk2LC0xODUyNDAwNTk4LC0yMD
+A0MTY0MTk4LDE0NzI0NzUzOTddfQ==
 -->
