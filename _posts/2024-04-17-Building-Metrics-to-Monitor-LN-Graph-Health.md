@@ -11,7 +11,7 @@ The best set of metrics to gauge the health of Lighting network graph is actual 
 
 These metrics come from the graph literature. [Link1](https://reference.wolfram.com/language/guide/GraphMeasures.html) . LN graph has its own set of constraints and challenges, so the [metrics needs to defined](https://link.springer.com/chapter/10.1007/978-3-642-23780-5_13) for it.
 
-In this post, I will lay out the metrics category. The metrics would evolve, and I come with precise defintion of the metrics based on data  when I start building and tracking the metrics for Plebdashboard.
+In this post, I will lay out the metrics category. I'll come up and share the precise metrics definition after diving deep into the data along with the below metrics dimension.
 
 Here is a list of metrics:
 
@@ -50,5 +50,5 @@ Here is a list of metrics:
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTU5MDM5NV19
+eyJoaXN0b3J5IjpbLTYwOTU5NzQ1NywxMDY5NTkwMzk1XX0=
 -->
