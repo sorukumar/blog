@@ -3,7 +3,9 @@
 
 The best set of metrics to gauge the health of Lighting network graph is actual metrics on total payment, failure rate and speed. Considering, we dont have that easily available, for now, we can live with below metrics that tells us the health of a graph.
 
-These metrics come from the graph science literature. And, of course, we never had a graph lik
+These metrics come from the graph science literature. And, of course, Lighitng network graph has its own set of constraints and challenges, but, yet it would be great starting point.
+
+In this post, we will lay out the metrics, and eventually, Ill add those in Plebdashboard.
 
 
 Given that both graphs are designed for transmitting data from one node to another, the comparison should focus on metrics that highlight the efficiency, robustness, and overall performance of data transmission within each network. Here are several key metrics and considerations that can help you determine which graph might be better suited for data transmission tasks:
@@ -128,6 +130,6 @@ analyze_graph(G2, "Graph 2")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzE0NjM3NCwtMTg1MjQwMDU5OCwtMj
-AwNDE2NDE5OCwxNDcyNDc1Mzk3XX0=
+eyJoaXN0b3J5IjpbLTk2ODAyNDI5LC0xODUyNDAwNTk4LC0yMD
+A0MTY0MTk4LDE0NzI0NzUzOTddfQ==
 -->
