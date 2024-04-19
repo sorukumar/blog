@@ -16,12 +16,12 @@ author:
  
  4. **Existing use case or Novel use case:** For companies, that are building for the transactional use case of bitcoin, good novel use-case would be where a digital money has inherent advantage - AI agent payment, remittance, Micropayments. Even for companies, that are working on 'investment' use case, it is possible to be novel. Think of decentralized lending. 
  
- 5. **User experience:** Complex to Simple. Most of the bitcoin business are like for the developers, by the the developers. The current user expereince is just an artifact of the fact that transactional use case has not gone mainstream. Companies like Lightspark are working towards bringing the UX as par with current infra.  Companies working on 'investment' use case has experience at par or 
+ 5. **User experience:** Complex to Simple. Most of the bitcoin business are like for the developers, by the the developers. The current user expereince is just an artifact of the fact that transactional use case has not gone mainstream. Companies like Lightspark are working towards bringing the UX as par with current infra.  Companies that are working on 'investment' use case in some case, arguably has went past the current status quo in terms of experience.
  
- 6. **Ecosystem Integration**: Isolated to Integrated
+ 6. **Ecosystem Integration**: Isolated to Integrated. Thi dimension is important, because it forces us to 
  7. **Regulatory alignment:** Compliance focussed to innovation focusses
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU4MDUzMywtNjgwNDI2NDMxLDEyMD
+eyJoaXN0b3J5IjpbLTQzMTI3NTYxMiwtNjgwNDI2NDMxLDEyMD
 YzNTE1MDcsMTAzMTcxOTE4NSwxMDIxMzU1MjczXX0=
 -->
