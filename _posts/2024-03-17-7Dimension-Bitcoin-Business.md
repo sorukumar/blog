@@ -14,11 +14,12 @@ author:
  
  3. **Usage of Bitcoin:** Transactinal or Investment. Sadly still most of the companies that are making money in the sapce are focussed on Bitcoin  as an 'investment'/asset. Think of all the big names. Comanies that are building infrastructure to take bitcoin technology at par and beyond with current infrastructure for usage is not making money and are reliant on funding.
  
- 5. **Existing use case or Novel use case:** 
+ 5. **Existing use case or Novel use case:** For companies, that are building for the transactional use case of bitcoin
  6. **User experience:** Complex to Simple
  7. **Ecosystem Integration**: Isolated to Integrated
  8. **Regulatory alignment:** Compliance focussed to innovation focusses
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTcxOTE4NSwxMDIxMzU1MjczXX0=
+eyJoaXN0b3J5IjpbMTMwMzMwNzM5MywxMDMxNzE5MTg1LDEwMj
+EzNTUyNzNdfQ==
 -->
