@@ -20,9 +20,9 @@ author:
  
  6. **Ecosystem Integration**: Isolated to Integrated. This dimension is important one because it forces us to reconcile the company's product roadmap with the the developement of bitcoin ecosystem. A prodcut roadmap that is not in line with ecosystem growth is less likely to survive.  This is particulay challenging becasue of decentralized nature of developemnt of the ecosystem.
  
- 8. **Regulatory alignment:** Compliance focussed to innovation focusses
+ 7. **Regulatory alignment:** Compliance focussed to innovation focussed
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDA0MDg1MiwtNjgwNDI2NDMxLDEyMD
+eyJoaXN0b3J5IjpbLTUyMDMzNzY5MiwtNjgwNDI2NDMxLDEyMD
 YzNTE1MDcsMTAzMTcxOTE4NSwxMDIxMzU1MjczXX0=
 -->
