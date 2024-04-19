@@ -10,9 +10,9 @@ author:
 
  1. **Target Customers:** Is the business serving bitcoin native folks or no coiners. Even with similar product offerings, depending on who they are serving business behave differntly. Think of Coinbase and River.
  
- 2. **Market Focus:** An important dimension, as serving Retail and Institutions require different strategy and mindset.  Second, a founder who is suitable for retail may not be a as great fit for instituition selling.
+ 2. **Market Focus:** An important dimension, as serving Retail and Institutions require different strategy and mindset.  Here, we don't need to think of only product-market fit, but founder-market fit too. 
  
- 3. **Usage of Bitcoin:** transactinal or investment. Sadly, most of the companies that are making money in the sapce are focussed on Bitcoin as as 'investment' piece. Comanies that are building infrastructure to take bitcoin technology at par and beyond with current infrastructure is not making money and are reliant on funding.
+ 3. **Usage of Bitcoin:** Transactinal or Investment. Sadly, most of the companies that are making money in the sapce are focussed on Bitcoin as as 'investment' piece. Comanies that are building infrastructure to take bitcoin technology at par and beyond with current infrastructure is not making money and are reliant on funding.
  
  5. **Existing use case or Novel use case.** 
  6. **User experience:** Complex to Simple
@@ -20,5 +20,5 @@ author:
  8. **Regulatory alignment:** Compliance focussed to innovation focusses
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAxNTgzMDAsMTAyMTM1NTI3M119
+eyJoaXN0b3J5IjpbMTE0MDMxMTk5NiwxMDIxMzU1MjczXX0=
 -->
