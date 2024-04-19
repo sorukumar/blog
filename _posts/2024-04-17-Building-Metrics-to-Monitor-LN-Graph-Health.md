@@ -6,7 +6,7 @@ author:
 - sorukumar
 ---
 
-The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, until all nodes start sharing data is not available, for good reasons. It is important to develop and monitor meaningful metrics that are lead to these metrics, and can work as a proxy.
+The best set of metrics to gauge the health of Lighting network graph is actual metrics on [total payment, failure rate and processing time](https://docs.google.com/spreadsheets/d/1N6pCpZLaz-_lRV5K2WmqYq-NFaxfbdB_6aKsiAuEt84/edit?usp=sharing). Considering that info, for good reasons, is not available until all nodes start sharing data. It is important to develop and monitor meaningful metrics that can work as a proxy.  If the newly defined metrics is lead to 
 
 These metrics come from the graph literature. [Link1](https://reference.wolfram.com/language/guide/GraphMeasures.html) . LN graph has its own set of constraints and challenges, so the [metrics needs to defined](https://link.springer.com/chapter/10.1007/978-3-642-23780-5_13) for it.
 
@@ -49,5 +49,6 @@ Here is a list of metrics:
 -   **What is it**: Important to identify critical nodes for maintaining fast and reliable communication.
 -   **Metric**: Degree centrality (for node importance), betweenness centrality (nodes critical for bridging paths), closeness centrality (nodes efficiently distributing data), and eigenvector centrality (node influence through high-quality connections).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MDQ2NTksMTA2OTU5MDM5NV19
+eyJoaXN0b3J5IjpbOTkxMzgxNjIxLDQ2NTA0NjU5LDEwNjk1OT
+AzOTVdfQ==
 -->
