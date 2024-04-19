@@ -18,10 +18,11 @@ author:
  
  5. **User experience:** Complex to Simple. Most of the bitcoin business are like for the developers, by the the developers. The current user expereince is just an artifact of the fact that transactional use case has not gone mainstream. Companies like Lightspark are working towards bringing the UX as par with current infra.  Companies that are working on 'investment' use case in some case, arguably has went past the current status quo in terms of experience.
  
- 6. **Ecosystem Integration**: Isolated to Integrated. This dimension is important one because it forces us to reconcile the company's product roadmap with the the developement of bitcoin ecosystem. A prodcut roadmap that is not in line with ecosystem growth is less likel
- 7. **Regulatory alignment:** Compliance focussed to innovation focusses
+ 6. **Ecosystem Integration**: Isolated to Integrated. This dimension is important one because it forces us to reconcile the company's product roadmap with the the developement of bitcoin ecosystem. A prodcut roadmap that is not in line with ecosystem growth is less likely to survive.  This is particulay challenging becasue of decentralized nature of developemnt of the ecosystem.
+ 
+ 8. **Regulatory alignment:** Compliance focussed to innovation focusses
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTQ3MTg0NSwtNjgwNDI2NDMxLDEyMD
+eyJoaXN0b3J5IjpbMTk2MDA0MDg1MiwtNjgwNDI2NDMxLDEyMD
 YzNTE1MDcsMTAzMTcxOTE4NSwxMDIxMzU1MjczXX0=
 -->
