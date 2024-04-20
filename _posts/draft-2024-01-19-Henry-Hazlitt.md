@@ -8,6 +8,10 @@ I think Economics in one lesson is exceptionally well written book. I have  it l
 I take him as one of my heroes, so 
 
 
+
+https://books.google.com/books?id=8vIIAQAAIAAJ&pg=PP7&source=gbs_selected_pages&cad=1#v=onepage&q&f=false
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDE3NTUwMywtMjM1OTY0NDE3XX0=
+eyJoaXN0b3J5IjpbNjA4MDk2NTM3LDE5MzAxNzU1MDMsLTIzNT
+k2NDQxN119
 -->
