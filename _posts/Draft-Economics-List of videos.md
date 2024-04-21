@@ -1,6 +1,11 @@
 
+Reading list:
+
+ 1. Economics in one Lesson
+ 2. 
 
 
+Watch list
 free to choose:
 
 https://www.freetochoosenetwork.org/programs/free_to_choose/index_80.php
@@ -12,5 +17,6 @@ https://www.freetochoosenetwork.org/programs/free_to_choose/index_90.php
 free to choose under 2 minutes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDgwMjU5NzZdfQ==
+eyJoaXN0b3J5IjpbLTExODI0NTQzODcsLTExMDgwMjU5NzZdfQ
+==
 -->
