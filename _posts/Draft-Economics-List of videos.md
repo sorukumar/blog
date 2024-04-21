@@ -1,7 +1,7 @@
 
 Reading list:
 
- 1. Economics in one Lesson
+ 1. Economics in one Lesson https://fee.org/ebooks/economics-in-one-lesson/
  2. Anatomy of the state. https://cdn.mises.org/anatomy-of-the-state.pdf
 
 
@@ -20,5 +20,6 @@ Economics in one lesson. Playlist
 
 https://www.youtube.com/playlist?list=PL6EF300C10AC5999C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njc4OTEyNywtMTEwODAyNTk3Nl19
+eyJoaXN0b3J5IjpbLTI0MTYyNzc1MCwtNTk2Nzg5MTI3LC0xMT
+A4MDI1OTc2XX0=
 -->
