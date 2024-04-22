@@ -18,6 +18,11 @@ Here is what I'll try achieving in this post:
 
 
 ## Intuitive definition
+The quadratic formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
+
+$$
+\int_0^\infty \frac{1}{x^2} dx = \infty
+$$
 
 1.  **Degree Centrality**
         -   The social butterfly of the network. A node's importance is gauged by how many connections it has. More friends, more central. 
