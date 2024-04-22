@@ -44,7 +44,6 @@ minima:
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
 
-yaml
 kramdown:
   math_engine: katex
   
