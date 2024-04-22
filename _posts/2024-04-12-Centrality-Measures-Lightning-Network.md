@@ -31,13 +31,6 @@ Here is what I'll try achieving in this post:
 
 ## A Network Graph.
 
-The quadratic formula is $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
-
-$$
-\int_0^\infty \frac{1}{x^2} dx = \infty
-$$
-
-
 <div class="mermaid">
 flowchart LR
     Sia --- Ria
