@@ -47,6 +47,8 @@ What to read from the heatmap above:
  2. From row 2-7, ~60% of new and resurrected nodes stay active after 4-5 months.
  3. I'm pleased if you are wondering why the # for  'new and resurrected node' is trending down, from 416 in Nov-23 to 284 in Apr24. A newer version of the heatmap above will make it easier to understand.
 
+![Cohort Heatmap ]({{ 'assets/CohortHeatmapOct.png' | relative_url }})
+
 ## How many we loose each month
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -67,6 +69,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUxNDI4ODAsNzQ3NjU2MjAyLC04OD
-MxOTUzMiwtMTE5NTYwNzA1MiwzODQ3NDk3NzRdfQ==
+eyJoaXN0b3J5IjpbNjQyNjEyNjczLC0xNTE1MTQyODgwLDc0Nz
+Y1NjIwMiwtODgzMTk1MzIsLTExOTU2MDcwNTIsMzg0NzQ5Nzc0
+XX0=
 -->
