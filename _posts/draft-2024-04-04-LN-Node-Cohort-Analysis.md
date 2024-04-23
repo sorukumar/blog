@@ -21,6 +21,7 @@ The goal of this post is to share data, and provide some interpretation. In the 
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
 
 
+Image
 
 
 definition of active nodes
@@ -162,7 +163,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODcxOTQ1MiwtMzE1Nzk3MCwtMzAyOT
+eyJoaXN0b3J5IjpbLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOT
 IxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1Mjks
 LTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5Nz
 gxNjM5XX0=
