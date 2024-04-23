@@ -33,7 +33,7 @@ Please note that:
  - We'll focus our analysis on only active nodes.
  - Methodology: 
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 		them are active in subsequent months
-	 - In the heatmap below, we are following nodes from October 2023. Any node that we did
+	 - In the heatmap below, we are following nodes from October 2023. Any node that LN graph didnt see in october and say in November is 'New or resurrected' for November. 
 
 ## Heat Map
 
@@ -174,9 +174,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYzMzc4OTIsMTc2NjkyMjcxOSwzMz
-g1NDI4MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOTIxMjg3
-LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMz
-I0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5
-XX0=
+eyJoaXN0b3J5IjpbMTUyMDYxNzA2NywxNzY2OTIyNzE5LDMzOD
+U0MjgzNCwtOTk1NDg4ODI5LC0zMTU3OTcwLC0zMDI5MjEyODcs
+MTU2MTQyNjE4MSw5MjAzNjUyMjYsMTcwMTQ3MzUyOSwtMTMzMj
+Q5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2Mzld
+fQ==
 -->
