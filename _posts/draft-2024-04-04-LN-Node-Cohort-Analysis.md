@@ -27,8 +27,10 @@ Image
 #of Nodes is unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
 Active nodes: Nodes with at least one active public channel that has sent at least one update.
 
-Please n
+Please note that:
 
+ - I dont have data for june, July and September. So, for our puspose, we'll analyze 9 months of data to to understand cohort behavior
+ - 
 
 ## How many new Nodes each month
 
@@ -166,8 +168,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk4NTkyMTgsMzM4NTQyODM0LC05OT
-U0ODg4MjksLTMxNTc5NzAsLTMwMjkyMTI4NywxNTYxNDI2MTgx
-LDkyMDM2NTIyNiwxNzAxNDczNTI5LC0xMzMyNDkzNDYzLDk5MT
-cwMTc0MywtMTk3MjM0MTY3NCwyOTc4MTYzOV19
+eyJoaXN0b3J5IjpbLTU5NDY4NjgwNywzMzg1NDI4MzQsLTk5NT
+Q4ODgyOSwtMzE1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEs
+OTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNz
+AxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
