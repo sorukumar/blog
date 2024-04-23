@@ -8,7 +8,7 @@ The strategy and tactics you apply in real life networking also applies in Light
 
 ## Having Friends help
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
 
 ## Powerful friends help even more
 
@@ -24,6 +24,6 @@ StackEdit stores your files in your browser, which means all your files are auto
  2. make headline like thou shalt have powerful friends..chatgpt
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzc5MDg5OSwtMTMwNDkxMDAxNiw0MT
-AxODk1MV19
+eyJoaXN0b3J5IjpbLTE1OTI2MjU5NjIsLTMzNzc5MDg5OSwtMT
+MwNDkxMDAxNiw0MTAxODk1MV19
 -->
