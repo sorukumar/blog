@@ -62,14 +62,14 @@ What to read from the heatmap above:
 ## Notes and Next step
 
  - Even though there is some insight into the analysis, we should not read a lot here. In general, LN is an early technology, a majority of nodes are LN enthusiast playing around, and the big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. 
- - Defining cohort based on obervation window has its own challenge, so in the next iteration, we'll look to define it based on 
+ - Defining cohort based on obervation window has its own challenge, so in the next iteration, we'll look to define it based on first channel open transaction for the node. If we only look at 
 
 
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkwNDE2MzcsLTE0NTA3OTE5NzUsMT
-c5MzcwMzM1OCwtNTk3MjkyOTIwLC0zNzgzMjQ2MDEsNjQyNjEy
-NjczLC0xNTE1MTQyODgwLDc0NzY1NjIwMiwtODgzMTk1MzIsLT
-ExOTU2MDcwNTIsMzg0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbNTY3MTEwNDc5LC0xNDUwNzkxOTc1LDE3OT
+M3MDMzNTgsLTU5NzI5MjkyMCwtMzc4MzI0NjAxLDY0MjYxMjY3
+MywtMTUxNTE0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMT
+k1NjA3MDUyLDM4NDc0OTc3NF19
 -->
