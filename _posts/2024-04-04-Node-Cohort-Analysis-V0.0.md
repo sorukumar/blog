@@ -42,7 +42,8 @@ What you need to make a note, looking at the table above:
 
 What to read from the heatmap above:
 
- 1. Row 1, out of ~10K nodes actoiv
+ 1. Row 1, out of ~10K nodes active in october, 90% would stay active for next 3 months, but after 6 months, only 75% would stay active. 
+ 2. 
 
 ## How many we loose each month
 
@@ -64,6 +65,6 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk1MDA5NjIsLTg4MzE5NTMyLC0xMT
-k1NjA3MDUyLDM4NDc0OTc3NF19
+eyJoaXN0b3J5IjpbNjE3Nzg0MzM2LC04ODMxOTUzMiwtMTE5NT
+YwNzA1MiwzODQ3NDk3NzRdfQ==
 -->
