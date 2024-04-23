@@ -61,16 +61,14 @@ What to read from the heatmap above:
 
 ## Notes and Next step
 
- - Even though there is some insight into 
-
-In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
+ - Even though there is some insight into the analysis, we should not read a lot here. In general, LN is an early technology, a majority of nodes are LN enthusiast playing around, and the big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
 
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjA4NTUxNCwtMTQ1MDc5MTk3NSwxNz
-kzNzAzMzU4LC01OTcyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2
-NzMsLTE1MTUxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMT
-E5NTYwNzA1MiwzODQ3NDk3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk1NTYyMDUsLTE0NTA3OTE5NzUsMT
+c5MzcwMzM1OCwtNTk3MjkyOTIwLC0zNzgzMjQ2MDEsNjQyNjEy
+NjczLC0xNTE1MTQyODgwLDc0NzY1NjIwMiwtODgzMTk1MzIsLT
+ExOTU2MDcwNTIsMzg0NzQ5Nzc0XX0=
 -->
