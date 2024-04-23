@@ -6,7 +6,7 @@ author:
 - sorukumar
 ---
 
- - How many new nodes sign up each month
+ - How many new nodes sign up each month? 
  - How many we loose per month
  - How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead? Do they resurrect?
 
@@ -72,7 +72,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODMyNDYwMSw2NDI2MTI2NzMsLTE1MT
-UxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMTE5NTYwNzA1
-MiwzODQ3NDk3NzRdfQ==
+eyJoaXN0b3J5IjpbLTU5NzI5MjkyMCwtMzc4MzI0NjAxLDY0Mj
+YxMjY3MywtMTUxNTE0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMy
+LC0xMTk1NjA3MDUyLDM4NDc0OTc3NF19
 -->
