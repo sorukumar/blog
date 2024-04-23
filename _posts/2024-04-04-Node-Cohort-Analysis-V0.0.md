@@ -34,8 +34,8 @@ What you need to make a note, looking at the table above:
 
  - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
  -  We'll also monitor how many 'new and resurrected' node we see in a month, and we'll also follow their behavior in analysis window.
- - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window ( October-23  to April-24) . For December cohort,  the # of new and resurrected nodes are nodes that we saw first time in December in our observation window, that is we didnt see them in October or November.
- - Why not just new, why 'new and resurrected'? They could be a resurrected node as well. For example, a node that was active in August, but not active in October, november and again start showing up in December is getting counted in December Cohort. What % of these nodes are resurrected? Based on additional data I estimate that ~30% of those nodes could be resurrected. We'll do a thourogh analysis in the next iteration.
+ - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window ( October-23  to April-24) . For December cohort,  the # of new and resurrected nodes are nodes that we saw first time in Decembe, that is we didnt see them in October or November.
+ - We are calling these set of users 'new and resurrected', not just new because we have resurrected node as well. For example, a node that was active in August, but not active in October, november and again start showing up in December is getting counted in December Cohort. What % of these nodes are resurrected? Based on additional data I estimate that ~30% of those nodes could be resurrected. We'll do a thourogh analysis in the next iteration.
 
 ## Heat Map
 
@@ -67,8 +67,8 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA3OTE5NzUsMTc5MzcwMzM1OCwtNT
-k3MjkyOTIwLC0zNzgzMjQ2MDEsNjQyNjEyNjczLC0xNTE1MTQy
-ODgwLDc0NzY1NjIwMiwtODgzMTk1MzIsLTExOTU2MDcwNTIsMz
-g0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbMjA0ODQwMTMyMiwtMTQ1MDc5MTk3NSwxNz
+kzNzAzMzU4LC01OTcyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2
+NzMsLTE1MTUxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMT
+E5NTYwNzA1MiwzODQ3NDk3NzRdfQ==
 -->
