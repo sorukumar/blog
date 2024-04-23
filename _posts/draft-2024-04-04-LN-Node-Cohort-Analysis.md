@@ -21,7 +21,7 @@ The goal of this post is to share data, and provide some interpretation. In the 
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
 
 
-Image
+![# of LN Node]({{ 'assets/2by2BitcoinbizMar20.png' | relative_url }})
 
 
 #of Nodes is unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
@@ -62,9 +62,9 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTQ4NTUyOCwxNzY2OTIyNzE5LDMzOD
-U0MjgzNCwtOTk1NDg4ODI5LC0zMTU3OTcwLC0zMDI5MjEyODcs
-MTU2MTQyNjE4MSw5MjAzNjUyMjYsMTcwMTQ3MzUyOSwtMTMzMj
-Q5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2Mzld
-fQ==
+eyJoaXN0b3J5IjpbMTM5NjYyMDE1NiwxMjAxNDg1NTI4LDE3Nj
+Y5MjI3MTksMzM4NTQyODM0LC05OTU0ODg4MjksLTMxNTc5NzAs
+LTMwMjkyMTI4NywxNTYxNDI2MTgxLDkyMDM2NTIyNiwxNzAxND
+czNTI5LC0xMzMyNDkzNDYzLDk5MTcwMTc0MywtMTk3MjM0MTY3
+NCwyOTc4MTYzOV19
 -->
