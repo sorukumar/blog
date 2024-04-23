@@ -52,7 +52,7 @@ What to read from the heatmap above:
  - Now, we can notice that 8% and 6% of Nov23 Cohort nodes (416) were  active in May23 and Aug23 respectively. The way we have defined out  cohort, we know that none of them was active in October. Anyway,  these 8% and 6% are resurrected nodes.
  - As we go down the newer cohorts, we also see that only 2-4% of these nodes were active in May23 and Aug23. We wont be wrong to assume that our analysis methodology makes sure that only small fraction of nodes are resurrected nodes in newer cohorts.
 
-## How many we loose each month
+## The answers we were seeking
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
@@ -72,7 +72,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzI5MjkyMCwtMzc4MzI0NjAxLDY0Mj
-YxMjY3MywtMTUxNTE0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMy
-LC0xMTk1NjA3MDUyLDM4NDc0OTc3NF19
+eyJoaXN0b3J5IjpbMTE0MTAxMzQ5NywtNTk3MjkyOTIwLC0zNz
+gzMjQ2MDEsNjQyNjEyNjczLC0xNTE1MTQyODgwLDc0NzY1NjIw
+MiwtODgzMTk1MzIsLTExOTU2MDcwNTIsMzg0NzQ5Nzc0XX0=
 -->
