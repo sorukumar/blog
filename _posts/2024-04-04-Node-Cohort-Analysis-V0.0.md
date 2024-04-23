@@ -40,7 +40,7 @@ What you need to make a note, looking at the table above:
 
 ![Cohort Heatmap ]({{ 'assets/Cohortheatmapoctv0.png' | relative_url }})
 
-How to read the heatmap above:
+What to read from the heatmap above:
 
 
 ## How many we loose each month
@@ -63,5 +63,6 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2MDcwNTIsMzg0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbLTg4MzE5NTMyLC0xMTk1NjA3MDUyLDM4ND
+c0OTc3NF19
 -->
