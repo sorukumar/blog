@@ -36,7 +36,7 @@ Please note that:
 **Methodology:** 
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 		them are active in subsequent months
 	 - In the heatmap below, we are following nodes from October 2023. Any node that LN graph didnt see in october and say in November is 'New or resurrected' for November. 
-	 - Why they are 'New 
+	 - Why not just new, why 'new and resurrected'? A node seen first time in November, and not seen in October what we see in that row. That node may be 
 
 ## Heat Map
 
@@ -65,9 +65,9 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjE5NzExOCwxODU3OTY0MTA0LDEzOT
-Y2MjAxNTYsMTIwMTQ4NTUyOCwxNzY2OTIyNzE5LDMzODU0Mjgz
-NCwtOTk1NDg4ODI5LC0zMTU3OTcwLC0zMDI5MjEyODcsMTU2MT
-QyNjE4MSw5MjAzNjUyMjYsMTcwMTQ3MzUyOSwtMTMzMjQ5MzQ2
-Myw5OTE3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbLTE1MTI0ODAxMjgsMTg1Nzk2NDEwNCwxMz
+k2NjIwMTU2LDEyMDE0ODU1MjgsMTc2NjkyMjcxOSwzMzg1NDI4
+MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOTIxMjg3LDE1Nj
+E0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0
+NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
