@@ -7,9 +7,6 @@ author:
  - sorukumar
 ---
 
-# LN Node - A Cohort Analysis
-
-
  - How many new nodes sign up each month
  - How many we loose per month
  - How do nodes behave when they sign-up, How long they are alive before they are dead
@@ -162,7 +159,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODYwOTEzMSw5MjAzNjUyMjYsMTcwMT
+eyJoaXN0b3J5IjpbLTUwNzA5NTEyNSw5MjAzNjUyMjYsMTcwMT
 Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
 NzQsMjk3ODE2MzldfQ==
 -->
