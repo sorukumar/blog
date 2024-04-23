@@ -27,9 +27,9 @@ We have LN graph output from an LND node since May-2023. We are analysing graph 
 #of Nodes is count of unique pub key from the graph output. 
 Active nodes: Nodes with at least one active public channel that has sent at least one update to its peer.
 
-What you need to make a note, looking at the table 
+What you need to make a note, looking at the table above:
 
- - I dont have data for June, July and September. So, for our puspose, we'll analyze 9 months of data to understand cohort behavior
+ - There is no data for June, July and September. It just tells you I was not looking to store historiSo, for our puspose, we'll analyze 9 months of data to understand cohort behavior
  - We'll focus our analysis on only active nodes.
 
 **Methodology:** 
@@ -65,5 +65,5 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM2MjQ0NjgsMzg0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbMTE0MjQ5NDM5NCwzODQ3NDk3NzRdfQ==
 -->
