@@ -25,16 +25,17 @@ We have LN graph output from an LND node since May-2023. We are analysing graph 
 ![# of LN Node]({{ 'assets/CohortNode.png' | relative_url }})
 
 
-#of Nodes is count of unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
+#of Nodes is count of unique pub key from the graph output. But depending on who we want to count as nodes, lets define active node as well.
 Active nodes: Nodes with at least one active public channel that has sent at least one update.
 
 Please note that:
 
- - I dont have data for june, July and September. So, for our puspose, we'll analyze 9 months of data to to understand cohort behavior
+ - I dont have data for June, July and September. So, for our puspose, we'll analyze 9 months of data to understand cohort behavior
  - We'll focus our analysis on only active nodes.
 
 **Methodology:** 
-	 - We'll look at all active nodes in a month, and continue monitoring how many of 		them are active in subsequent months
+	 - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
+	 - We'll also monitor how many new and 
 	 - In the heatmap below, we are following nodes from October 2023. Any node that LN graph didnt see in october and say in November is 'New or resurrected' for November. 
 	 - Why not just new, why 'new and resurrected'? A node seen first time in November, and not seen in October what we see in that row. That node may be joining LN for the first time, or may be after a couple of month of being deactive, it came back to life. We'll get into details of ratio of new and resurrected later on.
 
@@ -65,7 +66,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQ4NTI1MCw3MDAxMDc3OTIsMTg1Nz
+eyJoaXN0b3J5IjpbLTY3NTc4ODgzNiw3MDAxMDc3OTIsMTg1Nz
 k2NDEwNCwxMzk2NjIwMTU2LDEyMDE0ODU1MjgsMTc2NjkyMjcx
 OSwzMzg1NDI4MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOT
 IxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1Mjks
