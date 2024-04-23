@@ -50,7 +50,7 @@ What to read from the heatmap above:
 ![Cohort Heatmap ]({{ 'assets/CohortHeatmapOct.png' | relative_url }})
 
  - Now, we can notice that 8% and 6% of Nov23 Cohort nodes (416) were  active in May23 and Aug23 respectively. The way we have defined out  cohort, we know that none of them was active in October. Anyway,  these 8% and 6% are resurrected nodes.
- - As we go down the newer cohorts, we also see that only 2-4% of these nodes were active in May23 and Aug23. We wont be wrong to assu
+ - As we go down the newer cohorts, we also see that only 2-4% of these nodes were active in May23 and Aug23. We wont be wrong to assume that our analysis methodology makes sure that only small fraction of nodes are resurrected nodes in newer cohorts.
 
 ## How many we loose each month
 
@@ -72,7 +72,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0Mjc1MjE4LDY0MjYxMjY3MywtMTUxNT
-E0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMTk1NjA3MDUy
-LDM4NDc0OTc3NF19
+eyJoaXN0b3J5IjpbLTM3ODMyNDYwMSw2NDI2MTI2NzMsLTE1MT
+UxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMTE5NTYwNzA1
+MiwzODQ3NDk3NzRdfQ==
 -->
