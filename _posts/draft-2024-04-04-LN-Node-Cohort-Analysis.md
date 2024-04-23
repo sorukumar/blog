@@ -10,8 +10,7 @@ author:
 # LN Node - A Cohort Analysis
 
 All LN ethusiast have curiosity around the behavior of nodes:
-https://tribecap.co/a-quantitative-approach-to-product-market-fit/
-https://medium.com/swlh/diligence-at-social-capital-epilogue-introducing-the-8-ball-and-gaap-for-startups-7ab215c378bc
+
 
  - How many new nodes sign up each month
  - How many we loose per month
@@ -162,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMz
-I0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5
-XX0=
+eyJoaXN0b3J5IjpbMTgzMzE0NzQzMSw5MjAzNjUyMjYsMTcwMT
+Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
+NzQsMjk3ODE2MzldfQ==
 -->
