@@ -42,6 +42,7 @@ What you need to make a note, looking at the table above:
 
 What to read from the heatmap above:
 
+ 1. Row 1, out of ~10K nodes actoiv
 
 ## How many we loose each month
 
@@ -63,6 +64,6 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzE5NTMyLC0xMTk1NjA3MDUyLDM4ND
-c0OTc3NF19
+eyJoaXN0b3J5IjpbLTE1MDk1MDA5NjIsLTg4MzE5NTMyLC0xMT
+k1NjA3MDUyLDM4NDc0OTc3NF19
 -->
