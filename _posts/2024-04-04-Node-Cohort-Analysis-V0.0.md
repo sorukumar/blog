@@ -56,8 +56,8 @@ What to read from the heatmap above:
 
 Q: How many new nodes sign up each month? ~300 per month
 Q: How many we loose per month?  Going with the definition of' not active' in the next month as loosing, the number is ~500 per month
-Q: A follow up, how do we reconcile that all LN explore has ~15K nodes for a month for almost a year. If we gain ~300, and loose ~500 per month. The answer is a lot of them come ba
-   - How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead? Do they       resurrect?
+Q: A follow up, how do we reconcile that all LN explore has ~15K nodes for a month for almost a year. If we gain ~300, and loose ~500 per month. The answer is a lot of them come back, you can say evetually 200 of them or 40% of them.
+Q: How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead?  Read through the points we discussed on the heatmap section.
 
 ## Notes and Next step
 
@@ -67,8 +67,8 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjIyODQ5LDE3OTM3MDMzNTgsLTU5Nz
-I5MjkyMCwtMzc4MzI0NjAxLDY0MjYxMjY3MywtMTUxNTE0Mjg4
-MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMTk1NjA3MDUyLDM4ND
-c0OTc3NF19
+eyJoaXN0b3J5IjpbLTg5NzY1MjMyNiwxNzkzNzAzMzU4LC01OT
+cyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2NzMsLTE1MTUxNDI4
+ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMTE5NTYwNzA1MiwzOD
+Q3NDk3NzRdfQ==
 -->
