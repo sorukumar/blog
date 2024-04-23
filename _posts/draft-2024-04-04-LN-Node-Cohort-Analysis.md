@@ -24,7 +24,7 @@ We have LN graph output from an LND node since May-2023. We are analysing graph 
 Image
 
 
-# of nod
+#of Nodes is unique pub key in the from the graph output. But depending on how, we do we want to count as nodes, lets define 
 
 
 ## How many new Nodes each month
@@ -163,7 +163,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyNDA1MzcsLTk5NTQ4ODgyOSwtMz
+eyJoaXN0b3J5IjpbLTExNTgxMTUzNTMsLTk5NTQ4ODgyOSwtMz
 E1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2
 LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOT
 cyMzQxNjc0LDI5NzgxNjM5XX0=
