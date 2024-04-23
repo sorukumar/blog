@@ -24,7 +24,8 @@ We have LN graph output from an LND node since May-2023. We are analysing graph 
 Image
 
 
-#of Nodes is unique pub key in the from the graph output. But depending on how, we do we want to count as nodes, lets define 
+#of Nodes is unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
+Active nodes: Nodes with at least one active public channel that has sent at least one update.
 
 
 ## How many new Nodes each month
@@ -163,8 +164,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxMTUzNTMsLTk5NTQ4ODgyOSwtMz
-E1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2
-LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOT
-cyMzQxNjc0LDI5NzgxNjM5XX0=
+eyJoaXN0b3J5IjpbMzM4NTQyODM0LC05OTU0ODg4MjksLTMxNT
+c5NzAsLTMwMjkyMTI4NywxNTYxNDI2MTgxLDkyMDM2NTIyNiwx
+NzAxNDczNTI5LC0xMzMyNDkzNDYzLDk5MTcwMTc0MywtMTk3Mj
+M0MTY3NCwyOTc4MTYzOV19
 -->
