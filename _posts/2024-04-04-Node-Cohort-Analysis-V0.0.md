@@ -56,10 +56,12 @@ What to read from the heatmap above:
 
  - Q: How many new nodes sign up each month? ~300 per month 
  - Q: How many we loose per month?  Going with the definition of' not active' in the next month as loosing, the number is ~500 per month 
- - Q: A follow up, If we gain ~300, and loose ~500 per month, how come all LN explores have been showing ~15k nodes  for almost a year. Should  noThe answer is a lot of them come back, you can say evetually 200 of them or 40% of them. 
+ - Q: A follow up, If we gain ~300, and loose ~500 per month, how come all LN explores have been showing ~15k nodes  for almost a year. Should  not the # of nodes go down? The answer is a lot of them come back, we can say evetually 200 of them or 40% of them come back.
  - Q: How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead?  Read through the points we discussed on the heatmap section.
 
 ## Notes and Next step
+
+ - Even though there is some insight into 
 
 In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
@@ -67,7 +69,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDU4NDQyNSwtMTQ1MDc5MTk3NSwxNz
+eyJoaXN0b3J5IjpbLTk5NjA4NTUxNCwtMTQ1MDc5MTk3NSwxNz
 kzNzAzMzU4LC01OTcyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2
 NzMsLTE1MTUxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMT
 E5NTYwNzA1MiwzODQ3NDk3NzRdfQ==
