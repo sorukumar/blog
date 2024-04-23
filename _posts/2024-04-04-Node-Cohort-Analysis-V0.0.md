@@ -17,7 +17,7 @@ The goal of this post is to share data, and provide some interpretation. In the 
 
 ## The data & Methodology
 
-**data:**
+**Data:**
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
 
 
@@ -65,5 +65,5 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbMTgzMjI1NTY2MiwzODQ3NDk3NzRdfQ==
 -->
