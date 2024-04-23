@@ -44,7 +44,7 @@ What to read from the heatmap above:
 
  1. Row 1, out of ~10K nodes active in october, 90% would stay active for next 3 months, but after 6 months, only 75% would stay active. I have seen from additional months of data that the trend holds.
  2. From row 2-7, ~60% of new and resurrected nodes stay active after 4-5 months.
- 3. I'm pleased if you are wondering why the # for  'new and resurrected node' is trending down, from 416 in Nov-23 to 284 in Apr24.
+ 3. I'm pleased if you are wondering why the # for  'new and resurrected node' is trending down, from 416 in Nov-23 to 284 in Apr24. A newer version of the heatmap above will make it easier to understand.
 
 ## How many we loose each month
 
@@ -66,6 +66,6 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNjYxODUwLDc0NzY1NjIwMiwtODgzMT
-k1MzIsLTExOTU2MDcwNTIsMzg0NzQ5Nzc0XX0=
+eyJoaXN0b3J5IjpbMTE5MjY1MDQ0Miw3NDc2NTYyMDIsLTg4Mz
+E5NTMyLC0xMTk1NjA3MDUyLDM4NDc0OTc3NF19
 -->
