@@ -16,7 +16,7 @@ These questions come to mind when we start thinking about growth of Lightning ne
 The goal of this post is to share data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic analysis and story.
 
 
-# The data & Methodology
+## The data & Methodology
 
 **data:**
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
@@ -32,9 +32,11 @@ Please note that:
 
  - I dont have data for june, July and September. So, for our puspose, we'll analyze 9 months of data to to understand cohort behavior
  - We'll focus our analysis on only active nodes.
- - Methodology: 
+
+**Methodology:** 
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 		them are active in subsequent months
 	 - In the heatmap below, we are following nodes from October 2023. Any node that LN graph didnt see in october and say in November is 'New or resurrected' for November. 
+	 - Why they are 'New 
 
 ## Heat Map
 
@@ -63,9 +65,9 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ4MzE0NDgsMTg1Nzk2NDEwNCwxMz
-k2NjIwMTU2LDEyMDE0ODU1MjgsMTc2NjkyMjcxOSwzMzg1NDI4
-MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOTIxMjg3LDE1Nj
-E0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0
-NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
+eyJoaXN0b3J5IjpbMTc2NjE5NzExOCwxODU3OTY0MTA0LDEzOT
+Y2MjAxNTYsMTIwMTQ4NTUyOCwxNzY2OTIyNzE5LDMzODU0Mjgz
+NCwtOTk1NDg4ODI5LC0zMTU3OTcwLC0zMDI5MjEyODcsMTU2MT
+QyNjE4MSw5MjAzNjUyMjYsMTcwMTQ3MzUyOSwtMTMzMjQ5MzQ2
+Myw5OTE3MDE3NDMsLTE5NzIzNDE2NzQsMjk3ODE2MzldfQ==
 -->
