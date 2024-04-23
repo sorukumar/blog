@@ -21,7 +21,7 @@ The goal of this post is to share data, and provide some interpretation. In the 
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
 
 
-![# of LN Node]({{ 'assets/2by2BitcoinbizMar20.png' | relative_url }})
+![# of LN Node]({{ 'assets/CohortNode.png' | relative_url }})
 
 
 #of Nodes is unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
@@ -37,7 +37,7 @@ Please note that:
 
 ## Heat Map
 
-
+![Cohort Heatmap ]({{ 'assets/Cohortheatmapoctv0.png' | relative_url }})
 
 How to read the heatmap above:
 
@@ -62,9 +62,9 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjYyMDE1NiwxMjAxNDg1NTI4LDE3Nj
-Y5MjI3MTksMzM4NTQyODM0LC05OTU0ODg4MjksLTMxNTc5NzAs
-LTMwMjkyMTI4NywxNTYxNDI2MTgxLDkyMDM2NTIyNiwxNzAxND
-czNTI5LC0xMzMyNDkzNDYzLDk5MTcwMTc0MywtMTk3MjM0MTY3
-NCwyOTc4MTYzOV19
+eyJoaXN0b3J5IjpbMTg1Nzk2NDEwNCwxMzk2NjIwMTU2LDEyMD
+E0ODU1MjgsMTc2NjkyMjcxOSwzMzg1NDI4MzQsLTk5NTQ4ODgy
+OSwtMzE1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEsOTIwMz
+Y1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQz
+LC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
