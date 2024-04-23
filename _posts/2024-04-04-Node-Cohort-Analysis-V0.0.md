@@ -15,21 +15,19 @@ These questions come to mind when we start thinking about growth of Lightning ne
 The goal of this post is to share data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more coherent and holistic story.
 
 
-## The data & Methodology
+## The ata & the Methodology
 
 **Data:**
 We have LN graph output from an LND node since May-2023. We are analysing graph data pulled on a day of the first week for following months. Here is how the data looks.
 
-
 ![# of LN Node]({{ 'assets/CohortNode.png' | relative_url }})
-
 
 #of Nodes is count of unique pub key from the graph output. 
 Active nodes: Nodes with at least one active public channel that has sent at least one update to its peer.
 
 What you need to make a note, looking at the table above:
 
- - There is no data for June, July and September. It just tells you I was not looking to store historiSo, for our puspose, we'll analyze 9 months of data to understand cohort behavior
+ - There is no data for June, July and September. It just tells you I was not looking to store historical data for analysis at that time. Nonetheless, for our puspose, 9 months of data is enough
  - We'll focus our analysis on only active nodes.
 
 **Methodology:** 
@@ -65,5 +63,5 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjQ5NDM5NCwzODQ3NDk3NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTEyNzA4NDgsMzg0NzQ5Nzc0XX0=
 -->
