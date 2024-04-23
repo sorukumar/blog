@@ -12,7 +12,7 @@ author:
 
 These questions come to mind when we start thinking about growth of Lightning network. 
 
-The goal of this post is to share data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more coherent and holistic story.
+The goal of this post is to share data, provide some interpretation, and get answers to the above basic questions. In the next iteration of cohort analysis, I'll pass more coherent and holistic story.
 
 
 ## The Data & the Methodology
@@ -67,8 +67,8 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzE1Nzg0LDE3OTM3MDMzNTgsLTU5Nz
-I5MjkyMCwtMzc4MzI0NjAxLDY0MjYxMjY3MywtMTUxNTE0Mjg4
-MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMTk1NjA3MDUyLDM4ND
-c0OTc3NF19
+eyJoaXN0b3J5IjpbLTE0NTA3OTE5NzUsMTc5MzcwMzM1OCwtNT
+k3MjkyOTIwLC0zNzgzMjQ2MDEsNjQyNjEyNjczLC0xNTE1MTQy
+ODgwLDc0NzY1NjIwMiwtODgzMTk1MzIsLTExOTU2MDcwNTIsMz
+g0NzQ5Nzc0XX0=
 -->
