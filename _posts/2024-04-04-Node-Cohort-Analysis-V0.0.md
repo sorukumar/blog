@@ -31,6 +31,8 @@ What you need to make a note, looking at the table above:
  - We'll focus our analysis on only active nodes.
 
 **Methodology:** 
+
+
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
 	 - We'll also monitor how many 'new and resurrected' node we see in a month, and we'll also follow their behavior in analysis window.
 	 - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window ( October-23  to April-24) . For December cohort,  the # of new and resurrected nodes are nodes that we saw first time in December in our observation window, that is we didnt see them in October or November.
@@ -66,6 +68,6 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjY1MDQ0Miw3NDc2NTYyMDIsLTg4Mz
+eyJoaXN0b3J5IjpbLTMyMTY1NDAzNCw3NDc2NTYyMDIsLTg4Mz
 E5NTMyLC0xMTk1NjA3MDUyLDM4NDc0OTc3NF19
 -->
