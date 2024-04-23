@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Lightning Network Cohort Analysis"
+title: "Lightning Network Cohort Analysis: Data"
 categories: Lightning
 author:
  - sorukumar
@@ -9,12 +9,13 @@ author:
 
 # LN Node - A Cohort Analysis
 
-All LN ethusiast have curiosity around the behavior of nodes:
-
 
  - How many new nodes sign up each month
  - How many we loose per month
  - How do nodes behave when they sign-up, How long they are alive before they are dead
+
+These questions come to mind when we start thinking about growth of Lightning network. 
+
 
 In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
@@ -161,7 +162,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzE0NzQzMSw5MjAzNjUyMjYsMTcwMT
+eyJoaXN0b3J5IjpbLTg4ODYwOTEzMSw5MjAzNjUyMjYsMTcwMT
 Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
 NzQsMjk3ODE2MzldfQ==
 -->
