@@ -33,7 +33,7 @@ What you need to make a note, looking at the table above:
 **Methodology:** 
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
 	 - We'll also monitor how many 'new and resurrected' node we see in a month, and we'll also follow their behavior in analysis window.
-	 - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window, for our case it is from October-23  to April-24 . For December cohort, this number is nodes that we didnt see in october and november, and we saw it first time in December. 
+	 - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window, for our case it is from October-23  to April-24 . For December cohort,  the # of new and resurrected nodes are nodes that we say first time in December in our observation window. this number is nodes that we didnt see in october and november, and we saw it first time in December. 
 	 - Why not just new, why 'new and resurrected'? They could be a resurrected node as well. For example, a node that was active in August, but not active in October, november and again start showing up in December is getting counted in December Cohort. What % of these nodes are resurrected? Based on additional data I estimate that ~30% of those nodes could be resurrected. We'll do a thourogh analysis in the next iteration.
 
 ## Heat Map
@@ -63,5 +63,5 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzk5NDIzLDM4NDc0OTc3NF19
+eyJoaXN0b3J5IjpbMTU0MTM1ODQzMSwzODQ3NDk3NzRdfQ==
 -->
