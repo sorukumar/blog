@@ -49,7 +49,8 @@ What to read from the heatmap above:
 
 ![Cohort Heatmap ]({{ 'assets/CohortHeatmapOct.png' | relative_url }})
 
-Now, we can notice that 8% and 6% of Nov23 Cohort nodes (416) were active on May
+Now, we can notice that 8% and 6% of Nov23 Cohort nodes (416) were    active on May23 and Aug23 respectively. The way we have defined out    cohort, we know that none of them was active in October. Anyway,    these 8% and 6% are resurrected nodes.
+
 ## How many we loose each month
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -70,7 +71,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njg3OTQ5Niw2NDI2MTI2NzMsLTE1MT
+eyJoaXN0b3J5IjpbMTU1NzExNzYxMiw2NDI2MTI2NzMsLTE1MT
 UxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMTE5NTYwNzA1
 MiwzODQ3NDk3NzRdfQ==
 -->
