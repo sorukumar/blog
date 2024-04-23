@@ -24,7 +24,7 @@ We have LN graph output from an LND node since May-2023. We are analysing graph 
 Image
 
 
-definition of active nodes
+# of nod
 
 
 ## How many new Nodes each month
@@ -163,8 +163,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOT
-IxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1Mjks
-LTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5Nz
-gxNjM5XX0=
+eyJoaXN0b3J5IjpbLTE5NjYyNDA1MzcsLTk5NTQ4ODgyOSwtMz
+E1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2
+LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOT
+cyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
