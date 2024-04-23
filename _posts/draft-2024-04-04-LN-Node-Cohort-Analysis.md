@@ -27,6 +27,8 @@ Image
 #of Nodes is unique pub key in the from the graph output. But depending on who  we want to count as nodes, lets define active node as well.
 Active nodes: Nodes with at least one active public channel that has sent at least one update.
 
+Please n
+
 
 ## How many new Nodes each month
 
@@ -164,8 +166,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NTQyODM0LC05OTU0ODg4MjksLTMxNT
-c5NzAsLTMwMjkyMTI4NywxNTYxNDI2MTgxLDkyMDM2NTIyNiwx
-NzAxNDczNTI5LC0xMzMyNDkzNDYzLDk5MTcwMTc0MywtMTk3Mj
-M0MTY3NCwyOTc4MTYzOV19
+eyJoaXN0b3J5IjpbLTE0Mjk4NTkyMTgsMzM4NTQyODM0LC05OT
+U0ODg4MjksLTMxNTc5NzAsLTMwMjkyMTI4NywxNTYxNDI2MTgx
+LDkyMDM2NTIyNiwxNzAxNDczNTI5LC0xMzMyNDkzNDYzLDk5MT
+cwMTc0MywtMTk3MjM0MTY3NCwyOTc4MTYzOV19
 -->
