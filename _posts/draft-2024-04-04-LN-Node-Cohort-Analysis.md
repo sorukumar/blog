@@ -9,7 +9,7 @@ author:
 
  - How many new nodes sign up each month
  - How many we loose per month
- - How do nodes behave when they sign-up, How long they are alive before they are dead
+ - How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead? Do they resurrect?
 
 These questions come to mind when we start thinking about growth of Lightning network. 
 
@@ -159,7 +159,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzA5NTEyNSw5MjAzNjUyMjYsMTcwMT
-Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
-NzQsMjk3ODE2MzldfQ==
+eyJoaXN0b3J5IjpbLTEwNjcyODEwNzUsOTIwMzY1MjI2LDE3MD
+E0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQx
+Njc0LDI5NzgxNjM5XX0=
 -->
