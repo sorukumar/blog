@@ -30,9 +30,9 @@ Active nodes: Nodes with at least one active public channel that has sent at lea
 Please note that:
 
  - I dont have data for june, July and September. So, for our puspose, we'll analyze 9 months of data to to understand cohort behavior
- - 
+ - We'll focus our analysis on only active nodes.
 
-## How many new Nodes each month
+## Heat Map
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -168,7 +168,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDY4NjgwNywzMzg1NDI4MzQsLTk5NT
+eyJoaXN0b3J5IjpbMTc2NjkyMjcxOSwzMzg1NDI4MzQsLTk5NT
 Q4ODgyOSwtMzE1Nzk3MCwtMzAyOTIxMjg3LDE1NjE0MjYxODEs
 OTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0NjMsOTkxNz
 AxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
