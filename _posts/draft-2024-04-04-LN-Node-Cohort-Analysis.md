@@ -13,10 +13,9 @@ author:
 
 These questions come to mind when we start thinking about growth of Lightning network. 
 
-The goal of this post is to share raw data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic ana
+The goal of this post is to share raw data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic analysis.
 
 
-In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
 
 # The data & the methodology
@@ -42,9 +41,10 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
-## Export a file
+## Notes
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
+
 
 
 # Synchronization
@@ -161,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTcwMTA1Nyw5MjAzNjUyMjYsMTcwMT
+eyJoaXN0b3J5IjpbMTU2MTQyNjE4MSw5MjAzNjUyMjYsMTcwMT
 Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
 NzQsMjk3ODE2MzldfQ==
 -->
