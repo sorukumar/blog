@@ -56,7 +56,7 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 ## Nodes behavor based on when they have signed-up
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+
 
 ## Notes
 
@@ -66,10 +66,10 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTg2MDI5MSw3MDAxMDc3OTIsMTg1Nz
-k2NDEwNCwxMzk2NjIwMTU2LDEyMDE0ODU1MjgsMTc2NjkyMjcx
-OSwzMzg1NDI4MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOT
-IxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1Mjks
-LTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5Nz
-gxNjM5XX0=
+eyJoaXN0b3J5IjpbMTM5NjgwMzY3MCwtNjM1ODYwMjkxLDcwMD
+EwNzc5MiwxODU3OTY0MTA0LDEzOTY2MjAxNTYsMTIwMTQ4NTUy
+OCwxNzY2OTIyNzE5LDMzODU0MjgzNCwtOTk1NDg4ODI5LC0zMT
+U3OTcwLC0zMDI5MjEyODcsMTU2MTQyNjE4MSw5MjAzNjUyMjYs
+MTcwMTQ3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5Nz
+IzNDE2NzQsMjk3ODE2MzldfQ==
 -->
