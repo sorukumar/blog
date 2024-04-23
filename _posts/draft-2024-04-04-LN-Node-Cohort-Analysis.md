@@ -13,14 +13,12 @@ author:
 
 These questions come to mind when we start thinking about growth of Lightning network. 
 
-The goal of this post is to share raw data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic analysis and story.
+The goal of this post is to share data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic analysis and story.
 
 
+# The data 
 
-
-# The data & the methodology
-
-LN graph output from an LND node since May-2023. I have output pulled on ist week of the month for all the months.
+We have LN graph output from an LND node since May-2023. We have 
 
 definition of active nodes
 
@@ -161,7 +159,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjkyMTI4NywxNTYxNDI2MTgxLDkyMD
-M2NTIyNiwxNzAxNDczNTI5LC0xMzMyNDkzNDYzLDk5MTcwMTc0
-MywtMTk3MjM0MTY3NCwyOTc4MTYzOV19
+eyJoaXN0b3J5IjpbMTcxOTcxMDQ4MCwtMzAyOTIxMjg3LDE1Nj
+E0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1MjksLTEzMzI0OTM0
+NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5NzgxNjM5XX0=
 -->
