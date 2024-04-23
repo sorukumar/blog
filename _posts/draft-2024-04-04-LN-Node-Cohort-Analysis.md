@@ -13,6 +13,8 @@ author:
 
 These questions come to mind when we start thinking about growth of Lightning network. 
 
+The goal of this post is to share raw data, and provide some interpretation. In the next iteration of cohort analysis, I'll pass more holistic ana
+
 
 In general, LN is still an early technology, so a lot of nodes are just Ln enthusiast playing around, and a lot of big nodes are bitcoin business who are here to support the technology  and reap the benefit of being an early adopter. So, in short, dont read too much on data as the behavior will keep changing as the ride along the adoption curve.
 
@@ -159,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjcyODEwNzUsOTIwMzY1MjI2LDE3MD
-E0NzM1MjksLTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQx
-Njc0LDI5NzgxNjM5XX0=
+eyJoaXN0b3J5IjpbLTU5NTcwMTA1Nyw5MjAzNjUyMjYsMTcwMT
+Q3MzUyOSwtMTMzMjQ5MzQ2Myw5OTE3MDE3NDMsLTE5NzIzNDE2
+NzQsMjk3ODE2MzldfQ==
 -->
