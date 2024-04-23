@@ -67,9 +67,9 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 
-
+[Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNjEyNjczLC0xNTE1MTQyODgwLDc0Nz
-Y1NjIwMiwtODgzMTk1MzIsLTExOTU2MDcwNTIsMzg0NzQ5Nzc0
-XX0=
+eyJoaXN0b3J5IjpbOTA5MzEzNjU0LDY0MjYxMjY3MywtMTUxNT
+E0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMTk1NjA3MDUy
+LDM4NDc0OTc3NF19
 -->
