@@ -35,7 +35,7 @@ What you need to make a note, looking at the table above:
  - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
  -  We'll also monitor how many 'new and resurrected' node we see in a month, and we'll also follow their behavior in analysis window.
  - New and resurrected nodes for a month are nodes we are seeing for the first time in the observation window ( October-23  to April-24) . For December cohort,  the # of new and resurrected nodes are nodes that we saw first time in Decembe, that is we didnt see them in October or November.
- - We are calling these set of users 'new and resurrected', not just new because we have resurrected node as well. For example, a node that was active in August, but not active in October, november and again start showing up in December is getting counted in December Cohort. What % of these nodes are resurrected? Based on additional data I estimate that ~30% of those nodes could be resurrected. We'll do a thourogh analysis in the next iteration.
+ - We are calling these set of users 'new and resurrected', not just new because we have resurrected node in the cohort as well. For example, a node that was active in August, but not active in October, november and start showing up in December is getting counted in December Cohort. What % of these nodes are resurrected? Based on additional data I estimate that up to 40% of those nodes could be resurrected. 
 
 ## Heat Map
 
@@ -67,8 +67,8 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODQwMTMyMiwtMTQ1MDc5MTk3NSwxNz
-kzNzAzMzU4LC01OTcyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2
-NzMsLTE1MTUxNDI4ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMT
-E5NTYwNzA1MiwzODQ3NDk3NzRdfQ==
+eyJoaXN0b3J5IjpbMTAwODk1MDM3LC0xNDUwNzkxOTc1LDE3OT
+M3MDMzNTgsLTU5NzI5MjkyMCwtMzc4MzI0NjAxLDY0MjYxMjY3
+MywtMTUxNTE0Mjg4MCw3NDc2NTYyMDIsLTg4MzE5NTMyLC0xMT
+k1NjA3MDUyLDM4NDc0OTc3NF19
 -->
