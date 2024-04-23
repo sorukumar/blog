@@ -55,7 +55,7 @@ What to read from the heatmap above:
 ## The answers we were seeking
 
 Q: How many new nodes sign up each month? ~300 per month
-Q: How many we loose per month? 
+Q: How many we loose per month?  If loosing meaning, not a
    - How do nodes behave when they sign-up, How long they are alive before they are dead. Do they come alive from dead? Do they       resurrect?
 
 ## Notes and Next step
@@ -66,7 +66,7 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1T-eXOk72UZCCMpZzNko8LLx3o6zUt3KVKMtbQ2cBU6Q/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzQzMDU4NywxNzkzNzAzMzU4LC01OT
+eyJoaXN0b3J5IjpbMTM5MTg4MDI2MiwxNzkzNzAzMzU4LC01OT
 cyOTI5MjAsLTM3ODMyNDYwMSw2NDI2MTI2NzMsLTE1MTUxNDI4
 ODAsNzQ3NjU2MjAyLC04ODMxOTUzMiwtMTE5NTYwNzA1MiwzOD
 Q3NDk3NzRdfQ==
