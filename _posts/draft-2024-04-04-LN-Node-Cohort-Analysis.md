@@ -37,7 +37,7 @@ Please note that:
 	 - We'll look at all active nodes in a month, and continue monitoring how many of 	them are active in subsequent months
 	 - We'll also monitor how many 'new and resurrected' node we see in a month, and we'll also follow their behavior in analysis window.
 	 - New and resurrected nodes for a month are nodes we are seeing for the first time in observation window. For December cohort, this number is nodes that we didnt see in october and november, and we saw it first time in December. 
-	 - Why not just new, why 'new and resurrected'? A node seen first time in November, and not seen in October what we see in that row. That node may be joining LN for the first time, or may be after a couple of month of being deactive, it came back to life. We'll get into details of ratio of new and resurrected later on.
+	 - Why not just new, why 'new and resurrected'? They could be a resurrected node as well. For example, a node that was active in August, but not active in October, november That node may be joining LN for the first time, or may be after a couple of month of being deactive, it came back to life. We'll get into details of ratio of new and resurrected later on.
 
 ## Heat Map
 
@@ -66,10 +66,10 @@ In general, LN is still an early technology, so a lot of nodes are just Ln enthu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDgxMjM3NSw3MDAxMDc3OTIsMTg1Nz
-k2NDEwNCwxMzk2NjIwMTU2LDEyMDE0ODU1MjgsMTc2NjkyMjcx
-OSwzMzg1NDI4MzQsLTk5NTQ4ODgyOSwtMzE1Nzk3MCwtMzAyOT
-IxMjg3LDE1NjE0MjYxODEsOTIwMzY1MjI2LDE3MDE0NzM1Mjks
-LTEzMzI0OTM0NjMsOTkxNzAxNzQzLC0xOTcyMzQxNjc0LDI5Nz
-gxNjM5XX0=
+eyJoaXN0b3J5IjpbLTEzNjE2NDkzNjAsNzAwMTA3NzkyLDE4NT
+c5NjQxMDQsMTM5NjYyMDE1NiwxMjAxNDg1NTI4LDE3NjY5MjI3
+MTksMzM4NTQyODM0LC05OTU0ODg4MjksLTMxNTc5NzAsLTMwMj
+kyMTI4NywxNTYxNDI2MTgxLDkyMDM2NTIyNiwxNzAxNDczNTI5
+LC0xMzMyNDkzNDYzLDk5MTcwMTc0MywtMTk3MjM0MTY3NCwyOT
+c4MTYzOV19
 -->
