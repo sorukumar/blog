@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A framework (2 by 2) to understand Bitcoin & Lightning Companies"
-categories: misc
+categories: Bitcoin Business Model
 ---
 
 Here is 2 by 2 framework to look at a Bitcoin start-up that is useful and insightful.
@@ -43,6 +43,6 @@ For the remittance use case, it would be faster, cheaper, and easy to use.  The 
  3. Their is non-zero likelihood that the  use case for the sovereign money is enough, and with changing world order and dynamics, the use case is enough to propel it to mainstream adoption.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUxNDQxMjQsLTIwMDQyMzMzNzUsLT
-g0NzQ1NTIxOF19
+eyJoaXN0b3J5IjpbLTE0NTQ2NTk4MzcsLTE0MjUxNDQxMjQsLT
+IwMDQyMzMzNzUsLTg0NzQ1NTIxOF19
 -->
