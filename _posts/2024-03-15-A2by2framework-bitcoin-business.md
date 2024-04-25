@@ -32,7 +32,7 @@ As the tech wisdom goes, to beat an incumbent you need to come up with 10x bette
 
 But, for the sake of this dimension, merely using a new technology is not a novelty. The tech has to manifest into a more usable & valuable product. 
 
-For the remittance use case, it would be faster, cheaper, and easy to use.  The sovereign money feature would be considered a 10x addition, only for products and the user base who value it. For a product  category (e.g. online learning marketplaces like Udemy) where censorship-resistant and decentralization are not core needs of users (top 10 needs), launching a product and adding an LN payment layer is not a novelty. However, in some cases, it is still okay, when the company is targeting hard-core bitcoin native users. With every cycle, the base is growing, so there is opportunity for some 
+For the remittance use case, it would be faster, cheaper, and easy to use.  The sovereign money feature would be considered a 10x addition, only for products and the user base who value it. For a product  category (e.g. online learning marketplaces like Udemy) where censorship-resistant and decentralization are not core needs of users (top 10 needs), launching a product and adding an LN payment layer is not a novelty. However, in some cases, it is still okay, when the company is targeting hard-core bitcoin native users. With every cycle, the base is growing, so there is opportunity for companies to grow, if not exponentially.
 
 
 
@@ -40,8 +40,9 @@ For the remittance use case, it would be faster, cheaper, and easy to use.  The 
 ## Note:
  In future posts, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
 
-2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on this scale when evaluating a business.
+2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on value add dimension evaluating a business.
+3rd, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE3NDg1OTAsLTIwMDQyMzMzNzUsLT
-g0NzQ1NTIxOF19
+eyJoaXN0b3J5IjpbNDI2NTQ0NTkyLC0yMDA0MjMzMzc1LC04ND
+c0NTUyMThdfQ==
 -->
