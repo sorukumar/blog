@@ -38,9 +38,10 @@ For the remittance use case, it would be faster, cheaper, and easy to use.  The 
 
 
 ## Note:
-Now, in the next post, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
+ In future posts, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
 
 2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on this scale when evaluating a business.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQyMzMzNzUsLTg0NzQ1NTIxOF19
+eyJoaXN0b3J5IjpbMjY2OTYyNjI5LC0yMDA0MjMzMzc1LC04ND
+c0NTUyMThdfQ==
 -->
