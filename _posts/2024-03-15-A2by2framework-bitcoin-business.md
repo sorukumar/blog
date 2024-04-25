@@ -38,11 +38,20 @@ For the remittance use case, it would be faster, cheaper, and easy to use.  The 
 
 
 ## Note:
- In future posts, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
+ 
 
-2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on value add dimension evaluating a business.
-3rd, 
+ 1. In future posts, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market
+   Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing)
+    by River 
+    
+    2nd, Bitcoin is an emerging technology, and perhaps we are still in
+    the process of constructing a robust infrastructure. So, we don't
+    need to be overly critical on value add dimension evaluating a
+    business. 3rd, may be the use the for sovereign money is big, and
+    with changing world order and dynamics, the use case is enough to
+    propel it to mainstream adoption.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NTQ0NTkyLC0yMDA0MjMzMzc1LC04ND
+eyJoaXN0b3J5IjpbNzgyMzc0NjQ4LC0yMDA0MjMzMzc1LC04ND
 c0NTUyMThdfQ==
 -->
