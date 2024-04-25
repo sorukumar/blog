@@ -14,7 +14,7 @@ First, I'll lay out the framework, and then we'll go deeper into why it is usefu
 
 ## X-Axis: Bitcoiner and No Coiners. Who the business is Targeting? 
 
-It is an important dimension because there is no other segmentation of the user base for a Bitcoin business that tells us more about its users, and their needs and behavior. A Bitcoiner is a different species from no coiners, and they are similar in thousands of ways. 
+It is an important dimension because there is no other lens to look at a  Bitcoin business that tells us more about its users, and their needs and behavior. A Bitcoiner is a different species from no coiners, and they are similar in thousands of ways. 
 
 Why does segmenting based on who they are targeting make sense? 
 
@@ -42,5 +42,5 @@ Now, in the next post, I'll look to apply the framework to a couple of companies
 
 2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, we don't need to be overly critical on this scale when evaluating a business.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzQ1NTIxOF19
+eyJoaXN0b3J5IjpbLTIwMDQyMzMzNzUsLTg0NzQ1NTIxOF19
 -->
