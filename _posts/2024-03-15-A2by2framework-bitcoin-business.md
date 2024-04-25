@@ -36,17 +36,13 @@ For the remittance use case, it would be faster, cheaper, and easy to use.  The 
 
 
 
-
 ## Note:
  
-
  1. In future posts, I'll look to apply the framework to a couple of companies from ['The Lightning Network Industry Market Map'](https://drive.google.com/file/d/1OxPwq7D_95h_sWSlr6B6IYjpHD-GuYcL/view?usp=sharing) by River 
  2. 2nd, Bitcoin is an emerging technology, and perhaps we are still in the process of constructing a robust infrastructure. So, its not smart to be overly critical on value add dimension.
- 3. Their is no use the for sovereign money is big, and
-    with changing world order and dynamics, the use case is enough to
-    propel it to mainstream adoption.
+ 3. Their is non-zero likelihood that the  use case for the sovereign money is enough, and with changing world order and dynamics, the use case is enough to propel it to mainstream adoption.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTY0MjQ5OSwtMjAwNDIzMzM3NSwtOD
-Q3NDU1MjE4XX0=
+eyJoaXN0b3J5IjpbLTE0MjUxNDQxMjQsLTIwMDQyMzMzNzUsLT
+g0NzQ1NTIxOF19
 -->
