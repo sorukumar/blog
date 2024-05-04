@@ -16,7 +16,7 @@ Books or Collection of Essays:
  - 'The Inner game of Tennis' by 
 
 Recent writing/essays that I loved:
- The Movement of Big-3
+ The Movement of Big-3: [Part 1](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-i), [Part 2](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-ii), Part 3
 
 Cricket:
 
@@ -24,7 +24,7 @@ Cricket:
  - The Art of Captaincy by Mike Brearly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTYwMjU1OCwtMTI3ODQzOTg4MSwtMT
+eyJoaXN0b3J5IjpbMTcxMDI4NzAyMCwtMTI3ODQzOTg4MSwtMT
 gyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgx
 MTZdfQ==
 -->
