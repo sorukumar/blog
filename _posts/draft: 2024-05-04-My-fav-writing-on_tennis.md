@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "A collection of my favorite writing on Tennis/Cricket"
+title: "A collection of my favorite writings on Tennis & Cricket"
 categories: Sports
 author:
 - sorukumar
@@ -30,7 +30,8 @@ I am not able to follow cricket regularly anymore, but I used to enjoy all the w
  - Ed Smith
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODE4MzY5OCwyMDY3ODc3ODUsMTgwNj
-QxMTY3OSwtMTI3ODQzOTg4MSwtMTgyNDUxMTUsLTk4NzQ1MDkx
-MiwtMTQzNTQzMzA4MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTkyNjU2MTIsMTc5ODE4MzY5OCwyMD
+Y3ODc3ODUsMTgwNjQxMTY3OSwtMTI3ODQzOTg4MSwtMTgyNDUx
+MTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgxMTZdfQ
+==
 -->
