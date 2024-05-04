@@ -15,8 +15,8 @@ Books or Collection of Essays:
  - 'Levels of the Game' by John McPhee 
  - 'The Inner game of Tennis' by 
 
-Recent writing/essays:
-
+Recent writing/essays that I loved:
+ The Movement of Big-3
 
 Cricket:
 
@@ -24,7 +24,7 @@ Cricket:
  - The Art of Captaincy by Mike Brearly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzUzNDY1OSwtMTI3ODQzOTg4MSwtMT
+eyJoaXN0b3J5IjpbLTM3MTYwMjU1OCwtMTI3ODQzOTg4MSwtMT
 gyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgx
 MTZdfQ==
 -->
