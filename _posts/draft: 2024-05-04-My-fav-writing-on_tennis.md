@@ -7,7 +7,7 @@ author:
 - sorukumar
 ---
 
-##Tennis:
+## Tennis:
 
 Books or Collection of Essays:
 
@@ -18,13 +18,13 @@ Books or Collection of Essays:
 Recent writing/essays that I loved:
  The Movement of Big-3: [Part 1](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-i), [Part 2](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-ii), [Part 3](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-iii)
 
-##Cricket:
+## Cricket:
 
  - Beyond a Boundry by CLR James
  - The Art of Captaincy by Mike Brearly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjQ4MjgwOSwtMTI3ODQzOTg4MSwtMT
+eyJoaXN0b3J5IjpbMTgwNjQxMTY3OSwtMTI3ODQzOTg4MSwtMT
 gyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgx
 MTZdfQ==
 -->
