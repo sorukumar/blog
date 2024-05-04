@@ -7,16 +7,12 @@ author:
 - sorukumar
 ---
 
-String theory - David Foster Wallace. A collection of essays
-two essays - tennis a religious experience
+Books or Collection of Essays
 String Theory: David Foster Wallace on Tennis
-
-
 Levels of the Game" by John McPhee
-
 The Inner game of Tennis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ1MTE1LC05ODc0NTA5MTIsLTE0Mz
+U0MzMwODEsNzMwOTk4MTE2XX0=
 -->
