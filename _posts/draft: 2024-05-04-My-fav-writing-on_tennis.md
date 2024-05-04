@@ -18,9 +18,13 @@ Books or Collection of Essays:
 Recent writing/essays:
 
 
-Cricket
+Cricket:
+
+ - Beyond a Boundry by CLR James
+ - The Art of Captaincy by Mike Brearly
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQ5Nzk3LC0xMjc4NDM5ODgxLC0xOD
-I0NTExNSwtOTg3NDUwOTEyLC0xNDM1NDMzMDgxLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTk1NzUzNDY1OSwtMTI3ODQzOTg4MSwtMT
+gyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgx
+MTZdfQ==
 -->
