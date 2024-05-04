@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "A collection of my favorite writings on Tennis & Cricket"
@@ -30,5 +29,5 @@ I am not able to follow cricket regularly anymore, but I used to enjoy all the w
  - Ed Smith
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTcxNDYzN119
+eyJoaXN0b3J5IjpbLTIxMzU4NzgwOSwxMjA1NzE0NjM3XX0=
 -->
