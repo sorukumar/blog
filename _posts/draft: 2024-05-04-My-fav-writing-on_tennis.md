@@ -9,11 +9,11 @@ author:
 
 Books or Collection of Essays
 
- - String Theory by David Foster Wallace 
- - Tennis Levels of the Game" by John McPhee 
- - The Inner game of Tennis by 
+ - 'String Theory' by David Foster Wallace 
+ - 'Levels of the Game' by John McPhee 
+ - 'The Inner game of Tennis' by 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk3MDE0ODMsLTE4MjQ1MTE1LC05OD
-c0NTA5MTIsLTE0MzU0MzMwODEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg0ODg5MzA1MiwtMTgyNDUxMTUsLTk4Nz
+Q1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgxMTZdfQ==
 -->
