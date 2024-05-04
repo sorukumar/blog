@@ -9,9 +9,9 @@ author:
 
 Books or Collection of Essays:
 
- - 'String Theory' by David Foster Wallace 
- - 'Levels of the Game' by John McPhee 
- - 'The Inner game of Tennis' by Timothy Gallwey
+ - "String Theory" by David Foster Wallace 
+ - "Levels of the Game" by John McPhee 
+ - "The Inner game of Tennis" by Timothy Gallwey
 
 Recent writings/essays that I loved:
  The Movement of Big-3: [Part 1](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-i), [Part 2](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-ii), [Part 3](https://hughclarke.substack.com/p/the-movement-of-the-big-3-part-iii)
@@ -19,8 +19,8 @@ Recent writings/essays that I loved:
 ## Cricket:
 
 
- - 'Beyond a Boundry' by CLR James
- - 'The Art of Captaincy' by Mike Brearly
+ - "Beyond a Boundry" by CLR James
+ - "The Art of Captaincy" by Mike Brearly
 
 I am not able to follow cricket regularly anymore, but I used to enjoy all the writings of
 
@@ -28,5 +28,6 @@ I am not able to follow cricket regularly anymore, but I used to enjoy all the w
  - Ed Smith
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzU5OTA5MSwxMjA1NzE0NjM3XX0=
+eyJoaXN0b3J5IjpbNTk0NDYyMzk5LC00Mjc1OTkwOTEsMTIwNT
+cxNDYzN119
 -->
