@@ -20,11 +20,12 @@ Recent writing/essays that I loved:
 
 ## Cricket:
 
+I am not able to follow cricket regularly anymore, so here are a couple of books
  - Beyond a Boundry by CLR James
  - The Art of Captaincy by Mike Brearly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjQxMTY3OSwtMTI3ODQzOTg4MSwtMT
-gyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQzMzA4MSw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTYxMjk0NTQyMiwxODA2NDExNjc5LC0xMj
+c4NDM5ODgxLC0xODI0NTExNSwtOTg3NDUwOTEyLC0xNDM1NDMz
+MDgxLDczMDk5ODExNl19
 -->
