@@ -24,13 +24,13 @@ Recent writing/essays that I loved:
  - Beyond a Boundry by CLR James
  - The Art of Captaincy by Mike Brearly
 
-I am not able to follow cricket regularly anymore, but I used to enjoy all the writing of
+I am not able to follow cricket regularly anymore, but I used to enjoy all the writings of
 
  - Rajan Bala
- - 
+ - Ed Smith
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU3NjQ5OTQsMTgwNjQxMTY3OSwtMT
-I3ODQzOTg4MSwtMTgyNDUxMTUsLTk4NzQ1MDkxMiwtMTQzNTQz
-MzA4MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA2Nzg3Nzg1LDE4MDY0MTE2NzksLTEyNz
+g0Mzk4ODEsLTE4MjQ1MTE1LC05ODc0NTA5MTIsLTE0MzU0MzMw
+ODEsNzMwOTk4MTE2XX0=
 -->
