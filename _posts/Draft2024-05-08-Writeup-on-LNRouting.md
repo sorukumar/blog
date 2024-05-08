@@ -16,6 +16,8 @@ author:
 
 **Videos:**
 
+ - [Pathfinding in the LN](https://www.youtube.com/watch?v=NT_dMqB1xuA)
+
 **Code:**
 
  - [LND code](https://github.com/lightningnetwork/lnd/blob/758ae6fbecfca6809bf6d51427717245c3c777db/routing/pathfind.go#L1047-L1079)
@@ -23,5 +25,5 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk1NjcyNDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjA4NDExMzkwLDczMDk5ODExNl19
 -->
