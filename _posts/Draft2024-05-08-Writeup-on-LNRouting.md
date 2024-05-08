@@ -19,8 +19,9 @@ author:
 **Code:**
 
  - [LND code](https://github.com/lightningnetwork/lnd/blob/758ae6fbecfca6809bf6d51427717245c3c777db/routing/pathfind.go#L1047-L1079)
- - Core Lig
+ - LDK
+ - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjc5ODEwNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzk1NjcyNDAsNzMwOTk4MTE2XX0=
 -->
