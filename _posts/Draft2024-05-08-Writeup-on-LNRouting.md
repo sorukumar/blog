@@ -9,13 +9,18 @@ author:
 
 **Write-up:**
 
- - https://lightning.engineering/posts/2024-04-11-pathfinding-1/
+ -  [Clearing the Paths: A Deep Dive into LND's Pathfinding Mechanism](https://lightning.engineering/posts/2024-04-11-pathfinding-1/) 
+ - 
 
 **Paper:**
 
 **Videos:**
 
 **Code:**
+
+ - [LND code](https://github.com/lightningnetwork/lnd/blob/758ae6fbecfca6809bf6d51427717245c3c777db/routing/pathfind.go#L1047-L1079)
+ - Core Lig
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzOTczNTc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTgyMjc5ODEwNiw3MzA5OTgxMTZdfQ==
 -->
