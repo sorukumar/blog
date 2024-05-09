@@ -30,10 +30,11 @@ author:
 **Code:**
 
  - [LND code](https://github.com/lightningnetwork/lnd/blob/758ae6fbecfca6809bf6d51427717245c3c777db/routing/pathfind.go#L1047-L1079)
- - LDK
+ - [LDK](https://github.com/lightningdevkit/rust-lightning/blob/7b4fb9da886a58b32ad6a286eb7a5cd9c1ed01cf/lightning/src/routing/scoring.rs)
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyNDc3NjUsLTY3NzE0OTc3OSwxOT
-IzNDAwMTA5LDYwODQxMTM5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDgzNTIwMjkxLC0xODk3MjQ3NzY1LC02Nz
+cxNDk3NzksMTkyMzQwMDEwOSw2MDg0MTEzOTAsNzMwOTk4MTE2
+XX0=
 -->
