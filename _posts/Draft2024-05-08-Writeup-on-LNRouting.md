@@ -11,6 +11,9 @@ author:
 
  -  [Clearing the Paths: A Deep Dive into LND's Pathfinding Mechanism](https://lightning.engineering/posts/2024-04-11-pathfinding-1/) 
  -  [Evaluating Path finding Strategies on the Lightning Network](https://medium.com/@renepickhardt/evaluating-path-finding-strategies-on-the-lightning-network-238fe2fdf3d6) 
+ - [LightPIR. Privacy-Preserving Route Discovery for Lightning](https://s-tikhomirov.github.io/lightpir/)
+
+
 **Paper:**
 
 **Videos:**
@@ -24,6 +27,6 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzQwMDEwOSw2MDg0MTEzOTAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY3NzE0OTc3OSwxOTIzNDAwMTA5LDYwOD
+QxMTM5MCw3MzA5OTgxMTZdfQ==
 -->
