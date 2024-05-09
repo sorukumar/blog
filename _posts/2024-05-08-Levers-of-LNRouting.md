@@ -7,7 +7,7 @@ author:
 - sorukumar
 ---
 
-Two decades back, when I got exposed to credit risk modeling for a bank, I just loved the simplicity of below equation. 
+Decades ago while doing and learning credit risk modelling for a bank,  I stumbled into an equation I fell in love with
 
 $$
 \text{Expected Loss(\$)  } = \text{PD (probablity of default)} \times \text{LGD (Loss given default)} \times \text{EAD (exposure at default)}
@@ -17,6 +17,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDY0OTA4MSwtOTMyNzE3MTQ5LC0xNT
-EwOTcwMTI5LC0yMDY3MTQyMjI4LC0xMTk5MDIxODEzXX0=
+eyJoaXN0b3J5IjpbLTIzNTY3NzU0OCwxODY0NjQ5MDgxLC05Mz
+I3MTcxNDksLTE1MTA5NzAxMjksLTIwNjcxNDIyMjgsLTExOTkw
+MjE4MTNdfQ==
 -->
