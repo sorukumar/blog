@@ -7,7 +7,7 @@ author:
 - sorukumar
 ---
 
-Fifteen years back, when I got exposed to credit risk modeling for a bank, I just loved the simplicity of below equation. 
+Two decades back, when I got exposed to credit risk modeling for a bank, I just loved the simplicity of below equation. 
 
 $$
 \text{Loss}(\$) = \text{Probability}(\text{Loss}) \times \text{Loss Given Default}(\$)
@@ -24,6 +24,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODg5MjY4NywtMTUxMDk3MDEyOSwtMj
+eyJoaXN0b3J5IjpbLTkzMjcxNzE0OSwtMTUxMDk3MDEyOSwtMj
 A2NzE0MjIyOCwtMTE5OTAyMTgxM119
 -->
