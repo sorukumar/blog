@@ -14,10 +14,16 @@ $$
 $$
 
 $$
-\text{Loss}(\$) = \text{Probability}(\text{Loss}) \times \text{Loss Given Default}(\$)
+\text{Expected Loss} = \text{PD} \times \text{LGD} \times \text{EAD}
 $$
+
+$$
+\text{Loss}(\$) = \text{PD} \times \text{LGD} \times \text{EAD}
+$$
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDg4MTg1NCwtMTUxMDk3MDEyOSwtMj
+eyJoaXN0b3J5IjpbMTYzODg5MjY4NywtMTUxMDk3MDEyOSwtMj
 A2NzE0MjIyOCwtMTE5OTAyMTgxM119
 -->
