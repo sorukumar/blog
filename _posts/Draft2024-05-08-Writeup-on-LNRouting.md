@@ -17,7 +17,9 @@ author:
 **Paper:**
 
  - [Comparing Lightning Routing Protocols to Routing Protocols with Splitting](https://repository.tudelft.nl/islandora/object/uuid:0bf2a223-d3b4-401c-967c-c11c300df5df/datastream/)
- - 
+ - [Ant routing algorithm for the Lightning Network](https://arxiv.org/pdf/1807.00151)
+
+
 
 **Videos:**
 
@@ -30,6 +32,6 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk4MTU1NTIsLTY3NzE0OTc3OSwxOT
+eyJoaXN0b3J5IjpbLTIwMDM5NTkyMzksLTY3NzE0OTc3OSwxOT
 IzNDAwMTA5LDYwODQxMTM5MCw3MzA5OTgxMTZdfQ==
 -->
