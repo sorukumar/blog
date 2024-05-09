@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Lightning Network & Current Financial System"
@@ -20,5 +19,5 @@ Lightning network is a protocol that leverages bitcoin blockchain, and can make 
 
 Lightning network is a payment rails built on top of bitcoin for bitcoin to flows. Som if you have to look for an analogy is current banking infrastructure, you will compare it with visa, mastercard, amex and even swift.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NDg5NjhdfQ==
+eyJoaXN0b3J5IjpbLTExMDA2MTczNTRdfQ==
 -->
