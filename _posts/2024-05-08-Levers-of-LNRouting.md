@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Resource List on Pathfinding and Routing"
+title: "Levers to optimize Routing/Pathfinding"
 categories: Bitcoin Business Model
 author:
 - sorukumar
@@ -10,5 +10,5 @@ author:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjU5NDgxOF19
+eyJoaXN0b3J5IjpbLTEwNDEwNjg1MjBdfQ==
 -->
