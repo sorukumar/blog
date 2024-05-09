@@ -13,11 +13,12 @@ $$
 \text{Expected Loss(\$)  } = \text{PD (probablity of default)} \times \text{LGD (Loss given default)} \times \text{EAD (exposure at default)}
 $$
 
+This eqution is remarkable and seductive because it breaks down a complex problem into a bunch of smaller problems that are more solvable. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTY3NzU0OCwxODY0NjQ5MDgxLC05Mz
-I3MTcxNDksLTE1MTA5NzAxMjksLTIwNjcxNDIyMjgsLTExOTkw
-MjE4MTNdfQ==
+eyJoaXN0b3J5IjpbOTExMTE0NjQ3LDE4NjQ2NDkwODEsLTkzMj
+cxNzE0OSwtMTUxMDk3MDEyOSwtMjA2NzE0MjIyOCwtMTE5OTAy
+MTgxM119
 -->
