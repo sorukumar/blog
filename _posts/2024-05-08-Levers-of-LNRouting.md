@@ -14,16 +14,13 @@ $$
 $$
 
 $$
-\text{Expected Loss} = \text{PD} \times \text{LGD} \times \text{EAD}
+\text{Expected Loss ($)} = \text{PD (probablity of default)} \times \text{LGD (Loss given default)} \times \text{EAD (exposure at default)}
 $$
 
-$$
-\text{Loss}(\$) = \text{PD} \times \text{LGD} \times \text{EAD}
-$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjcxNzE0OSwtMTUxMDk3MDEyOSwtMj
-A2NzE0MjIyOCwtMTE5OTAyMTgxM119
+eyJoaXN0b3J5IjpbMTExNDE4NjEyMSwtOTMyNzE3MTQ5LC0xNT
+EwOTcwMTI5LC0yMDY3MTQyMjI4LC0xMTk5MDIxODEzXX0=
 -->
