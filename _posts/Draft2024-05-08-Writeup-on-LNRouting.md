@@ -16,6 +16,9 @@ author:
 
 **Paper:**
 
+ - [Comparing Lightning Routing Protocols to Routing Protocols with Splitting](https://repository.tudelft.nl/islandora/object/uuid:0bf2a223-d3b4-401c-967c-c11c300df5df/datastream/)
+ - 
+
 **Videos:**
 
  - [Pathfinding in the LN](https://www.youtube.com/watch?v=NT_dMqB1xuA)
@@ -27,6 +30,6 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzE0OTc3OSwxOTIzNDAwMTA5LDYwOD
-QxMTM5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExODk4MTU1NTIsLTY3NzE0OTc3OSwxOT
+IzNDAwMTA5LDYwODQxMTM5MCw3MzA5OTgxMTZdfQ==
 -->
