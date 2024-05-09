@@ -10,8 +10,7 @@ author:
 **Write-up:**
 
  -  [Clearing the Paths: A Deep Dive into LND's Pathfinding Mechanism](https://lightning.engineering/posts/2024-04-11-pathfinding-1/) 
- - 
-
+ -  [Evaluating Path finding Strategies on the Lightning Network](https://medium.com/@renepickhardt/evaluating-path-finding-strategies-on-the-lightning-network-238fe2fdf3d6) 
 **Paper:**
 
 **Videos:**
@@ -25,5 +24,6 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NDExMzkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkyMzQwMDEwOSw2MDg0MTEzOTAsNzMwOT
+k4MTE2XX0=
 -->
