@@ -19,6 +19,7 @@ author:
  - [Comparing Lightning Routing Protocols to Routing Protocols with Splitting](https://repository.tudelft.nl/islandora/object/uuid:0bf2a223-d3b4-401c-967c-c11c300df5df/datastream/)
  - [Ant routing algorithm for the Lightning Network](https://arxiv.org/pdf/1807.00151)
  - [Flare: An Approach to Routing in Lightning Network](https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf)
+ - [LightPIR: Privacy-Preserving Route Discovery for Payment Channel Networks](https://arxiv.org/pdf/2104.04293)
 
 
 
@@ -33,6 +34,6 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMzg1MzYyLC02NzcxNDk3NzksMTkyMz
-QwMDEwOSw2MDg0MTEzOTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4OTcyNDc3NjUsLTY3NzE0OTc3OSwxOT
+IzNDAwMTA5LDYwODQxMTM5MCw3MzA5OTgxMTZdfQ==
 -->
