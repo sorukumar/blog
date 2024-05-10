@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Levers to optimize Routing/Pathfinding for Lightning"
@@ -18,5 +17,5 @@ This equation is remarkable and seductive because it breaks down a complex probl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDc5NjE5MF19
+eyJoaXN0b3J5IjpbLTE3MzI4MTY1MDAsMTA5NDc5NjE5MF19
 -->
