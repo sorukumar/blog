@@ -10,6 +10,8 @@ https://www.statsref.com/about.html
 https://significancemagazine.com/the-timeline-of-statistics-2/
 https://time.graphics/line/459681
 https://www.ssca.org.in/media/History_of_Statistics_on_Timeline.pdf
+
+https://statmodeling.stat.columbia.edu/2022/06/16/from-anna-menacher-a-timeline-of-the-most-important-statistical-ideas-of-the-past-50-years/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTk3ODg3XX0=
+eyJoaXN0b3J5IjpbLTE1OTgzNTMwNzZdfQ==
 -->
