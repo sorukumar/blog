@@ -6,7 +6,6 @@ author:
 - sorukumar
 ---
 
-
 **Write-up:**
 
  -  [Clearing the Paths: A Deep Dive into LND's Pathfinding Mechanism](https://lightning.engineering/posts/2024-04-11-pathfinding-1/) 
@@ -34,7 +33,7 @@ author:
  - Core Lightning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNTIwMjkxLC0xODk3MjQ3NzY1LC02Nz
-cxNDk3NzksMTkyMzQwMDEwOSw2MDg0MTEzOTAsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTYwNjE5MTI0Myw0ODM1MjAyOTEsLTE4OT
+cyNDc3NjUsLTY3NzE0OTc3OSwxOTIzNDAwMTA5LDYwODQxMTM5
+MCw3MzA5OTgxMTZdfQ==
 -->
