@@ -11,8 +11,8 @@
 
 ## Product and Growth
 
--[What Success looks like for Growth operation](https://sorukumar.medium.com/success-metrics-for-an-experimentation-program-b2ed75ee4b13)
 - [Product Best Practices for Dashboards or Internal Data Products](https://medium.com/mytake/product-best-practices-for-dashboards-or-internal-data-products-fcb02779d475)
+- [What Success looks like for Growth operation](https://sorukumar.medium.com/success-metrics-for-an-experimentation-program-b2ed75ee4b13)
 - [What Is Product Sense?](https://sorukumar.medium.com/what-is-product-sense-30a7f04668c7)
 - [An Ode to Growth Operation](https://sorukumar.medium.com/an-ode-to-growth-operation-97ed9869d855)
 - [Personalization Tech Stack](https://sorukumar.medium.com/personalization-tech-stack-18f72b057c62)
