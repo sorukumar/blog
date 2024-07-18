@@ -23,7 +23,7 @@ Hashxp talks about zombie nodes. What exactly is it? Are we okay with the defini
 
 ## Analyzing LND output (describegraph)
 
-The output json file from describegraph has two data groups. One is for nodes and one is for channels. A basic data pull shows:
+The output json file has two data groups. One is for nodes and one is for channels. A basic data pull shows:
 
 | Description    | Count  |
 |--|--|
@@ -195,5 +195,5 @@ Based on our work, we can say 7.8K nodes are active. One of the explorer hashXP 
  - No one sees private channels/nodes, except private channels that are connected to them. So, it is not getting counted anywhere.
  - We can call inactive nodes zombie nodes, but quite likely some of them rise from the dead and send a transaction or two, and then go to sleep again. There may be reactivation of nodes. I'll talk about it later.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDY2MDU0Nl19
+eyJoaXN0b3J5IjpbNTU3MTQ1NzU5LC04NzA2NjA1NDZdfQ==
 -->
