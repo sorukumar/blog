@@ -21,9 +21,8 @@ We'll look at Amboss, 1ml, Mempool, hashXP data, and then at the graph output fr
 
 Hashxp talks about zombie nodes. What exactly is it? Are we okay with the definition of zombie nodes? Or the better approach would be to understand the approach and use and talk about a number based on context.
 
-## Analyzing LND output (describegraph)
-
-The output json file has two data groups. One is for nodes and one is for channels. A basic data pull shows:
+## Analyzing LND output 
+The output json file has two data components. One is for nodes and another one is for channels. A basic data pull shows:
 
 | Description    | Count  |
 |--|--|
@@ -31,7 +30,7 @@ The output json file has two data groups. One is for nodes and one is for channe
 | # of Channels  | 51861  |
 
 
-The output from my nodes is closest to 1ml and Mempool. We'll continue slicing and dicing our data to understand it more, and hopefully, it will give us some understanding to make sense of data in other explorers.
+The output from my nodes is closest to 1ml and Mempool. We'll continue slicing and dicing our data to understand it more, and hopefully, it will give us some understanding to make sense of data in other explorers. 
 
 ## Slicing the nodes' data
 
@@ -195,5 +194,6 @@ Based on our work, we can say 7.8K nodes are active. One of the explorer hashXP 
  - No one sees private channels/nodes, except private channels that are connected to them. So, it is not getting counted anywhere.
  - We can call inactive nodes zombie nodes, but quite likely some of them rise from the dead and send a transaction or two, and then go to sleep again. There may be reactivation of nodes. I'll talk about it later.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MTQ1NzU5LC04NzA2NjA1NDZdfQ==
+eyJoaXN0b3J5IjpbMTMyMzE5MTcwOCw1NTcxNDU3NTksLTg3MD
+Y2MDU0Nl19
 -->
