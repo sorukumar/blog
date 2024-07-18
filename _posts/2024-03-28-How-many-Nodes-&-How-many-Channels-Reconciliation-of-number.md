@@ -8,7 +8,7 @@ author:
 
 This is a post to help develop an informed opinion on how many nodes and channels we have in the Lightning network.
 
-We'll look at Amboss, 1ml, Mempool, hashXP data, and then at the graph output from an LND node. The graph output has info on nodes and channels and  to develop and form an opinion on the # of nodes and # channels.
+We'll look at Amboss, 1ml, Mempool, hashXP data, and then at the graph output from an LND node. The graph output has info on nodes and channels.
 
 
 ## 6-15K nodes and 50-60K channels
@@ -195,5 +195,5 @@ Based on our work, we can say 7.8K nodes are active. One of the explorer hashXP 
  - No one sees private channels/nodes, except private channels that are connected to them. So, it is not getting counted anywhere.
  - We can call inactive nodes zombie nodes, but quite likely some of them rise from the dead and send a transaction or two, and then go to sleep again. There may be reactivation of nodes. I'll talk about it later.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2NDE5MThdfQ==
+eyJoaXN0b3J5IjpbLTcyMDcxMTQzMF19
 -->
