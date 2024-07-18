@@ -32,7 +32,7 @@ The output json file has two data components. One is for nodes and another one i
 
 The output from my nodes is closest to 1ml and Mempool. We'll continue slicing and dicing our data to understand it more, and hopefully, it will give us some understanding to make sense of data in other explorers. Before we do that a couple of info to keep in the mind:
 
- - LN graph that we pull from and we can not be sure that it is a complete view of the network. Our node creates a view of the LN graph based on data it receives from our peers.
+ - LN graph that we pull from our node represents the that graph our nodes sees, and it is by no way a complete view of the network. Our node creates a view of the LN graph based on data it receives from our peers.
  - If we are connected to well connected peers that are spread out in terms of graph topology, we may assume that we have reasonably good view of the network.
 
 ## Slicing the nodes' data
@@ -197,6 +197,6 @@ Based on our work, we can say 7.8K nodes are active. One of the explorer hashXP 
  - No one sees private channels/nodes, except private channels that are connected to them. So, it is not getting counted anywhere.
  - We can call inactive nodes zombie nodes, but quite likely some of them rise from the dead and send a transaction or two, and then go to sleep again. There may be reactivation of nodes. I'll talk about it later.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE3MTIzNjYsNTU3MTQ1NzU5LC04Nz
-A2NjA1NDZdfQ==
+eyJoaXN0b3J5IjpbLTg2MjE0MDYyNSw1NTcxNDU3NTksLTg3MD
+Y2MDU0Nl19
 -->
