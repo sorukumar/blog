@@ -67,6 +67,29 @@ The cycle structure of a graph can impact its quality in several ways:
 
 A traingle is formed when 3 nodes open channels to each other, and pentagon is formed when 5 nodes come together to open a channel. here is an example. 
 
+
+
+### Global Clustering Coefficient (Transitivity)
+
+The Global Clustering Coefficient, also known as Transitivity, measures the overall level of clustering in the network. It provides a macroscopic view of connectivity, indicating how nodes tend to create tightly knit groups characterized by a higher number of triangles.
+
+-   **Triangles**: A triangle in a network is a set of three nodes where each node is connected to every other node in the set.
+-   **Connected Triplets**: A triplet consists of three nodes where at least two are connected by edges. A connected triplet forms a 'V' shape, and if the third edge is added, it becomes a triangle.
+
+The formula for the Global Clustering Coefficient is: C=3×number of trianglesnumber of connected tripletsC = \frac{3 \times \text{number of triangles}}{\text{number of connected triplets}}C=number of connected triplets3×number of triangles​
+
+Here, the factor of three accounts for each triangle being counted for each of its three vertices.
+
+This coefficient ranges from 0 to 1, where:
+
+-   **0** indicates no clustering, with no closed triplets (no triangles).
+-   **1** indicates perfect clustering, where every possible triplet forms a triangle.
+
+### Local Clustering Coefficient
+
+While the global coefficient provides a broad measure, the Local Clustering Coefficient offers a more nuanced view by measuring the likelihood that the neighbors of a specific node are also connected. This metric is key in analyzing how clique-like and cohesive small groups of nodes are around a particular node.
+
+The Local Clustering Coefficient for a node iii is calculated as: Ci=number of triangles connected to node inumber of triplets centered on node iC_i = \frac{\text{number of triangles connected to node } i}{\text{number of triplets centered on node } i}Ci​=number of triplets centered on node inumber of triangles connected to node i​
 In the context of the Lightning Network, which facilitates off-chain Bitcoin transactions through a system of payment channels, the topology of the network significantly affects its efficiency, robustness, and speed. Triangles and pentagons, as network motifs, play distinctive roles in how payments are routed and settled. Here's a theoretical exploration of how triangles and pentagons might function in the Lightning Network, along with advice for node runners considering these structures:
 
 ### Triangles in the Lightning Network
@@ -121,9 +144,8 @@ For the Lightning Network, where speed, reliability, and efficiency are paramoun
 
 Node runners should consider their strategic goals, operational capabilities, and the typical transaction patterns of their channels when deciding between forming triangles or pentagons.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA2NjA4ODYsLTEzODg2MDc5MTIsOD
-M1OTA4MTgxLDIwNDMyNjMxNDcsMTMyNDE3NTQwMywxODIyNDE3
-MjU3LC0xMjU0NDMwOTU0LC0xNDM0MzQ4MjI0LC05NzYzODIzMT
-csLTE1NzIxOTQ3MjcsLTMxMTQ4MjgwNiw3MzA5OTgxMTZdfQ==
-
+eyJoaXN0b3J5IjpbLTY5MTA2NDczOCwtMTM4ODYwNzkxMiw4Mz
+U5MDgxODEsMjA0MzI2MzE0NywxMzI0MTc1NDAzLDE4MjI0MTcy
+NTcsLTEyNTQ0MzA5NTQsLTE0MzQzNDgyMjQsLTk3NjM4MjMxNy
+wtMTU3MjE5NDcyNywtMzExNDgyODA2LDczMDk5ODExNl19
 -->
