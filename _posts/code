@@ -1,0 +1,61 @@
+FROM ubuntu:22.04
+
+LABEL maintainer="room Payments and Finance Engineering"
+LABEL application="aimon"
+
+ENV DEBIAN_FRONTEND=noninteractive
+ENV HTTPD_PREFIX=/etc/apache2
+ENV HTTPD_VERSION=2.4.54
+ENV SERVER_PORT=4444
+
+# Install Apache, PHP, and essential tools
+RUN apt-get update && apt-get install -y \
+    apache2 \
+    php \
+    libapache2-mod-php \
+    libssl-dev \
+    libpsl-dev \
+    gettext \
+    netcat \
+    perl \
+    bc \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Create required users and directories
+RUN groupadd -r www-data && useradd -r -g www-data www-data \
+    && mkdir -p /opt/room/data/aimon/html \
+    && mkdir -p /opt/room/logs \
+    && mkdir -p /opt/room/apps/aimon \
+    && chown -R www-data:www-data /opt/room \
+    && chmod -R 755 /opt/room
+
+ENV XOOM_HOME=/opt/room \
+    AIMON_VERSION=1.1 \
+    BUILD_VERSION=1 \
+    XOOM_APP_BASE=/opt/room/apps/aimon \
+    APP_ID=aimon
+
+# Copy internal entrypoint and property scripts
+COPY docker/startup/docker-entrypoint.sh $TOOM_APP_BASE/
+COPY $XOOM_APP_BASE/write-properties.sh $TOOM_APP_BASE/
+
+# Copy site content
+COPY docker/files/content /opt/room/data/aimon/
+COPY docker/files/index.html /opt/room/data/aimon/index.html
+
+# Apache config and modules (WARNING: validate these)
+COPY apache-kit-ssg/conf $HTTPD_PREFIX/conf
+COPY apache-kit-ssg/lib/Ubuntu14_64/mod_pf.so $HTTPD_PREFIX/modules/mod_pf.so
+COPY apache-kit-ssg/lib/Ubuntu14_64/libopentoken.so $HTTPD_PREFIX/modules/libopentoken.so
+
+# Optional internal content
+COPY internal /opt/room/data/aimon/internal
+COPY ["OPS.md", "/opt/room/data/aimon/internal/docs/"]
+
+RUN chown -R www-data:www-data /opt/room/data/aimon/_h5ai
+
+EXPOSE $SERVER_PORT
+WORKDIR $HTTPD_PREFIX
+
+ENTRYPOINT ["bash", "/opt/xoom/apps/aimon/docker-entrypoint.sh"]
+CMD ["apache2ctl", "-D", "FOREGROUND"]
