@@ -59,3 +59,39 @@ WORKDIR $HTTPD_PREFIX
 
 ENTRYPOINT ["bash", "/opt/xoom/apps/aimon/docker-entrypoint.sh"]
 CMD ["apache2ctl", "-D", "FOREGROUND"]
+
+
+
+
+
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+# 1. Write dynamic properties (if you have one)
+if [[ -x "${TOOM_APP_BASE}/write-properties.sh" ]]; then
+  echo "Running write-properties.sh…"
+  "${TOOM_APP_BASE}/write-properties.sh"
+fi
+
+# 2. Enable needed Apache modules
+echo "Enabling Apache modules (ssl, rewrite, headers)…"
+a2enmod ssl rewrite headers || true
+
+# 3. Install your Aimon site config
+#    (assumes you’ve copied aimon.conf into sites-available)
+if [[ -f "${HTTPD_PREFIX}/conf/aimon.conf" ]]; then
+  echo "Deploying aimon.conf to Apache sites-available…"
+  cp "${HTTPD_PREFIX}/conf/aimon.conf" "${HTTPD_PREFIX}/sites-available/aimon.conf"
+  a2ensite aimon.conf
+fi
+
+# 4. Adjust Apache listen port
+echo "Configuring Apache to listen on port ${SERVER_PORT}…"
+sed -i "s/^Listen .*/Listen ${SERVER_PORT}/" "${HTTPD_PREFIX}/ports.conf"
+
+# 5. Fix ownership (just in case)
+chown -R www-data:www-data /opt/xoom
+
+# 6. Start Apache in foreground
+echo "Starting Apache…"
+exec apache2ctl -D FOREGROUND
